@@ -1,0 +1,98 @@
+root@mmlab-RTX3090-coconut:/workspace/futures/temporal_context_aggregation# horovodrun -np 2 -H localhost:2 python train_eval.py --moco_k 4096 --learning_rate 1e-5 --batch_sz 64 --moco_m 0.9 -nn 16 --random_sampling
+[0]<stderr>:100%|██████████| 50/50 [00:02<00:00, 17.11it/s]
+[0]<stderr>:/workspace/futures/temporal_context_aggregation/evaluation.py:217: VisibleDeprecationWarning: Creating an ndarray from ragged nested sequences (which is a list-or-tuple of lists-or-tuples-or ndarrays with different lengths or shapes) is deprecated. If you meant to do this, you must specify 'dtype=object' when creating the ndarray.
+[0]<stderr>:  queries = np.array(queries)
+[0]<stderr>:100%|██████████| 5000/5000 [03:43<00:00, 22.40it/s]
+[0]<stdout>:===== FIVR-5K Dataset =====
+[0]<stdout>:Queries: 50 videos
+[0]<stdout>:Database: 5049 videos
+[0]<stdout>:----------------
+[0]<stdout>:DSVR mAP: 0.7736
+[0]<stdout>:CSVR mAP: 0.7729
+[0]<stdout>:ISVR mAP: 0.7144
+[0]<stdout>:Train Epoch: 1 [640/2806 (23%)]	Loss: 2925.840332
+[0]<stdout>:Train Epoch: 1 [1280/2806 (46%)]	Loss: 1375.284912
+[0]<stdout>:Train Epoch: 1 [1920/2806 (68%)]	Loss: 516.246094
+[0]<stdout>:Train Epoch: 1 [2560/2806 (91%)]	Loss: 362.322906
+[0]<stderr>:100%|██████████| 50/50 [00:00<00:00, 60.79it/s]
+[0]<stderr>:100%|██████████| 5000/5000 [02:37<00:00, 31.70it/s]
+[0]<stdout>:===== FIVR-5K Dataset =====
+[0]<stdout>:Queries: 50 videos
+[0]<stdout>:Database: 5049 videos
+[0]<stdout>:----------------
+[0]<stdout>:DSVR mAP: 0.7809
+[0]<stdout>:CSVR mAP: 0.7775
+[0]<stdout>:ISVR mAP: 0.7167
+[0]<stdout>:Train Epoch: 2 [640/2806 (23%)]	Loss: 282.105652
+[0]<stdout>:Train Epoch: 2 [1280/2806 (46%)]	Loss: 428.479919
+[0]<stdout>:Train Epoch: 2 [1920/2806 (68%)]	Loss: 403.847046
+[0]<stdout>:Train Epoch: 2 [2560/2806 (91%)]	Loss: 225.251678
+[0]<stderr>:100%|██████████| 50/50 [00:00<00:00, 84.14it/s]
+[0]<stderr>:100%|██████████| 5000/5000 [02:37<00:00, 31.68it/s]
+[0]<stdout>:===== FIVR-5K Dataset =====
+[0]<stdout>:Queries: 50 videos
+[0]<stdout>:Database: 5049 videos
+[0]<stdout>:----------------
+[0]<stdout>:DSVR mAP: 0.7827
+[0]<stdout>:CSVR mAP: 0.7783
+[0]<stdout>:ISVR mAP: 0.7154
+[0]<stdout>:Train Epoch: 3 [640/2806 (23%)]	Loss: 212.340637
+[0]<stdout>:Train Epoch: 3 [1280/2806 (46%)]	Loss: 132.327286
+[0]<stdout>:Train Epoch: 3 [1920/2806 (68%)]	Loss: 261.212585
+[0]<stdout>:Train Epoch: 3 [2560/2806 (91%)]	Loss: 217.391617
+[0]<stderr>:100%|██████████| 50/50 [00:00<00:00, 74.63it/s]
+[0]<stderr>:100%|██████████| 5000/5000 [02:38<00:00, 31.58it/s]
+[0]<stdout>:===== FIVR-5K Dataset =====
+[0]<stdout>:Queries: 50 videos
+[0]<stdout>:Database: 5049 videos
+[0]<stdout>:----------------
+[0]<stdout>:DSVR mAP: 0.7816
+[0]<stdout>:CSVR mAP: 0.7769
+[0]<stdout>:ISVR mAP: 0.7143
+[0]<stdout>:Train Epoch: 4 [640/2806 (23%)]	Loss: 107.135216
+[0]<stdout>:Train Epoch: 4 [1280/2806 (46%)]	Loss: 99.440331
+[0]<stdout>:Train Epoch: 4 [1920/2806 (68%)]	Loss: 204.298431
+[0]<stdout>:Train Epoch: 4 [2560/2806 (91%)]	Loss: 202.447540
+[0]<stderr>:100%|██████████| 50/50 [00:00<00:00, 91.37it/s]
+[0]<stderr>:100%|██████████| 5000/5000 [02:37<00:00, 31.79it/s]
+[0]<stdout>:===== FIVR-5K Dataset =====
+[0]<stdout>:Queries: 50 videos
+[0]<stdout>:Database: 5049 videos
+[0]<stdout>:----------------
+[0]<stdout>:DSVR mAP: 0.7790
+[0]<stdout>:CSVR mAP: 0.7733
+[0]<stdout>:ISVR mAP: 0.7125
+[0]<stdout>:Train Epoch: 5 [640/2806 (23%)]	Loss: 208.675598
+[0]<stdout>:Train Epoch: 5 [1280/2806 (46%)]	Loss: 249.553101
+[0]<stdout>:Train Epoch: 5 [1920/2806 (68%)]	Loss: 245.403275
+[0]<stdout>:Train Epoch: 5 [2560/2806 (91%)]	Loss: 249.815933
+[0]<stdout>:Epoch complete in: 0:18:33.143680
+[0]<stdout>:Saving model...
+[0]<stdout>:Train Epoch: 6 [640/2806 (23%)]	Loss: 158.470932
+[0]<stdout>:Train Epoch: 6 [1280/2806 (46%)]	Loss: 268.793152
+[0]<stdout>:Train Epoch: 6 [1920/2806 (68%)]	Loss: 185.976578
+[0]<stdout>:Train Epoch: 6 [2560/2806 (91%)]	Loss: 311.704956
+[0]<stderr>:100%|██████████| 50/50 [00:00<00:00, 73.11it/s]
+[0]<stderr>:/workspace/futures/temporal_context_aggregation/evaluation.py:217: VisibleDeprecationWarning: Creating an ndarray from ragged nested sequences (which is a list-or-tuple of lists-or-tuples-or ndarrays with different lengths or shapes) is deprecated. If you meant to do this, you must specify 'dtype=object' when creating the ndarray.
+[0]<stderr>:  queries = np.array(queries)
+[0]<stderr>:100%|██████████| 5000/5000 [02:50<00:00, 29.40it/s]
+[0]<stdout>:===== FIVR-5K Dataset =====
+[0]<stdout>:Queries: 50 videos
+[0]<stdout>:Database: 5049 videos
+[0]<stdout>:----------------
+[0]<stdout>:DSVR mAP: 0.7524
+[0]<stdout>:CSVR mAP: 0.7426
+[0]<stdout>:ISVR mAP: 0.6838
+[0]<stdout>:Train Epoch: 7 [640/2806 (23%)]	Loss: 417.050995
+[0]<stdout>:Train Epoch: 7 [1280/2806 (46%)]	Loss: 264.309753
+[0]<stdout>:Train Epoch: 7 [1920/2806 (68%)]	Loss: 498.815338
+[0]<stdout>:Train Epoch: 7 [2560/2806 (91%)]	Loss: 451.426422
+[0]<stderr>:100%|██████████| 50/50 [00:00<00:00, 82.42it/s]
+[0]<stderr>:100%|██████████| 5000/5000 [02:51<00:00, 29.13it/s]
+[0]<stdout>:===== FIVR-5K Dataset =====
+[0]<stdout>:Queries: 50 videos
+[0]<stdout>:Database: 5049 videos
+[0]<stdout>:----------------
+[0]<stdout>:DSVR mAP: 0.7270
+[0]<stdout>:CSVR mAP: 0.7183
+[0]<stdout>:ISVR mAP: 0.6585

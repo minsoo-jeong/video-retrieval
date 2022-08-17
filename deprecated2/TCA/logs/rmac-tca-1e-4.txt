@@ -1,0 +1,165 @@
+root@mmlab-RTX3090-coconut:/workspace/futures/temporal_context_aggregation# horovodrun -np 2 -H localhost:2 python train_eval.py --learning_rate 1e-4 --batch_sz 64 --moco_k 4096 --moco_m 0.99 --moco_t 1. -nn 16 --random_sampling
+[0]<stdout>:Namespace(annotation_path='datasets/vcdb.pickle', batch_sz=64, cuda=True, epochs=40, feature_path='/mlsun/ms/tca/features/vcdb90k-resnet50-rmac.h5py', fp16_allreduce=False, learning_rate=0.0001, moco_k=4096, moco_m=0.99, moco_t=1.0, model_path='/mlsun/ms/tca/ckpts/vcdb90k-resnet50-rmac', momentum=0.9, neg_num=16, normalize_input=False, num_clusters=256, num_layers=1, num_readers=16, num_workers=4, output_dim=2048, padding_size=64, pca_components=2048, print_freq=10, random_sampling=True, test_feature_path='/mlsun/ms/tca/features/fivr5k-resnet50-rmac.h5py', test_metric='chamfer', test_padding_size=300, test_random_sampling=False, test_use_comparator=False, use_adasum=False, weight_decay=0.0001)
+[1]<stdout>:Namespace(annotation_path='datasets/vcdb.pickle', batch_sz=64, cuda=True, epochs=40, feature_path='/mlsun/ms/tca/features/vcdb90k-resnet50-rmac.h5py', fp16_allreduce=False, learning_rate=0.0001, moco_k=4096, moco_m=0.99, moco_t=1.0, model_path='/mlsun/ms/tca/ckpts/vcdb90k-resnet50-rmac', momentum=0.9, neg_num=16, normalize_input=False, num_clusters=256, num_layers=1, num_readers=16, num_workers=4, output_dim=2048, padding_size=64, pca_components=2048, print_freq=10, random_sampling=True, test_feature_path='/mlsun/ms/tca/features/fivr5k-resnet50-rmac.h5py', test_metric='chamfer', test_padding_size=300, test_random_sampling=False, test_use_comparator=False, use_adasum=False, weight_decay=0.0001)
+[0]<stdout>:Train Epoch: 1 [640/2806 (23%)]	Loss: 1.725902(3.9839)
+[0]<stdout>:Train Epoch: 1 [1280/2806 (46%)]	Loss: 0.524059(2.2921)
+[0]<stdout>:Train Epoch: 1 [1920/2806 (68%)]	Loss: 0.221410(1.6288)
+[0]<stdout>:Train Epoch: 1 [2560/2806 (91%)]	Loss: 0.327007(1.3177)
+[0]<stderr>:100%|██████████| 50/50 [00:00<00:00, 85.16it/s]
+[0]<stderr>:/workspace/futures/temporal_context_aggregation/evaluation.py:217: VisibleDeprecationWarning: Creating an ndarray from ragged nested sequences (which is a list-or-tuple of lists-or-tuples-or ndarrays with different lengths or shapes) is deprecated. If you meant to do this, you must specify 'dtype=object' when creating the ndarray.
+[0]<stderr>:  queries = np.array(queries)
+[0]<stderr>:100%|██████████| 5000/5000 [02:32<00:00, 32.84it/s]
+[0]<stdout>:===== FIVR-5K Dataset =====
+[0]<stdout>:Queries: 50 videos
+[0]<stdout>:Database: 5049 videos
+[0]<stdout>:----------------
+[0]<stdout>:DSVR mAP: 0.7584
+[0]<stdout>:CSVR mAP: 0.7552
+[0]<stdout>:ISVR mAP: 0.6975
+[0]<stdout>:Train Epoch: 2 [640/2806 (23%)]	Loss: 0.375897(0.4499)
+[0]<stdout>:Train Epoch: 2 [1280/2806 (46%)]	Loss: 0.568316(0.4740)
+[0]<stdout>:Train Epoch: 2 [1920/2806 (68%)]	Loss: 0.573312(0.5567)
+[0]<stdout>:Train Epoch: 2 [2560/2806 (91%)]	Loss: 0.485978(0.5496)
+[0]<stderr>:100%|██████████| 50/50 [00:00<00:00, 91.74it/s]
+[0]<stderr>:100%|██████████| 5000/5000 [02:34<00:00, 32.30it/s]
+[0]<stdout>:===== FIVR-5K Dataset =====
+[0]<stdout>:Queries: 50 videos
+[0]<stdout>:Database: 5049 videos
+[0]<stdout>:----------------
+[0]<stdout>:DSVR mAP: 0.7055
+[0]<stdout>:CSVR mAP: 0.7010
+[0]<stdout>:ISVR mAP: 0.6466
+[0]<stdout>:Train Epoch: 3 [640/2806 (23%)]	Loss: 0.621226(0.4828)
+[0]<stdout>:Train Epoch: 3 [1280/2806 (46%)]	Loss: 0.396537(0.4724)
+[0]<stdout>:Train Epoch: 3 [1920/2806 (68%)]	Loss: 0.393075(0.4761)
+[0]<stdout>:Train Epoch: 3 [2560/2806 (91%)]	Loss: 0.269084(0.4676)
+[0]<stderr>:100%|██████████| 50/50 [00:00<00:00, 93.64it/s]
+[0]<stderr>:100%|██████████| 5000/5000 [02:33<00:00, 32.56it/s]
+[0]<stdout>:===== FIVR-5K Dataset =====
+[0]<stdout>:Queries: 50 videos
+[0]<stdout>:Database: 5049 videos
+[0]<stdout>:----------------
+[0]<stdout>:DSVR mAP: 0.6523
+[0]<stdout>:CSVR mAP: 0.6459
+[0]<stdout>:ISVR mAP: 0.6013
+[0]<stdout>:Train Epoch: 4 [640/2806 (23%)]	Loss: 0.361701(0.3916)
+[0]<stdout>:Train Epoch: 4 [1280/2806 (46%)]	Loss: 0.134174(0.3307)
+[0]<stdout>:Train Epoch: 4 [1920/2806 (68%)]	Loss: 0.218070(0.3226)
+[0]<stdout>:Train Epoch: 4 [2560/2806 (91%)]	Loss: 0.112327(0.3159)
+[0]<stderr>:100%|██████████| 50/50 [00:00<00:00, 88.43it/s]
+[0]<stderr>:100%|██████████| 5000/5000 [02:33<00:00, 32.54it/s]
+[0]<stdout>:===== FIVR-5K Dataset =====
+[0]<stdout>:Queries: 50 videos
+[0]<stdout>:Database: 5049 videos
+[0]<stdout>:----------------
+[0]<stdout>:DSVR mAP: 0.5923
+[0]<stdout>:CSVR mAP: 0.5863
+[0]<stdout>:ISVR mAP: 0.5463
+[0]<stdout>:Train Epoch: 5 [640/2806 (23%)]	Loss: 0.351243(0.2932)
+[0]<stdout>:Train Epoch: 5 [1280/2806 (46%)]	Loss: 0.221410(0.2638)
+[0]<stdout>:Train Epoch: 5 [1920/2806 (68%)]	Loss: 0.306921(0.2786)
+[0]<stdout>:Train Epoch: 5 [2560/2806 (91%)]	Loss: 0.270678(0.2832)
+[0]<stdout>:Epoch complete in: 0:12:35.054598
+[0]<stdout>:Saving model...
+[0]<stderr>:100%|██████████| 50/50 [00:00<00:00, 79.98it/s]
+[0]<stderr>:100%|██████████| 5000/5000 [02:33<00:00, 32.56it/s]
+[0]<stdout>:===== FIVR-5K Dataset =====
+[0]<stdout>:Queries: 50 videos
+[0]<stdout>:Database: 5049 videos
+[0]<stdout>:----------------
+[0]<stdout>:DSVR mAP: 0.5670
+[0]<stdout>:CSVR mAP: 0.5605
+[0]<stdout>:ISVR mAP: 0.5197
+[0]<stdout>:Train Epoch: 6 [640/2806 (23%)]	Loss: 0.135188(0.3237)
+[0]<stdout>:Train Epoch: 6 [1280/2806 (46%)]	Loss: 0.124864(0.3384)
+[0]<stdout>:Train Epoch: 6 [1920/2806 (68%)]	Loss: 0.326819(0.3637)
+[0]<stdout>:Train Epoch: 6 [2560/2806 (91%)]	Loss: 0.320313(0.3582)
+[0]<stderr>:100%|██████████| 50/50 [00:00<00:00, 89.43it/s]
+[0]<stderr>:100%|██████████| 5000/5000 [02:33<00:00, 32.55it/s]
+[0]<stdout>:===== FIVR-5K Dataset =====
+[0]<stdout>:Queries: 50 videos
+[0]<stdout>:Database: 5049 videos
+[0]<stdout>:----------------
+[0]<stdout>:DSVR mAP: 0.5185
+[0]<stdout>:CSVR mAP: 0.5130
+[0]<stdout>:ISVR mAP: 0.4738
+[0]<stdout>:Train Epoch: 7 [640/2806 (23%)]	Loss: 0.239819(0.3241)
+[0]<stdout>:Train Epoch: 7 [1280/2806 (46%)]	Loss: 0.276382(0.3335)
+[0]<stdout>:Train Epoch: 7 [1920/2806 (68%)]	Loss: 0.685906(0.3669)
+[0]<stdout>:Train Epoch: 7 [2560/2806 (91%)]	Loss: 0.224616(0.3692)
+[0]<stderr>:100%|██████████| 50/50 [00:00<00:00, 73.93it/s]
+[0]<stderr>:100%|██████████| 5000/5000 [02:33<00:00, 32.48it/s]
+[0]<stdout>:===== FIVR-5K Dataset =====
+[0]<stdout>:Queries: 50 videos
+[0]<stdout>:Database: 5049 videos
+[0]<stdout>:----------------
+[0]<stdout>:DSVR mAP: 0.5555
+[0]<stdout>:CSVR mAP: 0.5517
+[0]<stdout>:ISVR mAP: 0.5063
+[0]<stdout>:Train Epoch: 8 [640/2806 (23%)]	Loss: 0.889214(0.4618)
+[0]<stdout>:Train Epoch: 8 [1280/2806 (46%)]	Loss: 0.136109(0.3866)
+[0]<stdout>:Train Epoch: 8 [1920/2806 (68%)]	Loss: 0.076612(0.3414)
+[0]<stdout>:Train Epoch: 8 [2560/2806 (91%)]	Loss: 0.396733(0.3456)
+[0]<stderr>:100%|██████████| 50/50 [00:00<00:00, 90.24it/s]
+[0]<stderr>:100%|██████████| 5000/5000 [02:33<00:00, 32.55it/s]
+[0]<stdout>:===== FIVR-5K Dataset =====
+[0]<stdout>:Queries: 50 videos
+[0]<stdout>:Database: 5049 videos
+[0]<stdout>:----------------
+[0]<stdout>:DSVR mAP: 0.4962
+[0]<stdout>:CSVR mAP: 0.4916
+[0]<stdout>:ISVR mAP: 0.4614
+[0]<stdout>:Train Epoch: 9 [640/2806 (23%)]	Loss: 0.306734(0.8658)
+[0]<stdout>:Train Epoch: 9 [1280/2806 (46%)]	Loss: 0.101055(0.6916)
+[0]<stdout>:Train Epoch: 9 [1920/2806 (68%)]	Loss: 0.777518(0.6094)
+[0]<stdout>:Train Epoch: 9 [2560/2806 (91%)]	Loss: 0.611327(0.5527)
+[0]<stderr>:100%|██████████| 50/50 [00:00<00:00, 89.70it/s]
+[0]<stderr>:100%|██████████| 5000/5000 [02:34<00:00, 32.35it/s]
+[0]<stdout>:===== FIVR-5K Dataset =====
+[0]<stdout>:Queries: 50 videos
+[0]<stdout>:Database: 5049 videos
+[0]<stdout>:----------------
+[0]<stdout>:DSVR mAP: 0.4729
+[0]<stdout>:CSVR mAP: 0.4712
+[0]<stdout>:ISVR mAP: 0.4403
+[0]<stdout>:Train Epoch: 10 [640/2806 (23%)]	Loss: 0.590694(0.3380)
+[0]<stdout>:Train Epoch: 10 [1280/2806 (46%)]	Loss: 0.489122(0.3377)
+[0]<stdout>:Train Epoch: 10 [1920/2806 (68%)]	Loss: 0.112220(0.3280)
+[0]<stdout>:Train Epoch: 10 [2560/2806 (91%)]	Loss: 0.334962(0.3651)
+[0]<stdout>:Epoch complete in: 0:27:47.592648
+[0]<stdout>:Saving model...
+[0]<stderr>:100%|██████████| 50/50 [00:00<00:00, 79.23it/s]
+[0]<stderr>:100%|██████████| 5000/5000 [02:34<00:00, 32.39it/s]
+[0]<stdout>:===== FIVR-5K Dataset =====
+[0]<stdout>:Queries: 50 videos
+[0]<stdout>:Database: 5049 videos
+[0]<stdout>:----------------
+[0]<stdout>:DSVR mAP: 0.4923
+[0]<stdout>:CSVR mAP: 0.4906
+[0]<stdout>:ISVR mAP: 0.4519
+[0]<stdout>:Train Epoch: 11 [640/2806 (23%)]	Loss: 0.182593(0.2766)
+[0]<stdout>:Train Epoch: 11 [1280/2806 (46%)]	Loss: 0.459728(0.2512)
+[0]<stdout>:Train Epoch: 11 [1920/2806 (68%)]	Loss: 0.608153(0.3222)
+[0]<stdout>:Train Epoch: 11 [2560/2806 (91%)]	Loss: 0.094489(0.3202)
+[0]<stderr>:100%|██████████| 50/50 [00:00<00:00, 92.43it/s]
+[0]<stderr>:100%|██████████| 5000/5000 [02:33<00:00, 32.51it/s]
+[0]<stdout>:===== FIVR-5K Dataset =====
+[0]<stdout>:Queries: 50 videos
+[0]<stdout>:Database: 5049 videos
+[0]<stdout>:----------------
+[0]<stdout>:DSVR mAP: 0.4447
+[0]<stdout>:CSVR mAP: 0.4412
+[0]<stdout>:ISVR mAP: 0.4136
+[0]<stdout>:Train Epoch: 12 [640/2806 (23%)]	Loss: 0.396533(0.3270)
+[0]<stdout>:Train Epoch: 12 [1280/2806 (46%)]	Loss: 0.647350(0.3936)
+[0]<stdout>:Train Epoch: 12 [1920/2806 (68%)]	Loss: 0.245330(0.4478)
+[0]<stdout>:Train Epoch: 12 [2560/2806 (91%)]	Loss: 0.101988(0.4004)
+[0]<stderr>:100%|██████████| 50/50 [00:00<00:00, 87.01it/s]
+[0]<stderr>:100%|██████████| 5000/5000 [02:33<00:00, 32.52it/s]
+[0]<stdout>:===== FIVR-5K Dataset =====
+[0]<stdout>:Queries: 50 videos
+[0]<stdout>:Database: 5049 videos
+[0]<stdout>:----------------
+[0]<stdout>:DSVR mAP: 0.4646
+[0]<stdout>:CSVR mAP: 0.4638
+[0]<stdout>:ISVR mAP: 0.4291
