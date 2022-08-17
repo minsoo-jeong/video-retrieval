@@ -1,0 +1,3 @@
+- `extract_frames.py`: 프레임 추출
+- `parse_video_meta.py`: 비디오 & 프레임 메타데이터 저장
+- `sampling_vcdb_frames.py`: vcdb 비디오 당 N 프레임 샘플링
