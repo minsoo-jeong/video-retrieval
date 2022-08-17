@@ -1,0 +1,3698 @@
+{
+  "3504e360accbaccb1580befbb441f1019664c2bb": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/baggio_penalty_1994/3504e360accbaccb1580befbb441f1019664c2bb.mp4",
+    "average_rate": 30.0,
+    "duration": 9.333,
+    "nb_frames": 280,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/3504e360accbaccb1580befbb441f1019664c2bb"
+  },
+  "e901a631b00f4ad0c9d161d686fac1339e1e3535": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/baggio_penalty_1994/e901a631b00f4ad0c9d161d686fac1339e1e3535.flv",
+    "average_rate": 10.172,
+    "duration": 6.408,
+    "nb_frames": 59,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/e901a631b00f4ad0c9d161d686fac1339e1e3535"
+  },
+  "5c5714c0a56fd2a96f99db2f59b0d03659d77cdf": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/baggio_penalty_1994/5c5714c0a56fd2a96f99db2f59b0d03659d77cdf.flv",
+    "average_rate": 25.958,
+    "duration": 25.936,
+    "nb_frames": 659,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/5c5714c0a56fd2a96f99db2f59b0d03659d77cdf"
+  },
+  "458db5aa227ae49ceb8bc1bed5f9cf5b4bed63f2": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/baggio_penalty_1994/458db5aa227ae49ceb8bc1bed5f9cf5b4bed63f2.flv",
+    "average_rate": 25.0,
+    "duration": 31.12,
+    "nb_frames": 778,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/458db5aa227ae49ceb8bc1bed5f9cf5b4bed63f2"
+  },
+  "6d1466ebc4de7e5ddb229bde090b5c5acac15c0c": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/baggio_penalty_1994/6d1466ebc4de7e5ddb229bde090b5c5acac15c0c.flv",
+    "average_rate": 25.094,
+    "duration": 11.238,
+    "nb_frames": 268,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/6d1466ebc4de7e5ddb229bde090b5c5acac15c0c"
+  },
+  "37a935b4c21662e183a0dd632f40d5fd6900c42b": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/beckham_70_yard_goal/37a935b4c21662e183a0dd632f40d5fd6900c42b.mp4",
+    "average_rate": 6.0,
+    "duration": 42.333,
+    "nb_frames": 254,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/37a935b4c21662e183a0dd632f40d5fd6900c42b"
+  },
+  "67824b87c0698c499acad123b7498ae17f97bf6d": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/baggio_penalty_1994/67824b87c0698c499acad123b7498ae17f97bf6d.flv",
+    "average_rate": 30.0,
+    "duration": 21.176,
+    "nb_frames": 619,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/67824b87c0698c499acad123b7498ae17f97bf6d"
+  },
+  "6d1a89c83d554fc6a5e39fcadb172a79baf140fd": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/baggio_penalty_1994/6d1a89c83d554fc6a5e39fcadb172a79baf140fd.mp4",
+    "average_rate": 29.97,
+    "duration": 27.56,
+    "nb_frames": 826,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/6d1a89c83d554fc6a5e39fcadb172a79baf140fd"
+  },
+  "9423340949f55d7a089e881ccc35f23dff3fccf7": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/baggio_penalty_1994/9423340949f55d7a089e881ccc35f23dff3fccf7.flv",
+    "average_rate": 30.0,
+    "duration": 21.176,
+    "nb_frames": 619,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/9423340949f55d7a089e881ccc35f23dff3fccf7"
+  },
+  "37b31d607d31a47d347b15dae2b8aa63e57861eb": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/baggio_penalty_1994/37b31d607d31a47d347b15dae2b8aa63e57861eb.flv",
+    "average_rate": 25.0,
+    "duration": 72.957,
+    "nb_frames": 1811,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/37b31d607d31a47d347b15dae2b8aa63e57861eb"
+  },
+  "1357538fd1fd2975a8b3f750d5f6b13695aa4e28": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/beckham_70_yard_goal/1357538fd1fd2975a8b3f750d5f6b13695aa4e28.flv",
+    "average_rate": 12.0,
+    "duration": 42.817,
+    "nb_frames": 512,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/1357538fd1fd2975a8b3f750d5f6b13695aa4e28"
+  },
+  "4ffe88b2da93f727952dc3104e70c0b0665d9e1a": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/beckham_70_yard_goal/4ffe88b2da93f727952dc3104e70c0b0665d9e1a.flv",
+    "average_rate": 30.0,
+    "duration": 24.218,
+    "nb_frames": 723,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/4ffe88b2da93f727952dc3104e70c0b0665d9e1a"
+  },
+  "54f841cdb1b1a498c656bd541d23c690b70737bd": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/beckham_70_yard_goal/54f841cdb1b1a498c656bd541d23c690b70737bd.flv",
+    "average_rate": 30.0,
+    "duration": 17.966,
+    "nb_frames": 539,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/54f841cdb1b1a498c656bd541d23c690b70737bd"
+  },
+  "1f4f6311bb4acc0bc72e4a915a32093a7a85741c": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/beckham_70_yard_goal/1f4f6311bb4acc0bc72e4a915a32093a7a85741c.flv",
+    "average_rate": 30.0,
+    "duration": 43.212,
+    "nb_frames": 1281,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/1f4f6311bb4acc0bc72e4a915a32093a7a85741c"
+  },
+  "66e0225621e48946b7ab09027c18c83b69564002": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/beckham_70_yard_goal/66e0225621e48946b7ab09027c18c83b69564002.flv",
+    "average_rate": 29.97,
+    "duration": 21.083,
+    "nb_frames": 629,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/66e0225621e48946b7ab09027c18c83b69564002"
+  },
+  "52ac7a125ee96ff91ca49c197d3a79b6c0857e68": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/beckham_70_yard_goal/52ac7a125ee96ff91ca49c197d3a79b6c0857e68.flv",
+    "average_rate": 30.0,
+    "duration": 43.003,
+    "nb_frames": 1281,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/52ac7a125ee96ff91ca49c197d3a79b6c0857e68"
+  },
+  "63407cc775874d569f82a2060c636b785c09a487": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/beckham_70_yard_goal/63407cc775874d569f82a2060c636b785c09a487.flv",
+    "average_rate": 30.0,
+    "duration": 43.212,
+    "nb_frames": 1281,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/63407cc775874d569f82a2060c636b785c09a487"
+  },
+  "3fe2e54fdb267849aa8aeb0b39ec0d1c7075b391": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/beckham_70_yard_goal/3fe2e54fdb267849aa8aeb0b39ec0d1c7075b391.flv",
+    "average_rate": 29.97,
+    "duration": 57.121,
+    "nb_frames": 1699,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/3fe2e54fdb267849aa8aeb0b39ec0d1c7075b391"
+  },
+  "0056649006c7a250cb4174f1e924768ba2c9d599": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/beckham_70_yard_goal/0056649006c7a250cb4174f1e924768ba2c9d599.flv",
+    "average_rate": 29.97,
+    "duration": 71.982,
+    "nb_frames": 2158,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/0056649006c7a250cb4174f1e924768ba2c9d599"
+  },
+  "904c8ebf782357ae78ebd205fe3428ad76b975a5": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/beautiful_mind_game_theory/904c8ebf782357ae78ebd205fe3428ad76b975a5.flv",
+    "average_rate": 30.0,
+    "duration": 80.336,
+    "nb_frames": 2409,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/904c8ebf782357ae78ebd205fe3428ad76b975a5"
+  },
+  "74018dcbf908a0a0319e889a70a920896b63ed99": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/beckham_70_yard_goal/74018dcbf908a0a0319e889a70a920896b63ed99.flv",
+    "average_rate": 30.0,
+    "duration": 43.305,
+    "nb_frames": 1281,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/74018dcbf908a0a0319e889a70a920896b63ed99"
+  },
+  "9026d2a43d0e645901aa9138136bbc1491856ffb": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/beckham_70_yard_goal/9026d2a43d0e645901aa9138136bbc1491856ffb.flv",
+    "average_rate": 29.97,
+    "duration": 43.839,
+    "nb_frames": 1310,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/9026d2a43d0e645901aa9138136bbc1491856ffb"
+  },
+  "72e97f43a27cdb56a82454758c383c1ac82e91b9": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/beckham_70_yard_goal/72e97f43a27cdb56a82454758c383c1ac82e91b9.flv",
+    "average_rate": 30.0,
+    "duration": 55.774,
+    "nb_frames": 1659,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/72e97f43a27cdb56a82454758c383c1ac82e91b9"
+  },
+  "ab12206048207553294916664d0ebf1cd9e81ef6": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/beckham_70_yard_goal/ab12206048207553294916664d0ebf1cd9e81ef6.flv",
+    "average_rate": 30.0,
+    "duration": 38.366,
+    "nb_frames": 1150,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/ab12206048207553294916664d0ebf1cd9e81ef6"
+  },
+  "b34b81ce75ea0773ba04b3f1ddedf3f3fac823fa": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/beckham_70_yard_goal/b34b81ce75ea0773ba04b3f1ddedf3f3fac823fa.flv",
+    "average_rate": 30.0,
+    "duration": 42.724,
+    "nb_frames": 1280,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/b34b81ce75ea0773ba04b3f1ddedf3f3fac823fa"
+  },
+  "b41c61fb756014444b7974ef25f2c76d5c3b42e4": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/beautiful_mind_game_theory/b41c61fb756014444b7974ef25f2c76d5c3b42e4.flv",
+    "average_rate": 29.97,
+    "duration": 131.731,
+    "nb_frames": 3948,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/b41c61fb756014444b7974ef25f2c76d5c3b42e4"
+  },
+  "c4384b8402362a0351d4e1dc9de0c01d7117322f": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/beckham_70_yard_goal/c4384b8402362a0351d4e1dc9de0c01d7117322f.flv",
+    "average_rate": 30.0,
+    "duration": 43.189,
+    "nb_frames": 1279,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/c4384b8402362a0351d4e1dc9de0c01d7117322f"
+  },
+  "d28c7952b8a60139126446bc81bff5ecebcf5129": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/beckham_70_yard_goal/d28c7952b8a60139126446bc81bff5ecebcf5129.flv",
+    "average_rate": 30.0,
+    "duration": 43.282,
+    "nb_frames": 1281,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/d28c7952b8a60139126446bc81bff5ecebcf5129"
+  },
+  "5f6527456bf2b4c460737a1c222dbd0e70009030": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/beautiful_mind_game_theory/5f6527456bf2b4c460737a1c222dbd0e70009030.flv",
+    "average_rate": 29.97,
+    "duration": 131.731,
+    "nb_frames": 3948,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/5f6527456bf2b4c460737a1c222dbd0e70009030"
+  },
+  "6171d3d87ae377e497199554033bca96a263277b": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/beautiful_mind_game_theory/6171d3d87ae377e497199554033bca96a263277b.mp4",
+    "average_rate": 29.97,
+    "duration": 131.73,
+    "nb_frames": 3948,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/6171d3d87ae377e497199554033bca96a263277b"
+  },
+  "46f2e964ae16f5c27fad70d6849c76616fad7502": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/beautiful_mind_game_theory/46f2e964ae16f5c27fad70d6849c76616fad7502.flv",
+    "average_rate": 25.0,
+    "duration": 170.72,
+    "nb_frames": 4268,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/46f2e964ae16f5c27fad70d6849c76616fad7502"
+  },
+  "a100d2d414f1faa59abdb409e8858d6a4ba96618": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/beckham_70_yard_goal/a100d2d414f1faa59abdb409e8858d6a4ba96618.flv",
+    "average_rate": 29.97,
+    "duration": 75.952,
+    "nb_frames": 2275,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/a100d2d414f1faa59abdb409e8858d6a4ba96618"
+  },
+  "f98075fcebb2596c91cf6886b30a39521cc60855": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/beckham_70_yard_goal/f98075fcebb2596c91cf6886b30a39521cc60855.flv",
+    "average_rate": 29.97,
+    "duration": 31.025,
+    "nb_frames": 929,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/f98075fcebb2596c91cf6886b30a39521cc60855"
+  },
+  "e4516162efaa2bb36d38fbf245bc41b6fd24f443": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/beckham_70_yard_goal/e4516162efaa2bb36d38fbf245bc41b6fd24f443.flv",
+    "average_rate": 29.97,
+    "duration": 57.121,
+    "nb_frames": 1699,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/e4516162efaa2bb36d38fbf245bc41b6fd24f443"
+  },
+  "fa0aa890db611cbe029b8c222663579ec7081bb6": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/beckham_70_yard_goal/fa0aa890db611cbe029b8c222663579ec7081bb6.flv",
+    "average_rate": 30.0,
+    "duration": 42.748,
+    "nb_frames": 1279,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/fa0aa890db611cbe029b8c222663579ec7081bb6"
+  },
+  "97c71f57e83f6ab16906fdd7edc8e3f88d2ceee1": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/beckham_70_yard_goal/97c71f57e83f6ab16906fdd7edc8e3f88d2ceee1.flv",
+    "average_rate": 29.97,
+    "duration": 114.014,
+    "nb_frames": 3417,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/97c71f57e83f6ab16906fdd7edc8e3f88d2ceee1"
+  },
+  "e6f1dd4881c0088d861763dadd83db04fb353500": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/beckham_70_yard_goal/e6f1dd4881c0088d861763dadd83db04fb353500.flv",
+    "average_rate": 29.97,
+    "duration": 75.952,
+    "nb_frames": 2275,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/e6f1dd4881c0088d861763dadd83db04fb353500"
+  },
+  "5d38467d3becf8273bd7ae9028a37fcb0cc3828b": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/beckham_70_yard_goal/5d38467d3becf8273bd7ae9028a37fcb0cc3828b.flv",
+    "average_rate": 29.97,
+    "duration": 165.999,
+    "nb_frames": 4960,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/5d38467d3becf8273bd7ae9028a37fcb0cc3828b"
+  },
+  "0e3aee10650afd14d9a2d8b1440924c7968dd0ee": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/bolt_beijing_100m/0e3aee10650afd14d9a2d8b1440924c7968dd0ee.flv",
+    "average_rate": 30.0,
+    "duration": 32.786,
+    "nb_frames": 979,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/0e3aee10650afd14d9a2d8b1440924c7968dd0ee"
+  },
+  "225eceebd0f24728bd1740f642de6705d43a4da0": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/bolt_beijing_100m/225eceebd0f24728bd1740f642de6705d43a4da0.flv",
+    "average_rate": 30.0,
+    "duration": 32.635,
+    "nb_frames": 979,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/225eceebd0f24728bd1740f642de6705d43a4da0"
+  },
+  "5b1b41404d1bad5d231bd8c7fdbae109e0ea1fc2": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/bolt_beijing_100m/5b1b41404d1bad5d231bd8c7fdbae109e0ea1fc2.flv",
+    "average_rate": 15.0,
+    "duration": 33.135,
+    "nb_frames": 495,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/5b1b41404d1bad5d231bd8c7fdbae109e0ea1fc2"
+  },
+  "2b1a3faf58c38efc393635e3cc007946914516d0": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/bolt_beijing_100m/2b1a3faf58c38efc393635e3cc007946914516d0.flv",
+    "average_rate": 25.0,
+    "duration": 64.342,
+    "nb_frames": 1596,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/2b1a3faf58c38efc393635e3cc007946914516d0"
+  },
+  "8084216caff6082b4e71ae4bbfe556f28a68485f": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/baggio_penalty_1994/8084216caff6082b4e71ae4bbfe556f28a68485f.flv",
+    "average_rate": 29.921,
+    "duration": 263.314,
+    "nb_frames": 7862,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/8084216caff6082b4e71ae4bbfe556f28a68485f"
+  },
+  "c1e67ad94259a2015304ee0b42323dd48f820309": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/bill_clinton_apology_speech/c1e67ad94259a2015304ee0b42323dd48f820309.flv",
+    "average_rate": 30.0,
+    "duration": 115.54,
+    "nb_frames": 3464,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/c1e67ad94259a2015304ee0b42323dd48f820309"
+  },
+  "f9395fd63d7f59cae6103cfb00e116b4a1d0be5e": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/beckham_70_yard_goal/f9395fd63d7f59cae6103cfb00e116b4a1d0be5e.flv",
+    "average_rate": 29.97,
+    "duration": 165.999,
+    "nb_frames": 4960,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/f9395fd63d7f59cae6103cfb00e116b4a1d0be5e"
+  },
+  "0268faef0f0ae291f5ede0a7c3f2d176a6101a08": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/bolt_beijing_100m/0268faef0f0ae291f5ede0a7c3f2d176a6101a08.flv",
+    "average_rate": 25.0,
+    "duration": 166.719,
+    "nb_frames": 4165,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/0268faef0f0ae291f5ede0a7c3f2d176a6101a08"
+  },
+  "12b96f2d055a6eb05241a9aeed95a8be8e5cf79c": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/brazil_vs_brazil_nike_commercial_2012/12b96f2d055a6eb05241a9aeed95a8be8e5cf79c.flv",
+    "average_rate": 23.976,
+    "duration": 61.068,
+    "nb_frames": 1461,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/12b96f2d055a6eb05241a9aeed95a8be8e5cf79c"
+  },
+  "e9e65688a633e99bd3cc6e4078a2ef0157153cd5": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/bill_clinton_apology_speech/e9e65688a633e99bd3cc6e4078a2ef0157153cd5.flv",
+    "average_rate": 25.0,
+    "duration": 253.72,
+    "nb_frames": 6343,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/e9e65688a633e99bd3cc6e4078a2ef0157153cd5"
+  },
+  "630d6d7a0c534717c09acb316b0408a7e80a0a32": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/bill_clinton_apology_speech/630d6d7a0c534717c09acb316b0408a7e80a0a32.flv",
+    "average_rate": 25.0,
+    "duration": 253.72,
+    "nb_frames": 6343,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/630d6d7a0c534717c09acb316b0408a7e80a0a32"
+  },
+  "90d2508777b93f5acace5694e70a2bb00efad351": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/bolt_beijing_100m/90d2508777b93f5acace5694e70a2bb00efad351.flv",
+    "average_rate": 25.0,
+    "duration": 167.276,
+    "nb_frames": 4169,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/90d2508777b93f5acace5694e70a2bb00efad351"
+  },
+  "09ff1e69bf3accfcf029ad987f61f791a005c358": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/bill_clinton_apology_speech/09ff1e69bf3accfcf029ad987f61f791a005c358.flv",
+    "average_rate": 30.0,
+    "duration": 248.0,
+    "nb_frames": 7440,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/09ff1e69bf3accfcf029ad987f61f791a005c358"
+  },
+  "098df9c477ecf6c4f3818b198490b0258163015d": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/bolt_beijing_100m/098df9c477ecf6c4f3818b198490b0258163015d.flv",
+    "average_rate": 29.97,
+    "duration": 231.038,
+    "nb_frames": 6924,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/098df9c477ecf6c4f3818b198490b0258163015d"
+  },
+  "296961b67d89d82a362fb046e333718e1579691d": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/brazil_vs_brazil_nike_commercial_2012/296961b67d89d82a362fb046e333718e1579691d.flv",
+    "average_rate": 23.976,
+    "duration": 60.975,
+    "nb_frames": 1461,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/296961b67d89d82a362fb046e333718e1579691d"
+  },
+  "682329105c2fa291ceb13eebfe0544fb9a115c0b": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/bill_clinton_apology_speech/682329105c2fa291ceb13eebfe0544fb9a115c0b.flv",
+    "average_rate": 29.97,
+    "duration": 256.65,
+    "nb_frames": 7674,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/682329105c2fa291ceb13eebfe0544fb9a115c0b"
+  },
+  "3932dee75c7ddd9785d7d502235892d1b0380f5a": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/brazil_vs_brazil_nike_commercial_2012/3932dee75c7ddd9785d7d502235892d1b0380f5a.flv",
+    "average_rate": 23.976,
+    "duration": 61.045,
+    "nb_frames": 1461,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/3932dee75c7ddd9785d7d502235892d1b0380f5a"
+  },
+  "410ba1c253fb8d4a8ba6e59aa9e39d39cb3b245b": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/bill_clinton_apology_speech/410ba1c253fb8d4a8ba6e59aa9e39d39cb3b245b.flv",
+    "average_rate": 29.97,
+    "duration": 270.373,
+    "nb_frames": 8088,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/410ba1c253fb8d4a8ba6e59aa9e39d39cb3b245b"
+  },
+  "3df02ec5ddb74647d8fb96f08adba8e152050ef9": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/brazil_vs_brazil_nike_commercial_2012/3df02ec5ddb74647d8fb96f08adba8e152050ef9.flv",
+    "average_rate": 23.976,
+    "duration": 60.975,
+    "nb_frames": 1461,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/3df02ec5ddb74647d8fb96f08adba8e152050ef9"
+  },
+  "ab8bd55b3fefca37c7dc57e973a7cea1ae3555ad": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/bill_clinton_apology_speech/ab8bd55b3fefca37c7dc57e973a7cea1ae3555ad.flv",
+    "average_rate": 29.97,
+    "duration": 256.58,
+    "nb_frames": 7674,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/ab8bd55b3fefca37c7dc57e973a7cea1ae3555ad"
+  },
+  "d30e718464711d5903b53d36aef8c8212bad1d07": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/bolt_beijing_100m/d30e718464711d5903b53d36aef8c8212bad1d07.flv",
+    "average_rate": 25.0,
+    "duration": 166.719,
+    "nb_frames": 4165,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/d30e718464711d5903b53d36aef8c8212bad1d07"
+  },
+  "e8e45390a65d2eac522a42b969d2adb87fac7315": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/bolt_beijing_100m/e8e45390a65d2eac522a42b969d2adb87fac7315.flv",
+    "average_rate": 25.0,
+    "duration": 166.742,
+    "nb_frames": 4165,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/e8e45390a65d2eac522a42b969d2adb87fac7315"
+  },
+  "554d94559dcfcdff9312053469c9c64940dbca20": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/brazil_vs_brazil_nike_commercial_2012/554d94559dcfcdff9312053469c9c64940dbca20.flv",
+    "average_rate": 23.976,
+    "duration": 61.045,
+    "nb_frames": 1461,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/554d94559dcfcdff9312053469c9c64940dbca20"
+  },
+  "c7d5eb4355e2ce9c90bf681e28ca740b1e7c62ca": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/bolt_beijing_100m/c7d5eb4355e2ce9c90bf681e28ca740b1e7c62ca.flv",
+    "average_rate": 29.97,
+    "duration": 179.954,
+    "nb_frames": 5389,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/c7d5eb4355e2ce9c90bf681e28ca740b1e7c62ca"
+  },
+  "bb604f57a18455867544e79c2e32bf5583c358d4": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/baggio_penalty_1994/bb604f57a18455867544e79c2e32bf5583c358d4.flv",
+    "average_rate": 29.97,
+    "duration": 423.764,
+    "nb_frames": 12685,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/bb604f57a18455867544e79c2e32bf5583c358d4"
+  },
+  "9c42a6ce9b8bb966040d9eed9255c1001fffdba6": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/brazil_vs_brazil_nike_commercial_2012/9c42a6ce9b8bb966040d9eed9255c1001fffdba6.flv",
+    "average_rate": 23.976,
+    "duration": 60.975,
+    "nb_frames": 1461,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/9c42a6ce9b8bb966040d9eed9255c1001fffdba6"
+  },
+  "ee7a5a870cbe3215a87a2798c81a0d43c118e62d": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/brazil_vs_brazil_nike_commercial_2012/ee7a5a870cbe3215a87a2798c81a0d43c118e62d.flv",
+    "average_rate": 23.976,
+    "duration": 61.045,
+    "nb_frames": 1461,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/ee7a5a870cbe3215a87a2798c81a0d43c118e62d"
+  },
+  "874a7d3cbfc17a46040b2d657667520bde309ca4": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/david_beckham_lights_the_olympic_torch/874a7d3cbfc17a46040b2d657667520bde309ca4.flv",
+    "average_rate": 25.0,
+    "duration": 44.582,
+    "nb_frames": 1111,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/874a7d3cbfc17a46040b2d657667520bde309ca4"
+  },
+  "09b682c899b0727e9990d8e347cdce3df7c5550e": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/david_beckham_lights_the_olympic_torch/09b682c899b0727e9990d8e347cdce3df7c5550e.flv",
+    "average_rate": 15.016,
+    "duration": 83.963,
+    "nb_frames": 1259,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/09b682c899b0727e9990d8e347cdce3df7c5550e"
+  },
+  "56b8c2103555cf056db670c7e952c1fa7418e73d": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/bolt_beijing_100m/56b8c2103555cf056db670c7e952c1fa7418e73d.flv",
+    "average_rate": 29.97,
+    "duration": 238.097,
+    "nb_frames": 7120,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/56b8c2103555cf056db670c7e952c1fa7418e73d"
+  },
+  "5ac8651ce41781440c8595d174748f1a6cad1ff7": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/david_beckham_lights_the_olympic_torch/5ac8651ce41781440c8595d174748f1a6cad1ff7.flv",
+    "average_rate": 30.0,
+    "duration": 65.062,
+    "nb_frames": 1948,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/5ac8651ce41781440c8595d174748f1a6cad1ff7"
+  },
+  "c80dd6dfe271e4887c11bd76248411a8e7c853b0": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/david_beckham_lights_the_olympic_torch/c80dd6dfe271e4887c11bd76248411a8e7c853b0.flv",
+    "average_rate": 30.0,
+    "duration": 65.062,
+    "nb_frames": 1948,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/c80dd6dfe271e4887c11bd76248411a8e7c853b0"
+  },
+  "3f551cfb6385305e37906ce36ba8adc47ebc4cb3": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/dove_evolution_commercial/3f551cfb6385305e37906ce36ba8adc47ebc4cb3.flv",
+    "average_rate": 25.0,
+    "duration": 87.191,
+    "nb_frames": 2167,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/3f551cfb6385305e37906ce36ba8adc47ebc4cb3"
+  },
+  "12e5b295f88e0c387a4326c73613b1c7a05f2eda": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/dove_evolution_commercial/12e5b295f88e0c387a4326c73613b1c7a05f2eda.flv",
+    "average_rate": 29.917,
+    "duration": 74.139,
+    "nb_frames": 2219,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/12e5b295f88e0c387a4326c73613b1c7a05f2eda"
+  },
+  "4fed5faaf981b1082089916f2ff52c844b260efa": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/dove_evolution_commercial/4fed5faaf981b1082089916f2ff52c844b260efa.mp4",
+    "average_rate": 29.97,
+    "duration": 57.223,
+    "nb_frames": 1715,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/4fed5faaf981b1082089916f2ff52c844b260efa"
+  },
+  "46fa74f0aa8e67c49c64802317c4de3894f0e1b9": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/dove_evolution_commercial/46fa74f0aa8e67c49c64802317c4de3894f0e1b9.flv",
+    "average_rate": 29.931,
+    "duration": 74.675,
+    "nb_frames": 2219,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/46fa74f0aa8e67c49c64802317c4de3894f0e1b9"
+  },
+  "487be7c83186caba89dc3004a1bd24350e35a099": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/dove_evolution_commercial/487be7c83186caba89dc3004a1bd24350e35a099.flv",
+    "average_rate": 29.933,
+    "duration": 74.098,
+    "nb_frames": 2219,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/487be7c83186caba89dc3004a1bd24350e35a099"
+  },
+  "56adf39cc2f2f342b0a589038f6d11bac861028e": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/david_beckham_lights_the_olympic_torch/56adf39cc2f2f342b0a589038f6d11bac861028e.flv",
+    "average_rate": 23.976,
+    "duration": 145.798,
+    "nb_frames": 3492,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/56adf39cc2f2f342b0a589038f6d11bac861028e"
+  },
+  "4ebe32fc10f0594a6d6a54df8617d38c2806ec9e": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/dove_evolution_commercial/4ebe32fc10f0594a6d6a54df8617d38c2806ec9e.flv",
+    "average_rate": 29.97,
+    "duration": 70.96,
+    "nb_frames": 2111,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/4ebe32fc10f0594a6d6a54df8617d38c2806ec9e"
+  },
+  "4cfa923904010814758c07c039b0388ed0be08ec": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/dove_evolution_commercial/4cfa923904010814758c07c039b0388ed0be08ec.flv",
+    "average_rate": 29.917,
+    "duration": 74.941,
+    "nb_frames": 2243,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/4cfa923904010814758c07c039b0388ed0be08ec"
+  },
+  "8f8ecb70bd37b0c6fc468c2aab24d6d9b89fe28d": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/david_beckham_lights_the_olympic_torch/8f8ecb70bd37b0c6fc468c2aab24d6d9b89fe28d.flv",
+    "average_rate": 23.976,
+    "duration": 145.798,
+    "nb_frames": 3492,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/8f8ecb70bd37b0c6fc468c2aab24d6d9b89fe28d"
+  },
+  "705d504994af63494d0e6e3e42f64d6b165b9584": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/dove_evolution_commercial/705d504994af63494d0e6e3e42f64d6b165b9584.flv",
+    "average_rate": 25.0,
+    "duration": 86.64,
+    "nb_frames": 2167,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/705d504994af63494d0e6e3e42f64d6b165b9584"
+  },
+  "54c560a6b270647b28ea2746853c937885e2718b": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/david_beckham_lights_the_olympic_torch/54c560a6b270647b28ea2746853c937885e2718b.flv",
+    "average_rate": 30.0,
+    "duration": 153.809,
+    "nb_frames": 4611,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/54c560a6b270647b28ea2746853c937885e2718b"
+  },
+  "707ffde910facfe859304ae491bc154ab33dd2de": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/dove_evolution_commercial/707ffde910facfe859304ae491bc154ab33dd2de.flv",
+    "average_rate": 29.97,
+    "duration": 75.047,
+    "nb_frames": 2234,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/707ffde910facfe859304ae491bc154ab33dd2de"
+  },
+  "75ac32c788e5d5d2e058a24f6a2deffbab3288fc": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/dove_evolution_commercial/75ac32c788e5d5d2e058a24f6a2deffbab3288fc.flv",
+    "average_rate": 29.97,
+    "duration": 70.404,
+    "nb_frames": 2111,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/75ac32c788e5d5d2e058a24f6a2deffbab3288fc"
+  },
+  "7dd1b7a83128fb78f018c557d918b0670989457e": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/dove_evolution_commercial/7dd1b7a83128fb78f018c557d918b0670989457e.mp4",
+    "average_rate": 30.0,
+    "duration": 58.3,
+    "nb_frames": 1749,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/7dd1b7a83128fb78f018c557d918b0670989457e"
+  },
+  "7c9d142bf1b1ede846c059117f422b1c8ea6bb9e": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/dove_evolution_commercial/7c9d142bf1b1ede846c059117f422b1c8ea6bb9e.mp4",
+    "average_rate": 29.917,
+    "duration": 80.823,
+    "nb_frames": 2418,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/7c9d142bf1b1ede846c059117f422b1c8ea6bb9e"
+  },
+  "8870293c58fbed9cc03a738577e5802164199d8b": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/dove_evolution_commercial/8870293c58fbed9cc03a738577e5802164199d8b.flv",
+    "average_rate": 29.97,
+    "duration": 74.875,
+    "nb_frames": 2245,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/8870293c58fbed9cc03a738577e5802164199d8b"
+  },
+  "97429f47c45ec4da9849b7f4df36e22939649158": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/dove_evolution_commercial/97429f47c45ec4da9849b7f4df36e22939649158.mp4",
+    "average_rate": 29.97,
+    "duration": 64.863,
+    "nb_frames": 1944,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/97429f47c45ec4da9849b7f4df36e22939649158"
+  },
+  "8fb97b98e2f27c9f162d6c1d6c27806c84af8e8d": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/dove_evolution_commercial/8fb97b98e2f27c9f162d6c1d6c27806c84af8e8d.flv",
+    "average_rate": 25.0,
+    "duration": 86.64,
+    "nb_frames": 2167,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/8fb97b98e2f27c9f162d6c1d6c27806c84af8e8d"
+  },
+  "7b2158aad4ea2e6c8f149bb869801b96734c1b1c": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/dove_evolution_commercial/7b2158aad4ea2e6c8f149bb869801b96734c1b1c.flv",
+    "average_rate": 29.97,
+    "duration": 99.366,
+    "nb_frames": 2979,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/7b2158aad4ea2e6c8f149bb869801b96734c1b1c"
+  },
+  "bbdbe357f408fb84d5f57c1522a90504f3162d6f": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/dove_evolution_commercial/bbdbe357f408fb84d5f57c1522a90504f3162d6f.flv",
+    "average_rate": 30.0,
+    "duration": 40.674,
+    "nb_frames": 1220,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/bbdbe357f408fb84d5f57c1522a90504f3162d6f"
+  },
+  "9c1d7e91288e07083e4456f8fe6b771aba039ed1": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/dove_evolution_commercial/9c1d7e91288e07083e4456f8fe6b771aba039ed1.flv",
+    "average_rate": 29.917,
+    "duration": 74.466,
+    "nb_frames": 2219,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/9c1d7e91288e07083e4456f8fe6b771aba039ed1"
+  },
+  "b3205b97de392174f3905831fc0dba5724fdabf1": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/dove_evolution_commercial/b3205b97de392174f3905831fc0dba5724fdabf1.flv",
+    "average_rate": 29.97,
+    "duration": 70.124,
+    "nb_frames": 2098,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/b3205b97de392174f3905831fc0dba5724fdabf1"
+  },
+  "b581ea1130d0c4c9af02e98dcb887cb8d58350e8": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/dove_evolution_commercial/b581ea1130d0c4c9af02e98dcb887cb8d58350e8.flv",
+    "average_rate": 25.0,
+    "duration": 82.04,
+    "nb_frames": 2052,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/b581ea1130d0c4c9af02e98dcb887cb8d58350e8"
+  },
+  "be51dbc2d72ae574934de1b972b18037dba73b8e": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/dove_evolution_commercial/be51dbc2d72ae574934de1b972b18037dba73b8e.flv",
+    "average_rate": 29.97,
+    "duration": 69.97,
+    "nb_frames": 2098,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/be51dbc2d72ae574934de1b972b18037dba73b8e"
+  },
+  "cac9dff859597360de5a5f011139c845c0d08e6c": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/dove_evolution_commercial/cac9dff859597360de5a5f011139c845c0d08e6c.flv",
+    "average_rate": 29.933,
+    "duration": 74.098,
+    "nb_frames": 2219,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/cac9dff859597360de5a5f011139c845c0d08e6c"
+  },
+  "127dab55025984673f65d3a23b1fea99ecc79b15": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/dove_evolution_commercial/127dab55025984673f65d3a23b1fea99ecc79b15.mp4",
+    "average_rate": 29.97,
+    "duration": 300.845,
+    "nb_frames": 9001,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/127dab55025984673f65d3a23b1fea99ecc79b15"
+  },
+  "f7ba4ea780e11256ed5439e33d169eb242a8a18f": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/dove_evolution_commercial/f7ba4ea780e11256ed5439e33d169eb242a8a18f.flv",
+    "average_rate": 25.0,
+    "duration": 158.48,
+    "nb_frames": 3963,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/f7ba4ea780e11256ed5439e33d169eb242a8a18f"
+  },
+  "5b90735d0a44043685ced4a784dfd3fc8489317a": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/endless_love/5b90735d0a44043685ced4a784dfd3fc8489317a.mp4",
+    "average_rate": 14.985,
+    "duration": 240.707,
+    "nb_frames": 3607,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/5b90735d0a44043685ced4a784dfd3fc8489317a"
+  },
+  "8c207ab5a07d12d37dcb666ee8b69c3357bc07fb": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/dove_evolution_commercial/8c207ab5a07d12d37dcb666ee8b69c3357bc07fb.flv",
+    "average_rate": 25.0,
+    "duration": 283.6,
+    "nb_frames": 7091,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/8c207ab5a07d12d37dcb666ee8b69c3357bc07fb"
+  },
+  "caec7bae88f5b5d60a08487e9d9a8cd27251c64e": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/dove_evolution_commercial/caec7bae88f5b5d60a08487e9d9a8cd27251c64e.flv",
+    "average_rate": 29.97,
+    "duration": 166.233,
+    "nb_frames": 4983,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/caec7bae88f5b5d60a08487e9d9a8cd27251c64e"
+  },
+  "bf9df08bb9164d1b971557a9b9f6140096c92b0c": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/dove_evolution_commercial/bf9df08bb9164d1b971557a9b9f6140096c92b0c.mp4",
+    "average_rate": 29.97,
+    "duration": 206.313,
+    "nb_frames": 6173,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/bf9df08bb9164d1b971557a9b9f6140096c92b0c"
+  },
+  "3499b9fd4316131ebf0f5d9bbecf6f3f8600c4fb": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/endless_love/3499b9fd4316131ebf0f5d9bbecf6f3f8600c4fb.flv",
+    "average_rate": 23.976,
+    "duration": 225.017,
+    "nb_frames": 5395,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/3499b9fd4316131ebf0f5d9bbecf6f3f8600c4fb"
+  },
+  "031dacfeacdc715e755c01f4d37b49577336006e": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/infernal_affairs_1/031dacfeacdc715e755c01f4d37b49577336006e.mp4",
+    "average_rate": 29.97,
+    "duration": 27.76,
+    "nb_frames": 832,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/031dacfeacdc715e755c01f4d37b49577336006e"
+  },
+  "007d931e5f8d6dc6367964748ed862739425303b": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/infernal_affairs_1/007d931e5f8d6dc6367964748ed862739425303b.flv",
+    "average_rate": 15.017,
+    "duration": 118.134,
+    "nb_frames": 1772,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/007d931e5f8d6dc6367964748ed862739425303b"
+  },
+  "23254771545e5d278548ba02d25d32add952b2a4": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/infernal_affairs_1/23254771545e5d278548ba02d25d32add952b2a4.flv",
+    "average_rate": 29.936,
+    "duration": 54.218,
+    "nb_frames": 1607,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/23254771545e5d278548ba02d25d32add952b2a4"
+  },
+  "60c5b3896a5a75b43ee11719952ebb2a18a20d56": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/endless_love/60c5b3896a5a75b43ee11719952ebb2a18a20d56.flv",
+    "average_rate": 23.976,
+    "duration": 286.954,
+    "nb_frames": 6880,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/60c5b3896a5a75b43ee11719952ebb2a18a20d56"
+  },
+  "58e5bb3a6c16fa795310152410de9ecaee19e90f": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/endless_love/58e5bb3a6c16fa795310152410de9ecaee19e90f.flv",
+    "average_rate": 25.0,
+    "duration": 290.76,
+    "nb_frames": 7256,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/58e5bb3a6c16fa795310152410de9ecaee19e90f"
+  },
+  "468410600142c136d707b4cbc3ff0703c112575d": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/infernal_affairs_1/468410600142c136d707b4cbc3ff0703c112575d.flv",
+    "average_rate": 30.0,
+    "duration": 28.281,
+    "nb_frames": 836,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/468410600142c136d707b4cbc3ff0703c112575d"
+  },
+  "d2015b438b70f022967713d6f977ebc67a16839e": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/david_beckham_lights_the_olympic_torch/d2015b438b70f022967713d6f977ebc67a16839e.flv",
+    "average_rate": 30.0,
+    "duration": 458.362,
+    "nb_frames": 13747,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/d2015b438b70f022967713d6f977ebc67a16839e"
+  },
+  "4a79c873b671f3452afde9d247250d8c3776e7c6": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/infernal_affairs_1/4a79c873b671f3452afde9d247250d8c3776e7c6.flv",
+    "average_rate": 30.0,
+    "duration": 28.281,
+    "nb_frames": 836,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/4a79c873b671f3452afde9d247250d8c3776e7c6"
+  },
+  "6834f12ea580a4e7309bd8541fb6fbe4daeeda0f": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/endless_love/6834f12ea580a4e7309bd8541fb6fbe4daeeda0f.flv",
+    "average_rate": 23.976,
+    "duration": 287.416,
+    "nb_frames": 6879,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/6834f12ea580a4e7309bd8541fb6fbe4daeeda0f"
+  },
+  "242f1fb1c242b8b01b994185c0111d1ca25ee03e": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/endless_love/242f1fb1c242b8b01b994185c0111d1ca25ee03e.flv",
+    "average_rate": 30.0,
+    "duration": 286.673,
+    "nb_frames": 8585,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/242f1fb1c242b8b01b994185c0111d1ca25ee03e"
+  },
+  "621e548a6730fef0d8e3ff041c751881a9432af4": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/endless_love/621e548a6730fef0d8e3ff041c751881a9432af4.flv",
+    "average_rate": 25.0,
+    "duration": 290.853,
+    "nb_frames": 7256,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/621e548a6730fef0d8e3ff041c751881a9432af4"
+  },
+  "5b46e9007b0add1d73a11d2f4414efe35b017acb": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/endless_love/5b46e9007b0add1d73a11d2f4414efe35b017acb.flv",
+    "average_rate": 29.97,
+    "duration": 294.847,
+    "nb_frames": 8821,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/5b46e9007b0add1d73a11d2f4414efe35b017acb"
+  },
+  "67f1feff7f624cf0b9ac2ebaf49f547a922b4971": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/infernal_affairs_1/67f1feff7f624cf0b9ac2ebaf49f547a922b4971.flv",
+    "average_rate": 15.016,
+    "duration": 123.298,
+    "nb_frames": 1847,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/67f1feff7f624cf0b9ac2ebaf49f547a922b4971"
+  },
+  "68868f88c7c8f4887bf441ea1f61500dbcd1da5b": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/infernal_affairs_1/68868f88c7c8f4887bf441ea1f61500dbcd1da5b.flv",
+    "average_rate": 15.017,
+    "duration": 118.334,
+    "nb_frames": 1775,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/68868f88c7c8f4887bf441ea1f61500dbcd1da5b"
+  },
+  "aca39f299bade8a43abc80bac36d598239c63906": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/infernal_affairs_1/aca39f299bade8a43abc80bac36d598239c63906.flv",
+    "average_rate": 15.016,
+    "duration": 126.409,
+    "nb_frames": 1891,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/aca39f299bade8a43abc80bac36d598239c63906"
+  },
+  "b22db6382d74710e88eb1cb50bf3f74bec402491": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/infernal_affairs_1/b22db6382d74710e88eb1cb50bf3f74bec402491.flv",
+    "average_rate": 15.016,
+    "duration": 129.149,
+    "nb_frames": 1935,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/b22db6382d74710e88eb1cb50bf3f74bec402491"
+  },
+  "875ea06d092a04ffd4e875e1f311e6aa2eb9ff87": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/endless_love/875ea06d092a04ffd4e875e1f311e6aa2eb9ff87.flv",
+    "average_rate": 25.0,
+    "duration": 290.76,
+    "nb_frames": 7256,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/875ea06d092a04ffd4e875e1f311e6aa2eb9ff87"
+  },
+  "e8e7aaf3d965501ca315099c1d2b4c8fe12cce68": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/infernal_affairs_1/e8e7aaf3d965501ca315099c1d2b4c8fe12cce68.flv",
+    "average_rate": 15.032,
+    "duration": 63.483,
+    "nb_frames": 952,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/e8e7aaf3d965501ca315099c1d2b4c8fe12cce68"
+  },
+  "c70491f4b4d4a8e90561c11ac929edf430e62641": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/infernal_affairs_1/c70491f4b4d4a8e90561c11ac929edf430e62641.flv",
+    "average_rate": 15.0,
+    "duration": 127.467,
+    "nb_frames": 1912,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/c70491f4b4d4a8e90561c11ac929edf430e62641"
+  },
+  "f13e7eb9b90b57b1613daa44c15a50fdef456176": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/endless_love/f13e7eb9b90b57b1613daa44c15a50fdef456176.flv",
+    "average_rate": 25.0,
+    "duration": 290.272,
+    "nb_frames": 7256,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/f13e7eb9b90b57b1613daa44c15a50fdef456176"
+  },
+  "0df916fdd13b8579ba1d12190b931f14daeb72eb": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/kennedy_assassination_slow_motion/0df916fdd13b8579ba1d12190b931f14daeb72eb.flv",
+    "average_rate": 29.97,
+    "duration": 31.365,
+    "nb_frames": 940,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/0df916fdd13b8579ba1d12190b931f14daeb72eb"
+  },
+  "c224dece59ecedc0a54ddafe5b1ab0ecf1f7a729": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/infernal_affairs_1/c224dece59ecedc0a54ddafe5b1ab0ecf1f7a729.flv",
+    "average_rate": 29.927,
+    "duration": 101.517,
+    "nb_frames": 3022,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/c224dece59ecedc0a54ddafe5b1ab0ecf1f7a729"
+  },
+  "1f518e563d7fcdc4f21aedc1e2b30298255dd10c": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/kennedy_assassination_slow_motion/1f518e563d7fcdc4f21aedc1e2b30298255dd10c.flv",
+    "average_rate": 29.97,
+    "duration": 31.416,
+    "nb_frames": 938,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/1f518e563d7fcdc4f21aedc1e2b30298255dd10c"
+  },
+  "434cbcdf0562eb6c5ccdef59cf3401ed1067112c": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/infernal_affairs_1/434cbcdf0562eb6c5ccdef59cf3401ed1067112c.flv",
+    "average_rate": 15.0,
+    "duration": 338.454,
+    "nb_frames": 5069,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/434cbcdf0562eb6c5ccdef59cf3401ed1067112c"
+  },
+  "6a2f5ceaa65dd1187ff57ff1c1fccee9da91985b": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/kennedy_assassination_slow_motion/6a2f5ceaa65dd1187ff57ff1c1fccee9da91985b.flv",
+    "average_rate": 23.67,
+    "duration": 22.709,
+    "nb_frames": 526,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/6a2f5ceaa65dd1187ff57ff1c1fccee9da91985b"
+  },
+  "ef831f0fe7c633be5ed9edd29dd28d6066ea6d88": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/endless_love/ef831f0fe7c633be5ed9edd29dd28d6066ea6d88.flv",
+    "average_rate": 29.97,
+    "duration": 281.014,
+    "nb_frames": 8422,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/ef831f0fe7c633be5ed9edd29dd28d6066ea6d88"
+  },
+  "7e4fe3c124a00ce43ce0b5b0aca342d79e3c1ed7": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/infernal_affairs_1/7e4fe3c124a00ce43ce0b5b0aca342d79e3c1ed7.flv",
+    "average_rate": 30.0,
+    "duration": 125.266,
+    "nb_frames": 3756,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/7e4fe3c124a00ce43ce0b5b0aca342d79e3c1ed7"
+  },
+  "71ba3405d1e896d04c89754ff618b4198d2e65d5": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/kennedy_assassination_slow_motion/71ba3405d1e896d04c89754ff618b4198d2e65d5.flv",
+    "average_rate": 29.97,
+    "duration": 37.523,
+    "nb_frames": 1121,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/71ba3405d1e896d04c89754ff618b4198d2e65d5"
+  },
+  "f8b09ea589093ea7fc20cb530963fe610e90fd12": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/endless_love/f8b09ea589093ea7fc20cb530963fe610e90fd12.flv",
+    "average_rate": 29.97,
+    "duration": 294.847,
+    "nb_frames": 8821,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/f8b09ea589093ea7fc20cb530963fe610e90fd12"
+  },
+  "77452e0b0c34723b656047c3cbd5d9bf2e11eaaf": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/kennedy_assassination_slow_motion/77452e0b0c34723b656047c3cbd5d9bf2e11eaaf.flv",
+    "average_rate": 30.0,
+    "duration": 37.245,
+    "nb_frames": 1101,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/77452e0b0c34723b656047c3cbd5d9bf2e11eaaf"
+  },
+  "80fd5c866390b8caf4129486e0f11beeca47d952": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/kennedy_assassination_slow_motion/80fd5c866390b8caf4129486e0f11beeca47d952.flv",
+    "average_rate": 29.97,
+    "duration": 31.416,
+    "nb_frames": 938,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/80fd5c866390b8caf4129486e0f11beeca47d952"
+  },
+  "7a80366e144e759603a9ebecfd91848196e255d2": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/infernal_affairs_1/7a80366e144e759603a9ebecfd91848196e255d2.flv",
+    "average_rate": 15.0,
+    "duration": 336.41,
+    "nb_frames": 5041,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/7a80366e144e759603a9ebecfd91848196e255d2"
+  },
+  "8a268ef5ad1f250fca37321ba2e9c9224b084dba": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/kennedy_assassination_slow_motion/8a268ef5ad1f250fca37321ba2e9c9224b084dba.flv",
+    "average_rate": 25.0,
+    "duration": 44.187,
+    "nb_frames": 1092,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/8a268ef5ad1f250fca37321ba2e9c9224b084dba"
+  },
+  "60424fb57dae4de20a1672b9019d54dea5179073": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/kennedy_assassination_slow_motion/60424fb57dae4de20a1672b9019d54dea5179073.flv",
+    "average_rate": 25.0,
+    "duration": 77.76,
+    "nb_frames": 1944,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/60424fb57dae4de20a1672b9019d54dea5179073"
+  },
+  "8b99b013165faa0c1cb36794f0d20d38a621f496": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/kennedy_assassination_slow_motion/8b99b013165faa0c1cb36794f0d20d38a621f496.flv",
+    "average_rate": 29.97,
+    "duration": 34.435,
+    "nb_frames": 1028,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/8b99b013165faa0c1cb36794f0d20d38a621f496"
+  },
+  "925a69d13824e3521d6eccbe8c6d7ff0c54486fe": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/kennedy_assassination_slow_motion/925a69d13824e3521d6eccbe8c6d7ff0c54486fe.flv",
+    "average_rate": 30.0,
+    "duration": 38.893,
+    "nb_frames": 1150,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/925a69d13824e3521d6eccbe8c6d7ff0c54486fe"
+  },
+  "1ae7b9a578d5cdff57415e3701cd064d03ca3246": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/maradona_hand_of_god/1ae7b9a578d5cdff57415e3701cd064d03ca3246.flv",
+    "average_rate": 12.598,
+    "duration": 10.588,
+    "nb_frames": 128,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/1ae7b9a578d5cdff57415e3701cd064d03ca3246"
+  },
+  "36d4ff38748397fadca52e851f1b6f4679bf3027": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/maradona_hand_of_god/36d4ff38748397fadca52e851f1b6f4679bf3027.flv",
+    "average_rate": 12.592,
+    "duration": 11.47,
+    "nb_frames": 137,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/36d4ff38748397fadca52e851f1b6f4679bf3027"
+  },
+  "acdf1a72b8cf37ee2609cdc03ff70747f36e0476": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/kennedy_assassination_slow_motion/acdf1a72b8cf37ee2609cdc03ff70747f36e0476.flv",
+    "average_rate": 29.97,
+    "duration": 31.509,
+    "nb_frames": 940,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/acdf1a72b8cf37ee2609cdc03ff70747f36e0476"
+  },
+  "e2cae9c5ef92cbb53d823cfeb4d75c294baed21c": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/kennedy_assassination_slow_motion/e2cae9c5ef92cbb53d823cfeb4d75c294baed21c.flv",
+    "average_rate": 23.67,
+    "duration": 22.709,
+    "nb_frames": 526,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/e2cae9c5ef92cbb53d823cfeb4d75c294baed21c"
+  },
+  "2283dfecf92111bfb035888b4810c011ac164876": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/kennedy_assassination_slow_motion/2283dfecf92111bfb035888b4810c011ac164876.flv",
+    "average_rate": 29.97,
+    "duration": 89.377,
+    "nb_frames": 2675,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/2283dfecf92111bfb035888b4810c011ac164876"
+  },
+  "a8253d279cbeb3a29bd346b63083c054eab1407a": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/kennedy_assassination_slow_motion/a8253d279cbeb3a29bd346b63083c054eab1407a.flv",
+    "average_rate": 27.771,
+    "duration": 48.158,
+    "nb_frames": 1322,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/a8253d279cbeb3a29bd346b63083c054eab1407a"
+  },
+  "55b5cf91ebbb1f98879f64e74b8155fe98cad23a": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/maradona_hand_of_god/55b5cf91ebbb1f98879f64e74b8155fe98cad23a.flv",
+    "average_rate": 12.592,
+    "duration": 11.47,
+    "nb_frames": 137,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/55b5cf91ebbb1f98879f64e74b8155fe98cad23a"
+  },
+  "02ffeecd09331f27f731b2eabc6d1e0dcd91daa4": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/maradona_hand_of_god/02ffeecd09331f27f731b2eabc6d1e0dcd91daa4.flv",
+    "average_rate": 30.0,
+    "duration": 27.585,
+    "nb_frames": 811,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/02ffeecd09331f27f731b2eabc6d1e0dcd91daa4"
+  },
+  "5496ef100ec5a5151c058cb264d9877bf7e90960": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/maradona_hand_of_god/5496ef100ec5a5151c058cb264d9877bf7e90960.flv",
+    "average_rate": 30.093,
+    "duration": 11.377,
+    "nb_frames": 326,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/5496ef100ec5a5151c058cb264d9877bf7e90960"
+  },
+  "5965d78e520ef5c162f22da88745f4c6dccd6fcf": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/maradona_hand_of_god/5965d78e520ef5c162f22da88745f4c6dccd6fcf.flv",
+    "average_rate": 12.5,
+    "duration": 10.983,
+    "nb_frames": 136,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/5965d78e520ef5c162f22da88745f4c6dccd6fcf"
+  },
+  "6f5bbd3e080c65e9a9e52404c9054b2203d3f540": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/maradona_hand_of_god/6f5bbd3e080c65e9a9e52404c9054b2203d3f540.flv",
+    "average_rate": 12.592,
+    "duration": 11.47,
+    "nb_frames": 137,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/6f5bbd3e080c65e9a9e52404c9054b2203d3f540"
+  },
+  "e05b9149d1a03f651df63b63657e7de1e106e061": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/kennedy_assassination_slow_motion/e05b9149d1a03f651df63b63657e7de1e106e061.flv",
+    "average_rate": 27.771,
+    "duration": 48.158,
+    "nb_frames": 1322,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/e05b9149d1a03f651df63b63657e7de1e106e061"
+  },
+  "3ed4f5c0eb04c94353594e8be1a72bcc657e27c7": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/maradona_hand_of_god/3ed4f5c0eb04c94353594e8be1a72bcc657e27c7.flv",
+    "average_rate": 29.97,
+    "duration": 26.947,
+    "nb_frames": 807,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/3ed4f5c0eb04c94353594e8be1a72bcc657e27c7"
+  },
+  "6cc806641ede517d2ba98b9ffc5691c152b6c1db": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/maradona_hand_of_god/6cc806641ede517d2ba98b9ffc5691c152b6c1db.flv",
+    "average_rate": 30.0,
+    "duration": 10.89,
+    "nb_frames": 324,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/6cc806641ede517d2ba98b9ffc5691c152b6c1db"
+  },
+  "b1d0d41066ffb0afa9e3a3375199824f35a80c4d": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/kennedy_assassination_slow_motion/b1d0d41066ffb0afa9e3a3375199824f35a80c4d.flv",
+    "average_rate": 29.97,
+    "duration": 56.749,
+    "nb_frames": 1699,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/b1d0d41066ffb0afa9e3a3375199824f35a80c4d"
+  },
+  "5c4792c066b3e445d46c603878b1be0a33808111": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/maradona_hand_of_god/5c4792c066b3e445d46c603878b1be0a33808111.flv",
+    "average_rate": 25.0,
+    "duration": 21.44,
+    "nb_frames": 536,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/5c4792c066b3e445d46c603878b1be0a33808111"
+  },
+  "84ce12a5fff66f4cd789c90bf61156f44fe21fbc": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/maradona_hand_of_god/84ce12a5fff66f4cd789c90bf61156f44fe21fbc.flv",
+    "average_rate": 12.592,
+    "duration": 11.47,
+    "nb_frames": 137,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/84ce12a5fff66f4cd789c90bf61156f44fe21fbc"
+  },
+  "375e6b7b7b63d2a84798226ef0cef8f50135e90a": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/maradona_hand_of_god/375e6b7b7b63d2a84798226ef0cef8f50135e90a.flv",
+    "average_rate": 25.0,
+    "duration": 38.429,
+    "nb_frames": 959,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/375e6b7b7b63d2a84798226ef0cef8f50135e90a"
+  },
+  "8d6bd2b5607cbd53fd782843392105c020b9aa7d": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/maradona_hand_of_god/8d6bd2b5607cbd53fd782843392105c020b9aa7d.flv",
+    "average_rate": 13.919,
+    "duration": 12.306,
+    "nb_frames": 163,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/8d6bd2b5607cbd53fd782843392105c020b9aa7d"
+  },
+  "5f6d3fba8821f4e3358d5ff9dd6d3bc55b03b119": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/maradona_hand_of_god/5f6d3fba8821f4e3358d5ff9dd6d3bc55b03b119.flv",
+    "average_rate": 30.0,
+    "duration": 25.727,
+    "nb_frames": 756,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/5f6d3fba8821f4e3358d5ff9dd6d3bc55b03b119"
+  },
+  "b3e2f9a02ee873972fcb0ce144996ad850c7b4af": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/maradona_hand_of_god/b3e2f9a02ee873972fcb0ce144996ad850c7b4af.flv",
+    "average_rate": 12.592,
+    "duration": 11.47,
+    "nb_frames": 137,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/b3e2f9a02ee873972fcb0ce144996ad850c7b4af"
+  },
+  "ce1451b329a9cd5ad178f0927644f81fad4c69c2": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/maradona_hand_of_god/ce1451b329a9cd5ad178f0927644f81fad4c69c2.flv",
+    "average_rate": 12.592,
+    "duration": 11.47,
+    "nb_frames": 137,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/ce1451b329a9cd5ad178f0927644f81fad4c69c2"
+  },
+  "934c1d493bed0e2fae442e8970d787f176ac89cb": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/maradona_hand_of_god/934c1d493bed0e2fae442e8970d787f176ac89cb.flv",
+    "average_rate": 15.086,
+    "duration": 11.935,
+    "nb_frames": 175,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/934c1d493bed0e2fae442e8970d787f176ac89cb"
+  },
+  "9110765efc621b8e551b94889875201f36a48d49": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/maradona_hand_of_god/9110765efc621b8e551b94889875201f36a48d49.flv",
+    "average_rate": 30.048,
+    "duration": 13.351,
+    "nb_frames": 385,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/9110765efc621b8e551b94889875201f36a48d49"
+  },
+  "df4001c1e9d3e8fe3c61d9b6bac46cd377e6d2be": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/maradona_hand_of_god/df4001c1e9d3e8fe3c61d9b6bac46cd377e6d2be.flv",
+    "average_rate": 12.592,
+    "duration": 11.47,
+    "nb_frames": 137,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/df4001c1e9d3e8fe3c61d9b6bac46cd377e6d2be"
+  },
+  "ab3d22a99b1f0fee38cf842f51b1dce60bed631f": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/maradona_hand_of_god/ab3d22a99b1f0fee38cf842f51b1dce60bed631f.flv",
+    "average_rate": 30.037,
+    "duration": 15.604,
+    "nb_frames": 452,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/ab3d22a99b1f0fee38cf842f51b1dce60bed631f"
+  },
+  "e018528afcd7682556a4049b76d76105f60fa922": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/maradona_hand_of_god/e018528afcd7682556a4049b76d76105f60fa922.flv",
+    "average_rate": 25.13,
+    "duration": 8.266,
+    "nb_frames": 194,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/e018528afcd7682556a4049b76d76105f60fa922"
+  },
+  "de71afa5fe2363589c28021940d2902d8701efdf": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/maradona_hand_of_god/de71afa5fe2363589c28021940d2902d8701efdf.flv",
+    "average_rate": 30.059,
+    "duration": 17.033,
+    "nb_frames": 511,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/de71afa5fe2363589c28021940d2902d8701efdf"
+  },
+  "811a34d320785afe0f50b9ff7a67a8b7c22e9891": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/maradona_hand_of_god/811a34d320785afe0f50b9ff7a67a8b7c22e9891.flv",
+    "average_rate": 25.0,
+    "duration": 46.556,
+    "nb_frames": 1151,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/811a34d320785afe0f50b9ff7a67a8b7c22e9891"
+  },
+  "2e246b45e7dfba0a7cfb2beb557c40d81dc02c99": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/maradona_hand_of_god/2e246b45e7dfba0a7cfb2beb557c40d81dc02c99.flv",
+    "average_rate": 30.0,
+    "duration": 76.277,
+    "nb_frames": 2273,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/2e246b45e7dfba0a7cfb2beb557c40d81dc02c99"
+  },
+  "377f81e79938ba062762e74a3b8d4136b5523fa3": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/maradona_hand_of_god/377f81e79938ba062762e74a3b8d4136b5523fa3.flv",
+    "average_rate": 25.0,
+    "duration": 89.025,
+    "nb_frames": 2212,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/377f81e79938ba062762e74a3b8d4136b5523fa3"
+  },
+  "df839544c199b12b5de023c1ee8511b947f5c999": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/maradona_hand_of_god/df839544c199b12b5de023c1ee8511b947f5c999.flv",
+    "average_rate": 29.97,
+    "duration": 39.497,
+    "nb_frames": 1166,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/df839544c199b12b5de023c1ee8511b947f5c999"
+  },
+  "f5d187eb9c7e5cfc6eaa206f479ede5c10603c68": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/maradona_hand_of_god/f5d187eb9c7e5cfc6eaa206f479ede5c10603c68.flv",
+    "average_rate": 25.0,
+    "duration": 40.449,
+    "nb_frames": 998,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/f5d187eb9c7e5cfc6eaa206f479ede5c10603c68"
+  },
+  "925548514617c04feb99967cd1d40d985c467a2f": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/maradona_hand_of_god/925548514617c04feb99967cd1d40d985c467a2f.flv",
+    "average_rate": 30.0,
+    "duration": 72.841,
+    "nb_frames": 2170,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/925548514617c04feb99967cd1d40d985c467a2f"
+  },
+  "d31adc1a71b72bb36f32b67cb6d52d4840a322c5": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/maradona_hand_of_god/d31adc1a71b72bb36f32b67cb6d52d4840a322c5.flv",
+    "average_rate": 29.97,
+    "duration": 71.438,
+    "nb_frames": 2141,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/d31adc1a71b72bb36f32b67cb6d52d4840a322c5"
+  },
+  "f6e296bfd930f585e165246530efa97bc035330f": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/kennedy_assassination_slow_motion/f6e296bfd930f585e165246530efa97bc035330f.flv",
+    "average_rate": 25.0,
+    "duration": 151.579,
+    "nb_frames": 3776,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/f6e296bfd930f585e165246530efa97bc035330f"
+  },
+  "bf582249cfc79d691195a8681961029cc5149a76": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/mr_and_mrs_smith_tango/bf582249cfc79d691195a8681961029cc5149a76.flv",
+    "average_rate": 24.0,
+    "duration": 40.658,
+    "nb_frames": 974,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/bf582249cfc79d691195a8681961029cc5149a76"
+  },
+  "3ec7ab68ed6a1690d7c0074bc563d0dccac57726": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/maradona_hand_of_god/3ec7ab68ed6a1690d7c0074bc563d0dccac57726.flv",
+    "average_rate": 25.0,
+    "duration": 185.063,
+    "nb_frames": 4614,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/3ec7ab68ed6a1690d7c0074bc563d0dccac57726"
+  },
+  "10732a0e6a0edef9dcbb2155236e46a7ed5047c0": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/obama_kicks_door/10732a0e6a0edef9dcbb2155236e46a7ed5047c0.flv",
+    "average_rate": 29.97,
+    "duration": 20.63,
+    "nb_frames": 619,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/10732a0e6a0edef9dcbb2155236e46a7ed5047c0"
+  },
+  "7deff9e47e47c98bb341c4355dfff9a82bfba221": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/infernal_affairs_1/7deff9e47e47c98bb341c4355dfff9a82bfba221.flv",
+    "average_rate": 30.0,
+    "duration": 373.446,
+    "nb_frames": 11188,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/7deff9e47e47c98bb341c4355dfff9a82bfba221"
+  },
+  "126d3e5b61ad28f847ad1ff6d15315742e780ac6": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/obama_kicks_door/126d3e5b61ad28f847ad1ff6d15315742e780ac6.mp4",
+    "average_rate": 25.0,
+    "duration": 29.04,
+    "nb_frames": 726,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/126d3e5b61ad28f847ad1ff6d15315742e780ac6"
+  },
+  "9ac82ed37390f45bdc81b699c53085b29143ee70": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/mr_and_mrs_smith_tango/9ac82ed37390f45bdc81b699c53085b29143ee70.flv",
+    "average_rate": 25.0,
+    "duration": 160.728,
+    "nb_frames": 4017,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/9ac82ed37390f45bdc81b699c53085b29143ee70"
+  },
+  "14c262ea09b4ca66feb7e88cf57e0faaeacc301f": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/obama_kicks_door/14c262ea09b4ca66feb7e88cf57e0faaeacc301f.mp4",
+    "average_rate": 29.97,
+    "duration": 13.48,
+    "nb_frames": 404,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/14c262ea09b4ca66feb7e88cf57e0faaeacc301f"
+  },
+  "170914a51f3b81a48ada1a1e8c6a97fc9d61e3c2": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/obama_kicks_door/170914a51f3b81a48ada1a1e8c6a97fc9d61e3c2.flv",
+    "average_rate": 25.0,
+    "duration": 14.12,
+    "nb_frames": 354,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/170914a51f3b81a48ada1a1e8c6a97fc9d61e3c2"
+  },
+  "be51784c0b0676bf487376af362b088922efa954": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/mr_and_mrs_smith_tango/be51784c0b0676bf487376af362b088922efa954.flv",
+    "average_rate": 25.0,
+    "duration": 198.92,
+    "nb_frames": 4974,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/be51784c0b0676bf487376af362b088922efa954"
+  },
+  "2ba013a3f6fa57793c242766e27ec77d001fe03a": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/mr_and_mrs_smith_tango/2ba013a3f6fa57793c242766e27ec77d001fe03a.flv",
+    "average_rate": 25.0,
+    "duration": 246.6,
+    "nb_frames": 6166,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/2ba013a3f6fa57793c242766e27ec77d001fe03a"
+  },
+  "801dbd9a5a5f97442c7bbd14046d71e67cccbf4b": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/mr_and_mrs_smith_tango/801dbd9a5a5f97442c7bbd14046d71e67cccbf4b.mp4",
+    "average_rate": 25.0,
+    "duration": 244.08,
+    "nb_frames": 6102,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/801dbd9a5a5f97442c7bbd14046d71e67cccbf4b"
+  },
+  "1923a4832593ecf189271664f80e8fbdfa451dec": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/obama_kicks_door/1923a4832593ecf189271664f80e8fbdfa451dec.flv",
+    "average_rate": 30.0,
+    "duration": 19.337,
+    "nb_frames": 581,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/1923a4832593ecf189271664f80e8fbdfa451dec"
+  },
+  "28d2bcbf01d0572073d4e7543b0a43cda23887f2": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/obama_kicks_door/28d2bcbf01d0572073d4e7543b0a43cda23887f2.flv",
+    "average_rate": 25.0,
+    "duration": 4.16,
+    "nb_frames": 105,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/28d2bcbf01d0572073d4e7543b0a43cda23887f2"
+  },
+  "14c81d68b80d04743a107d4de859cb4724ccc2c1": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/obama_kicks_door/14c81d68b80d04743a107d4de859cb4724ccc2c1.flv",
+    "average_rate": 25.0,
+    "duration": 69.0,
+    "nb_frames": 1726,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/14c81d68b80d04743a107d4de859cb4724ccc2c1"
+  },
+  "296daa1f5eff17f2a2cb02cf052deccdacca0c24": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/obama_kicks_door/296daa1f5eff17f2a2cb02cf052deccdacca0c24.flv",
+    "average_rate": 25.0,
+    "duration": 4.16,
+    "nb_frames": 105,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/296daa1f5eff17f2a2cb02cf052deccdacca0c24"
+  },
+  "28ae1e3aa722872cec66e9c83a35243accd27e2d": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/obama_kicks_door/28ae1e3aa722872cec66e9c83a35243accd27e2d.flv",
+    "average_rate": 29.97,
+    "duration": 12.379,
+    "nb_frames": 372,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/28ae1e3aa722872cec66e9c83a35243accd27e2d"
+  },
+  "4376c0e8e1e226a63b6b2aac5c1962aa02028071": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/obama_kicks_door/4376c0e8e1e226a63b6b2aac5c1962aa02028071.mp4",
+    "average_rate": 15.0,
+    "duration": 4.067,
+    "nb_frames": 61,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/4376c0e8e1e226a63b6b2aac5c1962aa02028071"
+  },
+  "126f24a39b0ce19993d1fd7bd620fa98a3eda3a7": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/obama_kicks_door/126f24a39b0ce19993d1fd7bd620fa98a3eda3a7.mp4",
+    "average_rate": 29.97,
+    "duration": 106.963,
+    "nb_frames": 3201,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/126f24a39b0ce19993d1fd7bd620fa98a3eda3a7"
+  },
+  "2d381cece55255b4ea7c5e18d20f5a07ee39ddf5": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/obama_kicks_door/2d381cece55255b4ea7c5e18d20f5a07ee39ddf5.flv",
+    "average_rate": 29.917,
+    "duration": 14.139,
+    "nb_frames": 424,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/2d381cece55255b4ea7c5e18d20f5a07ee39ddf5"
+  },
+  "2d623f928f8b37ce5978269e4198728c13e3f590": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/obama_kicks_door/2d623f928f8b37ce5978269e4198728c13e3f590.mp4",
+    "average_rate": 29.919,
+    "duration": 13.87,
+    "nb_frames": 415,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/2d623f928f8b37ce5978269e4198728c13e3f590"
+  },
+  "38f11a4162d8e94227ac644f117f942735b9a504": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/mr_and_mrs_smith_tango/38f11a4162d8e94227ac644f117f942735b9a504.mp4",
+    "average_rate": 23.976,
+    "duration": 309.63,
+    "nb_frames": 7424,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/38f11a4162d8e94227ac644f117f942735b9a504"
+  },
+  "e8aa839caca7b98a0bf5437db144f23530d39b25": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/mr_and_mrs_smith_tango/e8aa839caca7b98a0bf5437db144f23530d39b25.flv",
+    "average_rate": 25.0,
+    "duration": 240.28,
+    "nb_frames": 6008,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/e8aa839caca7b98a0bf5437db144f23530d39b25"
+  },
+  "4aec2dcc12e748c4d2ff51fd6e84fac3fd9b5748": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/obama_kicks_door/4aec2dcc12e748c4d2ff51fd6e84fac3fd9b5748.flv",
+    "average_rate": 29.97,
+    "duration": 16.627,
+    "nb_frames": 499,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/4aec2dcc12e748c4d2ff51fd6e84fac3fd9b5748"
+  },
+  "553d57eaab222c10c21018a6adc6d79841ba07e0": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/obama_kicks_door/553d57eaab222c10c21018a6adc6d79841ba07e0.flv",
+    "average_rate": 25.0,
+    "duration": 14.04,
+    "nb_frames": 352,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/553d57eaab222c10c21018a6adc6d79841ba07e0"
+  },
+  "4df943d4903333df61bb3854d47365edf3076b5b": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/obama_kicks_door/4df943d4903333df61bb3854d47365edf3076b5b.flv",
+    "average_rate": 30.0,
+    "duration": 19.104,
+    "nb_frames": 574,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/4df943d4903333df61bb3854d47365edf3076b5b"
+  },
+  "58a33de5c9bd85b5dfe782eca6af35eeb390bd92": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/obama_kicks_door/58a33de5c9bd85b5dfe782eca6af35eeb390bd92.flv",
+    "average_rate": 30.0,
+    "duration": 14.6,
+    "nb_frames": 439,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/58a33de5c9bd85b5dfe782eca6af35eeb390bd92"
+  },
+  "67a70784ba5e4a26b6a3d95900a6b737f92af14c": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/obama_kicks_door/67a70784ba5e4a26b6a3d95900a6b737f92af14c.mp4",
+    "average_rate": 25.0,
+    "duration": 22.52,
+    "nb_frames": 563,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/67a70784ba5e4a26b6a3d95900a6b737f92af14c"
+  },
+  "86a3afc4f23edb7fa6919bd7371ea7d5f4a946f9": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/obama_kicks_door/86a3afc4f23edb7fa6919bd7371ea7d5f4a946f9.flv",
+    "average_rate": 29.97,
+    "duration": 14.147,
+    "nb_frames": 425,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/86a3afc4f23edb7fa6919bd7371ea7d5f4a946f9"
+  },
+  "7caa7fcef0e0b17725a0bda8b101d819e6ca2dbd": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/mr_and_mrs_smith_tango/7caa7fcef0e0b17725a0bda8b101d819e6ca2dbd.flv",
+    "average_rate": 29.97,
+    "duration": 271.438,
+    "nb_frames": 8136,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/7caa7fcef0e0b17725a0bda8b101d819e6ca2dbd"
+  },
+  "39c96fc7117a0ff1fdc02637285c13d8efe7ce93": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/mr_and_mrs_smith_tango/39c96fc7117a0ff1fdc02637285c13d8efe7ce93.flv",
+    "average_rate": 29.97,
+    "duration": 271.975,
+    "nb_frames": 8136,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/39c96fc7117a0ff1fdc02637285c13d8efe7ce93"
+  },
+  "e2adc784b83446ae775f698b9d17c9fd392b2f75": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/mr_and_mrs_smith_tango/e2adc784b83446ae775f698b9d17c9fd392b2f75.flv",
+    "average_rate": 29.97,
+    "duration": 222.168,
+    "nb_frames": 6657,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/e2adc784b83446ae775f698b9d17c9fd392b2f75"
+  },
+  "3216eba70c40df452e982aabf4b6a19e40f037f4": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/obama_kicks_door/3216eba70c40df452e982aabf4b6a19e40f037f4.mp4",
+    "average_rate": 25.0,
+    "duration": 69.04,
+    "nb_frames": 1726,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/3216eba70c40df452e982aabf4b6a19e40f037f4"
+  },
+  "963f76298aaaab30e407bfe87eb25f3f2621d52d": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/obama_kicks_door/963f76298aaaab30e407bfe87eb25f3f2621d52d.flv",
+    "average_rate": 25.0,
+    "duration": 14.48,
+    "nb_frames": 363,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/963f76298aaaab30e407bfe87eb25f3f2621d52d"
+  },
+  "d2f4aca96d44a144b12abc300b781b8ff8bb0842": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/mr_and_mrs_smith_tango/d2f4aca96d44a144b12abc300b781b8ff8bb0842.flv",
+    "average_rate": 23.976,
+    "duration": 309.631,
+    "nb_frames": 7424,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/d2f4aca96d44a144b12abc300b781b8ff8bb0842"
+  },
+  "650b4f7667e95e743b944c7e6602ada613b87377": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/obama_kicks_door/650b4f7667e95e743b944c7e6602ada613b87377.flv",
+    "average_rate": 25.0,
+    "duration": 40.64,
+    "nb_frames": 1017,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/650b4f7667e95e743b944c7e6602ada613b87377"
+  },
+  "a9ef8194429b65cd61ce681caff308530c9fc8b3": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/obama_kicks_door/a9ef8194429b65cd61ce681caff308530c9fc8b3.flv",
+    "average_rate": 25.0,
+    "duration": 14.48,
+    "nb_frames": 363,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/a9ef8194429b65cd61ce681caff308530c9fc8b3"
+  },
+  "8c2dac44da15031268363aec2fe33a9124a0a505": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/obama_kicks_door/8c2dac44da15031268363aec2fe33a9124a0a505.flv",
+    "average_rate": 29.97,
+    "duration": 32.683,
+    "nb_frames": 981,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/8c2dac44da15031268363aec2fe33a9124a0a505"
+  },
+  "c4684f69b4fe383c4c3bf502f6444a9abc7342ac": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/obama_kicks_door/c4684f69b4fe383c4c3bf502f6444a9abc7342ac.mp4",
+    "average_rate": 29.97,
+    "duration": 11.645,
+    "nb_frames": 349,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/c4684f69b4fe383c4c3bf502f6444a9abc7342ac"
+  },
+  "b4adf259a412ffc4cfbfecd4bc14693b683791b0": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/obama_kicks_door/b4adf259a412ffc4cfbfecd4bc14693b683791b0.flv",
+    "average_rate": 29.97,
+    "duration": 14.147,
+    "nb_frames": 425,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/b4adf259a412ffc4cfbfecd4bc14693b683791b0"
+  },
+  "affa7581a002ca360df8c76b4ddc9f462b797fd5": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/obama_kicks_door/affa7581a002ca360df8c76b4ddc9f462b797fd5.mp4",
+    "average_rate": 29.97,
+    "duration": 27.36,
+    "nb_frames": 820,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/affa7581a002ca360df8c76b4ddc9f462b797fd5"
+  },
+  "cf2ead1b5a8474f80e34ea569c8dee86140828a6": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/obama_kicks_door/cf2ead1b5a8474f80e34ea569c8dee86140828a6.flv",
+    "average_rate": 29.97,
+    "duration": 14.147,
+    "nb_frames": 425,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/cf2ead1b5a8474f80e34ea569c8dee86140828a6"
+  },
+  "c22d8160f6950e9748d3c0d1cf26e342d54f281f": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/obama_kicks_door/c22d8160f6950e9748d3c0d1cf26e342d54f281f.mp4",
+    "average_rate": 29.97,
+    "duration": 22.737,
+    "nb_frames": 681,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/c22d8160f6950e9748d3c0d1cf26e342d54f281f"
+  },
+  "f150e062960b477adcac3f12ef4543337f5a91a4": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/obama_kicks_door/f150e062960b477adcac3f12ef4543337f5a91a4.flv",
+    "average_rate": 25.0,
+    "duration": 14.04,
+    "nb_frames": 352,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/f150e062960b477adcac3f12ef4543337f5a91a4"
+  },
+  "c854dfdd9b038a39cf36d5ded719822e1e5e942a": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/obama_kicks_door/c854dfdd9b038a39cf36d5ded719822e1e5e942a.flv",
+    "average_rate": 25.0,
+    "duration": 40.64,
+    "nb_frames": 1017,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/c854dfdd9b038a39cf36d5ded719822e1e5e942a"
+  },
+  "f26a39de8e8ec290703f4937977fc17322974748": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/obama_kicks_door/f26a39de8e8ec290703f4937977fc17322974748.flv",
+    "average_rate": 30.0,
+    "duration": 19.904,
+    "nb_frames": 598,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/f26a39de8e8ec290703f4937977fc17322974748"
+  },
+  "9f6c4b5fb07564529bd75142e29757b36770359c": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/obama_kicks_door/9f6c4b5fb07564529bd75142e29757b36770359c.flv",
+    "average_rate": 30.0,
+    "duration": 60.267,
+    "nb_frames": 1809,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/9f6c4b5fb07564529bd75142e29757b36770359c"
+  },
+  "ffd89ce37eb32ff8748e5168da52b0e32dcd3022": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/obama_kicks_door/ffd89ce37eb32ff8748e5168da52b0e32dcd3022.mp4",
+    "average_rate": 29.97,
+    "duration": 11.645,
+    "nb_frames": 349,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/ffd89ce37eb32ff8748e5168da52b0e32dcd3022"
+  },
+  "df0c9e9664cfa6720c94e13eae35ddb7a9b5b927": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/obama_kicks_door/df0c9e9664cfa6720c94e13eae35ddb7a9b5b927.flv",
+    "average_rate": 30.0,
+    "duration": 45.367,
+    "nb_frames": 1362,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/df0c9e9664cfa6720c94e13eae35ddb7a9b5b927"
+  },
+  "93a48fd66a22cf0189c14a6b8571d72f657b64bc": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/obama_kicks_door/93a48fd66a22cf0189c14a6b8571d72f657b64bc.mp4",
+    "average_rate": 30.0,
+    "duration": 80.403,
+    "nb_frames": 2411,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/93a48fd66a22cf0189c14a6b8571d72f657b64bc"
+  },
+  "1f73466d86f0a92140bd2f89eb95e8c147b47935": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/obama_kicks_door/1f73466d86f0a92140bd2f89eb95e8c147b47935.flv",
+    "average_rate": 29.97,
+    "duration": 143.35,
+    "nb_frames": 4291,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/1f73466d86f0a92140bd2f89eb95e8c147b47935"
+  },
+  "d4ff86e0f64fcf4d664f3199e19bd6a38482c3e1": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/obama_kicks_door/d4ff86e0f64fcf4d664f3199e19bd6a38482c3e1.flv",
+    "average_rate": 29.97,
+    "duration": 61.095,
+    "nb_frames": 1832,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/d4ff86e0f64fcf4d664f3199e19bd6a38482c3e1"
+  },
+  "ff71ba9adb281236cb8ebeed7aa4f654fdac9444": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/obama_kicks_door/ff71ba9adb281236cb8ebeed7aa4f654fdac9444.flv",
+    "average_rate": 30.0,
+    "duration": 63.684,
+    "nb_frames": 1911,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/ff71ba9adb281236cb8ebeed7aa4f654fdac9444"
+  },
+  "24a6a7d24464d6fe488abb181d89e426e8eeb837": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/osama_bin_laden_is_dead_obama_speech_at_white_house/24a6a7d24464d6fe488abb181d89e426e8eeb837.mp4",
+    "average_rate": 25.0,
+    "duration": 99.0,
+    "nb_frames": 2475,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/24a6a7d24464d6fe488abb181d89e426e8eeb837"
+  },
+  "e7957b138bcb543c63f100343c91d5731611c1ba": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/obama_kicks_door/e7957b138bcb543c63f100343c91d5731611c1ba.mp4",
+    "average_rate": 29.97,
+    "duration": 139.505,
+    "nb_frames": 4181,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/e7957b138bcb543c63f100343c91d5731611c1ba"
+  },
+  "3f81759e6e56e326c0deb3f1ca002e4c68d87eec": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/osama_bin_laden_is_dead_obama_speech_at_white_house/3f81759e6e56e326c0deb3f1ca002e4c68d87eec.flv",
+    "average_rate": 25.0,
+    "duration": 233.64,
+    "nb_frames": 5842,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/3f81759e6e56e326c0deb3f1ca002e4c68d87eec"
+  },
+  "458480841d12331e4dea9557886acd2ac957e9cd": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/osama_bin_laden_is_dead_obama_speech_at_white_house/458480841d12331e4dea9557886acd2ac957e9cd.mp4",
+    "average_rate": 29.97,
+    "duration": 188.993,
+    "nb_frames": 5655,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/458480841d12331e4dea9557886acd2ac957e9cd"
+  },
+  "06f0dd6a00b38b553844d0550696e5ce1fb448b6": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/obama_kicks_door/06f0dd6a00b38b553844d0550696e5ce1fb448b6.flv",
+    "average_rate": 25.0,
+    "duration": 573.52,
+    "nb_frames": 14339,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/06f0dd6a00b38b553844d0550696e5ce1fb448b6"
+  },
+  "6209e90f48cea8649c0c632f2486554524f11ca5": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/osama_bin_laden_is_dead_obama_speech_at_white_house/6209e90f48cea8649c0c632f2486554524f11ca5.flv",
+    "average_rate": 30.0,
+    "duration": 160.005,
+    "nb_frames": 4797,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/6209e90f48cea8649c0c632f2486554524f11ca5"
+  },
+  "77cf367bdc30892faa364bab0006c316a4e86f8e": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/osama_bin_laden_is_dead_obama_speech_at_white_house/77cf367bdc30892faa364bab0006c316a4e86f8e.flv",
+    "average_rate": 30.0,
+    "duration": 148.175,
+    "nb_frames": 4443,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/77cf367bdc30892faa364bab0006c316a4e86f8e"
+  },
+  "6c6135f9fb597c1d4a1e96861c4d90a03544d570": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/osama_bin_laden_is_dead_obama_speech_at_white_house/6c6135f9fb597c1d4a1e96861c4d90a03544d570.mp4",
+    "average_rate": 29.97,
+    "duration": 154.145,
+    "nb_frames": 4613,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/6c6135f9fb597c1d4a1e96861c4d90a03544d570"
+  },
+  "e47d10d837cacf72bb23c45339b1cbc307a513be": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/obama_kicks_door/e47d10d837cacf72bb23c45339b1cbc307a513be.mp4",
+    "average_rate": 30.0,
+    "duration": 511.75,
+    "nb_frames": 15338,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/e47d10d837cacf72bb23c45339b1cbc307a513be"
+  },
+  "53ff5686f46ac55ae5357e6e7856faf0f5f15173": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/osama_bin_laden_is_dead_obama_speech_at_white_house/53ff5686f46ac55ae5357e6e7856faf0f5f15173.flv",
+    "average_rate": 30.0,
+    "duration": 484.971,
+    "nb_frames": 14537,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/53ff5686f46ac55ae5357e6e7856faf0f5f15173"
+  },
+  "1c3639a371f22ee3e5f111d4b9d2b045cfa6fb02": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/osama_bin_laden_is_dead_obama_speech_at_white_house/1c3639a371f22ee3e5f111d4b9d2b045cfa6fb02.flv",
+    "average_rate": 29.97,
+    "duration": 546.285,
+    "nb_frames": 16345,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/1c3639a371f22ee3e5f111d4b9d2b045cfa6fb02"
+  },
+  "3edda6ce4f34d8bcc1b3843100c36ddbef3c46df": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/osama_bin_laden_is_dead_obama_speech_at_white_house/3edda6ce4f34d8bcc1b3843100c36ddbef3c46df.flv",
+    "average_rate": 30.0,
+    "duration": 560.135,
+    "nb_frames": 16789,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/3edda6ce4f34d8bcc1b3843100c36ddbef3c46df"
+  },
+  "3f8bfd743657405ffa42909e84260dbd843bd9c2": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/osama_bin_laden_is_dead_obama_speech_at_white_house/3f8bfd743657405ffa42909e84260dbd843bd9c2.flv",
+    "average_rate": 29.97,
+    "duration": 567.651,
+    "nb_frames": 16984,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/3f8bfd743657405ffa42909e84260dbd843bd9c2"
+  },
+  "9d75e3dc43f2ca2384f91cc2bdcf1dd3fe0c3234": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/osama_bin_laden_is_dead_obama_speech_at_white_house/9d75e3dc43f2ca2384f91cc2bdcf1dd3fe0c3234.flv",
+    "average_rate": 25.0,
+    "duration": 73.52,
+    "nb_frames": 1839,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/9d75e3dc43f2ca2384f91cc2bdcf1dd3fe0c3234"
+  },
+  "28a7b8e86a5bc14c3668248d3a1395af9d58cdcb": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/osama_bin_laden_is_dead_obama_speech_at_white_house/28a7b8e86a5bc14c3668248d3a1395af9d58cdcb.mp4",
+    "average_rate": 23.976,
+    "duration": 731.385,
+    "nb_frames": 17536,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/28a7b8e86a5bc14c3668248d3a1395af9d58cdcb"
+  },
+  "44aa92f8d96a98a015dba6eb0680bb97699af83f": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/osama_bin_laden_is_dead_obama_speech_at_white_house/44aa92f8d96a98a015dba6eb0680bb97699af83f.mp4",
+    "average_rate": 29.97,
+    "duration": 567.65,
+    "nb_frames": 16983,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/44aa92f8d96a98a015dba6eb0680bb97699af83f"
+  },
+  "91b2f55c188b8aa362fd2d2ac6bd08dbe7146bd5": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/osama_bin_laden_is_dead_obama_speech_at_white_house/91b2f55c188b8aa362fd2d2ac6bd08dbe7146bd5.flv",
+    "average_rate": 29.97,
+    "duration": 232.693,
+    "nb_frames": 6963,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/91b2f55c188b8aa362fd2d2ac6bd08dbe7146bd5"
+  },
+  "5f67871d5d377ddc9743ec8fce5f362f09621466": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/osama_bin_laden_is_dead_obama_speech_at_white_house/5f67871d5d377ddc9743ec8fce5f362f09621466.mp4",
+    "average_rate": 30.0,
+    "duration": 570.678,
+    "nb_frames": 17104,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/5f67871d5d377ddc9743ec8fce5f362f09621466"
+  },
+  "6885d63183d393307f6f2206f0dfaccec2d09389": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/osama_bin_laden_is_dead_obama_speech_at_white_house/6885d63183d393307f6f2206f0dfaccec2d09389.mp4",
+    "average_rate": 20.841,
+    "duration": 705.632,
+    "nb_frames": 14702,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/6885d63183d393307f6f2206f0dfaccec2d09389"
+  },
+  "7b0ad0591b074a11dccac902cb5729f658645f01": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/osama_bin_laden_is_dead_obama_speech_at_white_house/7b0ad0591b074a11dccac902cb5729f658645f01.mp4",
+    "average_rate": 24.177,
+    "duration": 558.388,
+    "nb_frames": 13495,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/7b0ad0591b074a11dccac902cb5729f658645f01"
+  },
+  "9b618181a0cb19eaaa18728b72825b0b4d7d5ef4": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/osama_bin_laden_is_dead_obama_speech_at_white_house/9b618181a0cb19eaaa18728b72825b0b4d7d5ef4.mp4",
+    "average_rate": 30.0,
+    "duration": 269.805,
+    "nb_frames": 8087,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/9b618181a0cb19eaaa18728b72825b0b4d7d5ef4"
+  },
+  "b65af0803a5dcaac7776b7c8648091ca3bec8471": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/osama_bin_laden_is_dead_obama_speech_at_white_house/b65af0803a5dcaac7776b7c8648091ca3bec8471.mp4",
+    "average_rate": 29.97,
+    "duration": 181.033,
+    "nb_frames": 5417,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/b65af0803a5dcaac7776b7c8648091ca3bec8471"
+  },
+  "daa0d7da05e7475ca5cb9b2a91fb968e65725ecb": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/osama_bin_laden_is_dead_obama_speech_at_white_house/daa0d7da05e7475ca5cb9b2a91fb968e65725ecb.flv",
+    "average_rate": 29.97,
+    "duration": 118.436,
+    "nb_frames": 3545,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/daa0d7da05e7475ca5cb9b2a91fb968e65725ecb"
+  },
+  "eaa384490867c32e4b3cc0d7d969af63d1a6edda": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/osama_bin_laden_is_dead_obama_speech_at_white_house/eaa384490867c32e4b3cc0d7d969af63d1a6edda.flv",
+    "average_rate": 30.0,
+    "duration": 59.713,
+    "nb_frames": 1792,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/eaa384490867c32e4b3cc0d7d969af63d1a6edda"
+  },
+  "ebe5fd08a5d05f2af96f425bc894860bac3f9ba6": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/osama_bin_laden_is_dead_obama_speech_at_white_house/ebe5fd08a5d05f2af96f425bc894860bac3f9ba6.flv",
+    "average_rate": 29.97,
+    "duration": 30.257,
+    "nb_frames": 907,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/ebe5fd08a5d05f2af96f425bc894860bac3f9ba6"
+  },
+  "a92bd54b230f71a3542ffda4285be00336118261": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/osama_bin_laden_is_dead_obama_speech_at_white_house/a92bd54b230f71a3542ffda4285be00336118261.flv",
+    "average_rate": 30.0,
+    "duration": 322.946,
+    "nb_frames": 9681,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/a92bd54b230f71a3542ffda4285be00336118261"
+  },
+  "e3cfb1f40fb5690a700aba9ac1fa35be2fd4ff1f": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/osama_bin_laden_is_dead_obama_speech_at_white_house/e3cfb1f40fb5690a700aba9ac1fa35be2fd4ff1f.flv",
+    "average_rate": 25.0,
+    "duration": 147.88,
+    "nb_frames": 3698,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/e3cfb1f40fb5690a700aba9ac1fa35be2fd4ff1f"
+  },
+  "bc0f16fd0538091a9e1eba02a8da9559e2751f6f": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/osama_bin_laden_is_dead_obama_speech_at_white_house/bc0f16fd0538091a9e1eba02a8da9559e2751f6f.mp4",
+    "average_rate": 30.0,
+    "duration": 356.315,
+    "nb_frames": 10680,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/bc0f16fd0538091a9e1eba02a8da9559e2751f6f"
+  },
+  "89b40b8ef5ec589cd8e4ebe5970e6b488f6b31ad": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/osama_bin_laden_is_dead_obama_speech_at_white_house/89b40b8ef5ec589cd8e4ebe5970e6b488f6b31ad.flv",
+    "average_rate": 29.918,
+    "duration": 608.398,
+    "nb_frames": 18203,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/89b40b8ef5ec589cd8e4ebe5970e6b488f6b31ad"
+  },
+  "00274a923e13506819bd273c694d10cfa07ce1ec": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/president_obama_takes_oath/00274a923e13506819bd273c694d10cfa07ce1ec.flv",
+    "average_rate": 15.0,
+    "duration": 81.92,
+    "nb_frames": 1224,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/00274a923e13506819bd273c694d10cfa07ce1ec"
+  },
+  "fc168483b05a1a3534dedd973585642bd0f0edb8": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/osama_bin_laden_is_dead_obama_speech_at_white_house/fc168483b05a1a3534dedd973585642bd0f0edb8.flv",
+    "average_rate": 30.0,
+    "duration": 115.674,
+    "nb_frames": 3469,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/fc168483b05a1a3534dedd973585642bd0f0edb8"
+  },
+  "df9176364d95bda36fced3537e44b838cb548e78": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/osama_bin_laden_is_dead_obama_speech_at_white_house/df9176364d95bda36fced3537e44b838cb548e78.flv",
+    "average_rate": 17.591,
+    "duration": 579.904,
+    "nb_frames": 10198,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/df9176364d95bda36fced3537e44b838cb548e78"
+  },
+  "0dc847c3b563024b2052b75a28952c2434d059d1": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/president_obama_takes_oath/0dc847c3b563024b2052b75a28952c2434d059d1.flv",
+    "average_rate": 30.0,
+    "duration": 84.056,
+    "nb_frames": 2510,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/0dc847c3b563024b2052b75a28952c2434d059d1"
+  },
+  "a8ad757811a9292d6184ff2f16f7be2ce686a605": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/osama_bin_laden_is_dead_obama_speech_at_white_house/a8ad757811a9292d6184ff2f16f7be2ce686a605.flv",
+    "average_rate": 30.0,
+    "duration": 572.515,
+    "nb_frames": 17160,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/a8ad757811a9292d6184ff2f16f7be2ce686a605"
+  },
+  "10f0d273cc6c1f888004537f30d5ef577b6d95e3": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/president_obama_takes_oath/10f0d273cc6c1f888004537f30d5ef577b6d95e3.flv",
+    "average_rate": 29.97,
+    "duration": 38.266,
+    "nb_frames": 1134,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/10f0d273cc6c1f888004537f30d5ef577b6d95e3"
+  },
+  "32b25dee50d2c710b1122afe7371b9fa274241d6": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/president_obama_takes_oath/32b25dee50d2c710b1122afe7371b9fa274241d6.flv",
+    "average_rate": 11.983,
+    "duration": 59.257,
+    "nb_frames": 707,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/32b25dee50d2c710b1122afe7371b9fa274241d6"
+  },
+  "d073f04bba4abb056f4be01b6f1bf5b58bb330de": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/osama_bin_laden_is_dead_obama_speech_at_white_house/d073f04bba4abb056f4be01b6f1bf5b58bb330de.flv",
+    "average_rate": 29.97,
+    "duration": 562.737,
+    "nb_frames": 16837,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/d073f04bba4abb056f4be01b6f1bf5b58bb330de"
+  },
+  "1d4062ded72a30caa898d2bb9c105994c8a96acc": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/president_obama_takes_oath/1d4062ded72a30caa898d2bb9c105994c8a96acc.flv",
+    "average_rate": 30.0,
+    "duration": 88.235,
+    "nb_frames": 2633,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/1d4062ded72a30caa898d2bb9c105994c8a96acc"
+  },
+  "bb1de1926803eea0fa311556b1c991fab3a73396": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/osama_bin_laden_is_dead_obama_speech_at_white_house/bb1de1926803eea0fa311556b1c991fab3a73396.flv",
+    "average_rate": 29.97,
+    "duration": 599.9,
+    "nb_frames": 17980,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/bb1de1926803eea0fa311556b1c991fab3a73396"
+  },
+  "d7fd4ee52ade46db49e9fbabdf5d964ce0677961": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/osama_bin_laden_is_dead_obama_speech_at_white_house/d7fd4ee52ade46db49e9fbabdf5d964ce0677961.flv",
+    "average_rate": 30.0,
+    "duration": 576.937,
+    "nb_frames": 17293,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/d7fd4ee52ade46db49e9fbabdf5d964ce0677961"
+  },
+  "3f4c158b7f419867204968bd5e1f70003fefc889": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/president_obama_takes_oath/3f4c158b7f419867204968bd5e1f70003fefc889.flv",
+    "average_rate": 30.0,
+    "duration": 77.136,
+    "nb_frames": 2301,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/3f4c158b7f419867204968bd5e1f70003fefc889"
+  },
+  "d8bc8b695ab831b8f511dd2ab56d7e7ac0cd1a21": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/osama_bin_laden_is_dead_obama_speech_at_white_house/d8bc8b695ab831b8f511dd2ab56d7e7ac0cd1a21.flv",
+    "average_rate": 30.0,
+    "duration": 568.377,
+    "nb_frames": 17036,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/d8bc8b695ab831b8f511dd2ab56d7e7ac0cd1a21"
+  },
+  "1f025a1f075ff2d25d5469a1343932e09ea13b2a": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/president_obama_takes_oath/1f025a1f075ff2d25d5469a1343932e09ea13b2a.flv",
+    "average_rate": 29.97,
+    "duration": 142.431,
+    "nb_frames": 4257,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/1f025a1f075ff2d25d5469a1343932e09ea13b2a"
+  },
+  "4120e70bc6332bd6010e76b0054c45653bfa6f94": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/president_obama_takes_oath/4120e70bc6332bd6010e76b0054c45653bfa6f94.flv",
+    "average_rate": 25.0,
+    "duration": 99.381,
+    "nb_frames": 2471,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/4120e70bc6332bd6010e76b0054c45653bfa6f94"
+  },
+  "50267c2376f0e05d38f8d468d4bb403fab5cc454": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/president_obama_takes_oath/50267c2376f0e05d38f8d468d4bb403fab5cc454.flv",
+    "average_rate": 30.0,
+    "duration": 73.607,
+    "nb_frames": 2196,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/50267c2376f0e05d38f8d468d4bb403fab5cc454"
+  },
+  "750357acf34899c1c99eb2ae22880c88a776c946": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/president_obama_takes_oath/750357acf34899c1c99eb2ae22880c88a776c946.flv",
+    "average_rate": 8.079,
+    "duration": 53.266,
+    "nb_frames": 429,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/750357acf34899c1c99eb2ae22880c88a776c946"
+  },
+  "69bcf906c79504494d9f23192f4801b61b4fd966": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/president_obama_takes_oath/69bcf906c79504494d9f23192f4801b61b4fd966.flv",
+    "average_rate": 12.0,
+    "duration": 144.939,
+    "nb_frames": 1731,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/69bcf906c79504494d9f23192f4801b61b4fd966"
+  },
+  "7c34e7d6022bcd3c7c225feed3fca1e8e72249a4": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/president_obama_takes_oath/7c34e7d6022bcd3c7c225feed3fca1e8e72249a4.flv",
+    "average_rate": 25.0,
+    "duration": 99.381,
+    "nb_frames": 2471,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/7c34e7d6022bcd3c7c225feed3fca1e8e72249a4"
+  },
+  "66246823d79897fd7d93677c6c0244a3cbd4657f": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/president_obama_takes_oath/66246823d79897fd7d93677c6c0244a3cbd4657f.flv",
+    "average_rate": 29.258,
+    "duration": 119.582,
+    "nb_frames": 3486,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/66246823d79897fd7d93677c6c0244a3cbd4657f"
+  },
+  "8cd04dbb4576f83ebe1f480d6a33a24c3a5882bd": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/president_obama_takes_oath/8cd04dbb4576f83ebe1f480d6a33a24c3a5882bd.flv",
+    "average_rate": 30.0,
+    "duration": 89.211,
+    "nb_frames": 2665,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/8cd04dbb4576f83ebe1f480d6a33a24c3a5882bd"
+  },
+  "55dde762dc283ee301065f670b6d7c08c3c32668": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/president_obama_takes_oath/55dde762dc283ee301065f670b6d7c08c3c32668.flv",
+    "average_rate": 30.0,
+    "duration": 149.833,
+    "nb_frames": 4495,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/55dde762dc283ee301065f670b6d7c08c3c32668"
+  },
+  "ecae756c95dc0d66827d30767e944c781eef7ea7": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/osama_bin_laden_is_dead_obama_speech_at_white_house/ecae756c95dc0d66827d30767e944c781eef7ea7.flv",
+    "average_rate": 30.0,
+    "duration": 541.515,
+    "nb_frames": 16231,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/ecae756c95dc0d66827d30767e944c781eef7ea7"
+  },
+  "8f95e2c9940b1ea46fa23702ca70f4cbefd9e3ef": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/president_obama_takes_oath/8f95e2c9940b1ea46fa23702ca70f4cbefd9e3ef.flv",
+    "average_rate": 29.97,
+    "duration": 87.26,
+    "nb_frames": 2600,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/8f95e2c9940b1ea46fa23702ca70f4cbefd9e3ef"
+  },
+  "0234aef03d60f071f6fb30f366e79bcc1a05cf14": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/president_obama_takes_oath/0234aef03d60f071f6fb30f366e79bcc1a05cf14.flv",
+    "average_rate": 25.0,
+    "duration": 475.544,
+    "nb_frames": 11879,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/0234aef03d60f071f6fb30f366e79bcc1a05cf14"
+  },
+  "9d4fe306b83253fdd9734daaf6d56df5a5ec648f": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/president_obama_takes_oath/9d4fe306b83253fdd9734daaf6d56df5a5ec648f.flv",
+    "average_rate": 30.0,
+    "duration": 53.359,
+    "nb_frames": 1588,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/9d4fe306b83253fdd9734daaf6d56df5a5ec648f"
+  },
+  "855f0c045b8b0f8f74a6e8a8d7cfc4aff5fbcc4b": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/president_obama_takes_oath/855f0c045b8b0f8f74a6e8a8d7cfc4aff5fbcc4b.flv",
+    "average_rate": 29.97,
+    "duration": 139.505,
+    "nb_frames": 4168,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/855f0c045b8b0f8f74a6e8a8d7cfc4aff5fbcc4b"
+  },
+  "a9edef40077c3d7c638dae4a24a83bf6e42b34b1": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/president_obama_takes_oath/a9edef40077c3d7c638dae4a24a83bf6e42b34b1.flv",
+    "average_rate": 30.0,
+    "duration": 34.969,
+    "nb_frames": 1038,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/a9edef40077c3d7c638dae4a24a83bf6e42b34b1"
+  },
+  "9efa8c1165cc587476f284ecda53b88c9fd92697": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/president_obama_takes_oath/9efa8c1165cc587476f284ecda53b88c9fd92697.flv",
+    "average_rate": 30.0,
+    "duration": 53.359,
+    "nb_frames": 1588,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/9efa8c1165cc587476f284ecda53b88c9fd92697"
+  },
+  "d083d6a9a987fb0e37dddc0f134704a29677899c": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/president_obama_takes_oath/d083d6a9a987fb0e37dddc0f134704a29677899c.flv",
+    "average_rate": 25.0,
+    "duration": 46.904,
+    "nb_frames": 1160,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/d083d6a9a987fb0e37dddc0f134704a29677899c"
+  },
+  "9e9f2730f5f2bb277d07f7125372352597274f6b": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/president_obama_takes_oath/9e9f2730f5f2bb277d07f7125372352597274f6b.flv",
+    "average_rate": 30.0,
+    "duration": 79.087,
+    "nb_frames": 2360,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/9e9f2730f5f2bb277d07f7125372352597274f6b"
+  },
+  "f27d7252cfb03e3e051488a53801235840f7a58e": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/osama_bin_laden_is_dead_obama_speech_at_white_house/f27d7252cfb03e3e051488a53801235840f7a58e.flv",
+    "average_rate": 29.97,
+    "duration": 560.124,
+    "nb_frames": 16759,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/f27d7252cfb03e3e051488a53801235840f7a58e"
+  },
+  "df097cb467b3a43683f48082099cfdfddae84f37": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/president_obama_takes_oath/df097cb467b3a43683f48082099cfdfddae84f37.flv",
+    "average_rate": 30.0,
+    "duration": 53.359,
+    "nb_frames": 1588,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/df097cb467b3a43683f48082099cfdfddae84f37"
+  },
+  "b728eae73b1705d4ef3884b5d536273c5cb47fbd": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/president_obama_takes_oath/b728eae73b1705d4ef3884b5d536273c5cb47fbd.flv",
+    "average_rate": 30.0,
+    "duration": 88.235,
+    "nb_frames": 2633,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/b728eae73b1705d4ef3884b5d536273c5cb47fbd"
+  },
+  "edae2238f87dce9981af2e1c472096e6694da1a1": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/osama_bin_laden_is_dead_obama_speech_at_white_house/edae2238f87dce9981af2e1c472096e6694da1a1.flv",
+    "average_rate": 20.167,
+    "duration": 926.563,
+    "nb_frames": 18687,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/edae2238f87dce9981af2e1c472096e6694da1a1"
+  },
+  "f410b354eec142d6e0f1124bffe6aad83d8dc427": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/president_obama_takes_oath/f410b354eec142d6e0f1124bffe6aad83d8dc427.flv",
+    "average_rate": 30.0,
+    "duration": 55.96,
+    "nb_frames": 1667,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/f410b354eec142d6e0f1124bffe6aad83d8dc427"
+  },
+  "e29e65d0e362b8e7d450d833227ea3c0f5f65f12": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/president_obama_takes_oath/e29e65d0e362b8e7d450d833227ea3c0f5f65f12.flv",
+    "average_rate": 25.0,
+    "duration": 99.381,
+    "nb_frames": 2471,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/e29e65d0e362b8e7d450d833227ea3c0f5f65f12"
+  },
+  "e2cecbbd4e5683a610152e4b0e83deaa5090384a": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/president_obama_takes_oath/e2cecbbd4e5683a610152e4b0e83deaa5090384a.flv",
+    "average_rate": 30.0,
+    "duration": 126.409,
+    "nb_frames": 3780,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/e2cecbbd4e5683a610152e4b0e83deaa5090384a"
+  },
+  "0c3c3c22cd9caef7491e07a3176e6e27a0ef06a2": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/ronaldinho_ping_pong/0c3c3c22cd9caef7491e07a3176e6e27a0ef06a2.flv",
+    "average_rate": 30.0,
+    "duration": 99.079,
+    "nb_frames": 2957,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/0c3c3c22cd9caef7491e07a3176e6e27a0ef06a2"
+  },
+  "64c86092addbb5b3de44a4412d52509fdda5c38c": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/ronaldinho_ping_pong/64c86092addbb5b3de44a4412d52509fdda5c38c.flv",
+    "average_rate": 25.0,
+    "duration": 120.511,
+    "nb_frames": 3000,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/64c86092addbb5b3de44a4412d52509fdda5c38c"
+  },
+  "089bc4a7f6d8747dad92507019b100c5ec09a883": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/president_obama_takes_oath/089bc4a7f6d8747dad92507019b100c5ec09a883.flv",
+    "average_rate": 30.0,
+    "duration": 599.214,
+    "nb_frames": 17964,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/089bc4a7f6d8747dad92507019b100c5ec09a883"
+  },
+  "fca7e9c46b6ec4b8cb53ff17d93bef484a341c5b": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/president_obama_takes_oath/fca7e9c46b6ec4b8cb53ff17d93bef484a341c5b.flv",
+    "average_rate": 29.97,
+    "duration": 167.044,
+    "nb_frames": 4993,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/fca7e9c46b6ec4b8cb53ff17d93bef484a341c5b"
+  },
+  "4f1435d832285500d7663d893b9eeba69262321a": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/ronaldinho_ping_pong/4f1435d832285500d7663d893b9eeba69262321a.flv",
+    "average_rate": 25.0,
+    "duration": 165.744,
+    "nb_frames": 4131,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/4f1435d832285500d7663d893b9eeba69262321a"
+  },
+  "275ca13a391d89d08b7de46c23c4430070c3251c": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/ronaldinho_ping_pong/275ca13a391d89d08b7de46c23c4430070c3251c.flv",
+    "average_rate": 25.0,
+    "duration": 185.434,
+    "nb_frames": 4623,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/275ca13a391d89d08b7de46c23c4430070c3251c"
+  },
+  "5567a1bb5b9767342dc99baea8d67508ca22c046": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/ronaldinho_ping_pong/5567a1bb5b9767342dc99baea8d67508ca22c046.flv",
+    "average_rate": 25.0,
+    "duration": 165.744,
+    "nb_frames": 4131,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/5567a1bb5b9767342dc99baea8d67508ca22c046"
+  },
+  "ea224722e7d3ef9c44d8140a2e435469384204d8": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/president_obama_takes_oath/ea224722e7d3ef9c44d8140a2e435469384204d8.flv",
+    "average_rate": 30.0,
+    "duration": 197.183,
+    "nb_frames": 5901,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/ea224722e7d3ef9c44d8140a2e435469384204d8"
+  },
+  "980970c70070421c46fb122e7a6ebc59682e697d": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/ronaldinho_ping_pong/980970c70070421c46fb122e7a6ebc59682e697d.flv",
+    "average_rate": 25.0,
+    "duration": 185.434,
+    "nb_frames": 4623,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/980970c70070421c46fb122e7a6ebc59682e697d"
+  },
+  "8f19329946455ae5c2c7b788ea6f6513bf5e1c9a": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/run_forrest_fun/8f19329946455ae5c2c7b788ea6f6513bf5e1c9a.flv",
+    "average_rate": 29.922,
+    "duration": 2.975,
+    "nb_frames": 89,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/8f19329946455ae5c2c7b788ea6f6513bf5e1c9a"
+  },
+  "b88ae034eae2bb791dd880f003eb73882380a488": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/ronaldinho_ping_pong/b88ae034eae2bb791dd880f003eb73882380a488.mp4",
+    "average_rate": 15.167,
+    "duration": 154.612,
+    "nb_frames": 2345,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/b88ae034eae2bb791dd880f003eb73882380a488"
+  },
+  "a5df43e25319b10af46225849677bd30b916ce81": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/ronaldinho_ping_pong/a5df43e25319b10af46225849677bd30b916ce81.flv",
+    "average_rate": 25.0,
+    "duration": 185.458,
+    "nb_frames": 4623,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/a5df43e25319b10af46225849677bd30b916ce81"
+  },
+  "ab2879d4e100749bb69b5892c86778853022af77": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/ronaldinho_ping_pong/ab2879d4e100749bb69b5892c86778853022af77.flv",
+    "average_rate": 25.0,
+    "duration": 185.434,
+    "nb_frames": 4623,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/ab2879d4e100749bb69b5892c86778853022af77"
+  },
+  "1777dc7aada63176bc9d3d87a5ce322163cfe4e6": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/run_forrest_fun/1777dc7aada63176bc9d3d87a5ce322163cfe4e6.flv",
+    "average_rate": 29.97,
+    "duration": 100.781,
+    "nb_frames": 3016,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/1777dc7aada63176bc9d3d87a5ce322163cfe4e6"
+  },
+  "067fb2aa9623905a42a2b0b286de1386e45c5bf8": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/run_forrest_fun/067fb2aa9623905a42a2b0b286de1386e45c5bf8.flv",
+    "average_rate": 25.0,
+    "duration": 139.459,
+    "nb_frames": 3473,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/067fb2aa9623905a42a2b0b286de1386e45c5bf8"
+  },
+  "af580b9a475c8f5c4143ab604f85751a68e3beb1": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/ronaldinho_ping_pong/af580b9a475c8f5c4143ab604f85751a68e3beb1.flv",
+    "average_rate": 25.0,
+    "duration": 165.744,
+    "nb_frames": 4131,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/af580b9a475c8f5c4143ab604f85751a68e3beb1"
+  },
+  "d909ebd329acb38fdfd631252e05c273e58e60d3": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/ronaldinho_ping_pong/d909ebd329acb38fdfd631252e05c273e58e60d3.mp4",
+    "average_rate": 25.0,
+    "duration": 165.16,
+    "nb_frames": 4129,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/d909ebd329acb38fdfd631252e05c273e58e60d3"
+  },
+  "0421e862855ae81fd14e804d0758ab7917b5335c": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/saving_private_ryan_omaha_beach/0421e862855ae81fd14e804d0758ab7917b5335c.flv",
+    "average_rate": 25.0,
+    "duration": 100.263,
+    "nb_frames": 2495,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/0421e862855ae81fd14e804d0758ab7917b5335c"
+  },
+  "b545808db002bde2b5f478efbb57e5fe62a8f324": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/run_forrest_fun/b545808db002bde2b5f478efbb57e5fe62a8f324.flv",
+    "average_rate": 23.976,
+    "duration": 161.662,
+    "nb_frames": 3876,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/b545808db002bde2b5f478efbb57e5fe62a8f324"
+  },
+  "da8b354493c2707adb8f361814cd2af92a7a040d": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/run_forrest_fun/da8b354493c2707adb8f361814cd2af92a7a040d.flv",
+    "average_rate": 23.976,
+    "duration": 161.662,
+    "nb_frames": 3876,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/da8b354493c2707adb8f361814cd2af92a7a040d"
+  },
+  "c39a06345b2c3b563c5f8a43dfef7541cf8f0e61": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/run_forrest_fun/c39a06345b2c3b563c5f8a43dfef7541cf8f0e61.flv",
+    "average_rate": 23.976,
+    "duration": 161.796,
+    "nb_frames": 3876,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/c39a06345b2c3b563c5f8a43dfef7541cf8f0e61"
+  },
+  "54b8c1ae26a16400c15badbae407c809b3ebf03c": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/president_obama_takes_oath/54b8c1ae26a16400c15badbae407c809b3ebf03c.flv",
+    "average_rate": 15.0,
+    "duration": 1369.605,
+    "nb_frames": 20536,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/54b8c1ae26a16400c15badbae407c809b3ebf03c"
+  },
+  "200130e0c39f0239a22ad3f873feac30e88134df": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/saving_private_ryan_omaha_beach/200130e0c39f0239a22ad3f873feac30e88134df.flv",
+    "average_rate": 30.0,
+    "duration": 161.007,
+    "nb_frames": 4830,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/200130e0c39f0239a22ad3f873feac30e88134df"
+  },
+  "283043f1c1433d9205416d2922764421d3d7e34e": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/saving_private_ryan_omaha_beach/283043f1c1433d9205416d2922764421d3d7e34e.flv",
+    "average_rate": 23.976,
+    "duration": 161.662,
+    "nb_frames": 3876,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/283043f1c1433d9205416d2922764421d3d7e34e"
+  },
+  "25b4ccc2b3166b565dde7192ed3b7b43921439dd": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/saving_private_ryan_omaha_beach/25b4ccc2b3166b565dde7192ed3b7b43921439dd.flv",
+    "average_rate": 25.0,
+    "duration": 255.744,
+    "nb_frames": 6381,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/25b4ccc2b3166b565dde7192ed3b7b43921439dd"
+  },
+  "31a250020d2cd699bc5fc42897f7522043713cf5": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/saving_private_ryan_omaha_beach/31a250020d2cd699bc5fc42897f7522043713cf5.flv",
+    "average_rate": 30.0,
+    "duration": 188.035,
+    "nb_frames": 5640,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/31a250020d2cd699bc5fc42897f7522043713cf5"
+  },
+  "7033506abf8c15d8f22f26f9ad88dd531cbffb8f": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/saving_private_ryan_omaha_beach/7033506abf8c15d8f22f26f9ad88dd531cbffb8f.flv",
+    "average_rate": 23.976,
+    "duration": 162.663,
+    "nb_frames": 3900,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/7033506abf8c15d8f22f26f9ad88dd531cbffb8f"
+  },
+  "694b83f937e8ae9a390c5ed1004d5ef1f8643ae4": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/saving_private_ryan_omaha_beach/694b83f937e8ae9a390c5ed1004d5ef1f8643ae4.flv",
+    "average_rate": 29.97,
+    "duration": 271.318,
+    "nb_frames": 8118,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/694b83f937e8ae9a390c5ed1004d5ef1f8643ae4"
+  },
+  "957f17421e19ce01afd6f92c895aba72342bd8ea": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/obama_kicks_door/957f17421e19ce01afd6f92c895aba72342bd8ea.flv",
+    "average_rate": 25.0,
+    "duration": 2662.32,
+    "nb_frames": 66559,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/957f17421e19ce01afd6f92c895aba72342bd8ea"
+  },
+  "5aff6ecadb439bb9c16a215188258f9474052fae": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/saving_private_ryan_omaha_beach/5aff6ecadb439bb9c16a215188258f9474052fae.flv",
+    "average_rate": 29.97,
+    "duration": 320.667,
+    "nb_frames": 9595,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/5aff6ecadb439bb9c16a215188258f9474052fae"
+  },
+  "81898f5820b268138f9c80284d0118105ffc3712": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/saving_private_ryan_omaha_beach/81898f5820b268138f9c80284d0118105ffc3712.flv",
+    "average_rate": 25.0,
+    "duration": 199.506,
+    "nb_frames": 4975,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/81898f5820b268138f9c80284d0118105ffc3712"
+  },
+  "7759574accbb8bf3b47365c39f31ba8a728481c4": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/saving_private_ryan_omaha_beach/7759574accbb8bf3b47365c39f31ba8a728481c4.flv",
+    "average_rate": 24.0,
+    "duration": 257.973,
+    "nb_frames": 6188,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/7759574accbb8bf3b47365c39f31ba8a728481c4"
+  },
+  "25ba77da725f9247cf8a84bb370cf40ac74297d2": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/saving_private_ryan_omaha_beach/25ba77da725f9247cf8a84bb370cf40ac74297d2.flv",
+    "average_rate": 25.0,
+    "duration": 533.56,
+    "nb_frames": 13339,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/25ba77da725f9247cf8a84bb370cf40ac74297d2"
+  },
+  "704ed7f6755163d92e4344ede58a30e14ceb5ed4": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/saving_private_ryan_omaha_beach/704ed7f6755163d92e4344ede58a30e14ceb5ed4.flv",
+    "average_rate": 29.97,
+    "duration": 313.887,
+    "nb_frames": 9395,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/704ed7f6755163d92e4344ede58a30e14ceb5ed4"
+  },
+  "aa314017a4a18f05208d8702c27d16d57df3f55f": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/saving_private_ryan_omaha_beach/aa314017a4a18f05208d8702c27d16d57df3f55f.mp4",
+    "average_rate": 29.97,
+    "duration": 56.99,
+    "nb_frames": 1709,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/aa314017a4a18f05208d8702c27d16d57df3f55f"
+  },
+  "743b4b30bf4fa11e3231dd0cc319016db1cb5b73": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/saving_private_ryan_omaha_beach/743b4b30bf4fa11e3231dd0cc319016db1cb5b73.flv",
+    "average_rate": 29.97,
+    "duration": 313.887,
+    "nb_frames": 9395,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/743b4b30bf4fa11e3231dd0cc319016db1cb5b73"
+  },
+  "1a9a30abe7dee2eaa52c82490ee117cc399f583e": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/saving_private_ryan_omaha_beach/1a9a30abe7dee2eaa52c82490ee117cc399f583e.flv",
+    "average_rate": 30.0,
+    "duration": 581.574,
+    "nb_frames": 17431,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/1a9a30abe7dee2eaa52c82490ee117cc399f583e"
+  },
+  "a257de343d6734f0fc478da98cfedf773ea407a4": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/saving_private_ryan_omaha_beach/a257de343d6734f0fc478da98cfedf773ea407a4.mp4",
+    "average_rate": 11.605,
+    "duration": 430.073,
+    "nb_frames": 4983,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/a257de343d6734f0fc478da98cfedf773ea407a4"
+  },
+  "9f3d3762943c662470d78368a29a067952a97933": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/saving_private_ryan_omaha_beach/9f3d3762943c662470d78368a29a067952a97933.flv",
+    "average_rate": 30.0,
+    "duration": 196.742,
+    "nb_frames": 5887,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/9f3d3762943c662470d78368a29a067952a97933"
+  },
+  "96642d7998cdd226b395153b7d8f3d36655c0176": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/saving_private_ryan_omaha_beach/96642d7998cdd226b395153b7d8f3d36655c0176.flv",
+    "average_rate": 25.0,
+    "duration": 249.986,
+    "nb_frames": 6237,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/96642d7998cdd226b395153b7d8f3d36655c0176"
+  },
+  "c6d6d37c73f364e3902407e1da07c8e354f66c13": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/president_obama_takes_oath/c6d6d37c73f364e3902407e1da07c8e354f66c13.flv",
+    "average_rate": 22.501,
+    "duration": 1310.604,
+    "nb_frames": 29477,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/c6d6d37c73f364e3902407e1da07c8e354f66c13"
+  },
+  "db06eed340d0873fc48b2129115f16c79c48678c": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/saving_private_ryan_omaha_beach/db06eed340d0873fc48b2129115f16c79c48678c.flv",
+    "average_rate": 23.976,
+    "duration": 161.662,
+    "nb_frames": 3876,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/db06eed340d0873fc48b2129115f16c79c48678c"
+  },
+  "aba6851ca7f78f3a83216005bef58766e3dfb26d": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/saving_private_ryan_omaha_beach/aba6851ca7f78f3a83216005bef58766e3dfb26d.flv",
+    "average_rate": 30.0,
+    "duration": 220.032,
+    "nb_frames": 6600,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/aba6851ca7f78f3a83216005bef58766e3dfb26d"
+  },
+  "136eff8ef85eee42b2370ad6e444498980ba63a8": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/scent_of_woman_tango/136eff8ef85eee42b2370ad6e444498980ba63a8.mp4",
+    "average_rate": 25.0,
+    "duration": 150.16,
+    "nb_frames": 3754,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/136eff8ef85eee42b2370ad6e444498980ba63a8"
+  },
+  "010aeeb1a5d471418ceab8f8c0d5f34d84059cff": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/scent_of_woman_tango/010aeeb1a5d471418ceab8f8c0d5f34d84059cff.flv",
+    "average_rate": 30.0,
+    "duration": 142.703,
+    "nb_frames": 4278,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/010aeeb1a5d471418ceab8f8c0d5f34d84059cff"
+  },
+  "16f1dd96af646d6ec01c5ec51c0fdfafd8206c0a": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/scent_of_woman_tango/16f1dd96af646d6ec01c5ec51c0fdfafd8206c0a.flv",
+    "average_rate": 23.976,
+    "duration": 152.903,
+    "nb_frames": 3666,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/16f1dd96af646d6ec01c5ec51c0fdfafd8206c0a"
+  },
+  "1ca9e47028d5d38e082ff7fbac68fb24d4bafc4f": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/scent_of_woman_tango/1ca9e47028d5d38e082ff7fbac68fb24d4bafc4f.mp4",
+    "average_rate": 25.0,
+    "duration": 139.078,
+    "nb_frames": 3476,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/1ca9e47028d5d38e082ff7fbac68fb24d4bafc4f"
+  },
+  "23b0c2b21d1471204cd3e3a1de22e8d98849abfe": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/scent_of_woman_tango/23b0c2b21d1471204cd3e3a1de22e8d98849abfe.flv",
+    "average_rate": 24.0,
+    "duration": 148.05,
+    "nb_frames": 3541,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/23b0c2b21d1471204cd3e3a1de22e8d98849abfe"
+  },
+  "7ac8224504f430258be5cf7c3e21bd2611fa7c77": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/run_forrest_fun/7ac8224504f430258be5cf7c3e21bd2611fa7c77.flv",
+    "average_rate": 29.97,
+    "duration": 916.95,
+    "nb_frames": 27481,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/7ac8224504f430258be5cf7c3e21bd2611fa7c77"
+  },
+  "8bb9090a95a07edf2fd021d64335bf7b4f428eb2": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/saving_private_ryan_omaha_beach/8bb9090a95a07edf2fd021d64335bf7b4f428eb2.flv",
+    "average_rate": 29.97,
+    "duration": 537.495,
+    "nb_frames": 16097,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/8bb9090a95a07edf2fd021d64335bf7b4f428eb2"
+  },
+  "e7831eba03ee7083a9d547fdde6adadaa05f3eeb": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/saving_private_ryan_omaha_beach/e7831eba03ee7083a9d547fdde6adadaa05f3eeb.flv",
+    "average_rate": 30.0,
+    "duration": 319.433,
+    "nb_frames": 9583,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/e7831eba03ee7083a9d547fdde6adadaa05f3eeb"
+  },
+  "2fe7b38b1cbdfdf5d6075ee2b2cd9fee2cf7d7c1": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/scent_of_woman_tango/2fe7b38b1cbdfdf5d6075ee2b2cd9fee2cf7d7c1.flv",
+    "average_rate": 25.0,
+    "duration": 142.6,
+    "nb_frames": 3565,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/2fe7b38b1cbdfdf5d6075ee2b2cd9fee2cf7d7c1"
+  },
+  "2cd2f88502bf8d74a3da0f257b47da823e0d42a0": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/scent_of_woman_tango/2cd2f88502bf8d74a3da0f257b47da823e0d42a0.flv",
+    "average_rate": 25.0,
+    "duration": 172.315,
+    "nb_frames": 4295,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/2cd2f88502bf8d74a3da0f257b47da823e0d42a0"
+  },
+  "72b76094f00ba7454dcf6fbeffc5f58f4977ce8b": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/scent_of_woman_tango/72b76094f00ba7454dcf6fbeffc5f58f4977ce8b.flv",
+    "average_rate": 29.97,
+    "duration": 41.912,
+    "nb_frames": 1256,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/72b76094f00ba7454dcf6fbeffc5f58f4977ce8b"
+  },
+  "31c0c6ca1fb0a7c86e0aff458bffd0002d42ef3e": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/scent_of_woman_tango/31c0c6ca1fb0a7c86e0aff458bffd0002d42ef3e.flv",
+    "average_rate": 25.0,
+    "duration": 189.359,
+    "nb_frames": 4721,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/31c0c6ca1fb0a7c86e0aff458bffd0002d42ef3e"
+  },
+  "3325a3c9120eb6e7d55bf2963a52991f7f47538d": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/scent_of_woman_tango/3325a3c9120eb6e7d55bf2963a52991f7f47538d.flv",
+    "average_rate": 24.0,
+    "duration": 147.934,
+    "nb_frames": 3538,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/3325a3c9120eb6e7d55bf2963a52991f7f47538d"
+  },
+  "7f520561558b365860cb88d5eb3e1e277f6a6a29": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/scent_of_woman_tango/7f520561558b365860cb88d5eb3e1e277f6a6a29.flv",
+    "average_rate": 24.0,
+    "duration": 12.5,
+    "nb_frames": 300,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/7f520561558b365860cb88d5eb3e1e277f6a6a29"
+  },
+  "2a3a855c1a79ccfda28c57c4a2bcdaa85c725787": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/scent_of_woman_tango/2a3a855c1a79ccfda28c57c4a2bcdaa85c725787.flv",
+    "average_rate": 25.0,
+    "duration": 266.635,
+    "nb_frames": 6665,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/2a3a855c1a79ccfda28c57c4a2bcdaa85c725787"
+  },
+  "46b544ed68b9a32afb08f2509c1e6776e9807037": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/scent_of_woman_tango/46b544ed68b9a32afb08f2509c1e6776e9807037.flv",
+    "average_rate": 29.97,
+    "duration": 150.721,
+    "nb_frames": 4502,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/46b544ed68b9a32afb08f2509c1e6776e9807037"
+  },
+  "481f7052a3be44d9f7d1f6d2f809c0a4f17cb175": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/scent_of_woman_tango/481f7052a3be44d9f7d1f6d2f809c0a4f17cb175.mp4",
+    "average_rate": 30.0,
+    "duration": 159.633,
+    "nb_frames": 4789,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/481f7052a3be44d9f7d1f6d2f809c0a4f17cb175"
+  },
+  "76d63613abd080fe83b99cffe29e85ef01b12d40": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/scent_of_woman_tango/76d63613abd080fe83b99cffe29e85ef01b12d40.flv",
+    "average_rate": 29.97,
+    "duration": 101.378,
+    "nb_frames": 3017,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/76d63613abd080fe83b99cffe29e85ef01b12d40"
+  },
+  "931eee04c9bc764b3005c949528dec603d1d8394": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/scent_of_woman_tango/931eee04c9bc764b3005c949528dec603d1d8394.flv",
+    "average_rate": 29.97,
+    "duration": 101.378,
+    "nb_frames": 3017,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/931eee04c9bc764b3005c949528dec603d1d8394"
+  },
+  "bdce7faffa2ce63db64ddab4fa10ac6752079020": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/saving_private_ryan_omaha_beach/bdce7faffa2ce63db64ddab4fa10ac6752079020.flv",
+    "average_rate": 25.0,
+    "duration": 719.04,
+    "nb_frames": 17976,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/bdce7faffa2ce63db64ddab4fa10ac6752079020"
+  },
+  "1b1badb376661cc4822989e45505f66e23cb65e4": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/scent_of_woman_tango/1b1badb376661cc4822989e45505f66e23cb65e4.flv",
+    "average_rate": 24.0,
+    "duration": 600.459,
+    "nb_frames": 14411,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/1b1badb376661cc4822989e45505f66e23cb65e4"
+  },
+  "99ed602c360a9781ed792eaa504ad1b89b51ae06": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/scent_of_woman_tango/99ed602c360a9781ed792eaa504ad1b89b51ae06.flv",
+    "average_rate": 29.97,
+    "duration": 157.691,
+    "nb_frames": 4726,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/99ed602c360a9781ed792eaa504ad1b89b51ae06"
+  },
+  "75b4b9a9fc4801a2f625297c698e5eef4ec37cfe": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/scent_of_woman_tango/75b4b9a9fc4801a2f625297c698e5eef4ec37cfe.flv",
+    "average_rate": 25.0,
+    "duration": 270.4,
+    "nb_frames": 6760,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/75b4b9a9fc4801a2f625297c698e5eef4ec37cfe"
+  },
+  "5b14829fbd7b9a97df21db5b990a57bc13e38a89": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/scent_of_woman_tango/5b14829fbd7b9a97df21db5b990a57bc13e38a89.flv",
+    "average_rate": 25.0,
+    "duration": 380.227,
+    "nb_frames": 9493,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/5b14829fbd7b9a97df21db5b990a57bc13e38a89"
+  },
+  "c29e02d9e847bcde39ee667b454e4d67b22b105c": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/scent_of_woman_tango/c29e02d9e847bcde39ee667b454e4d67b22b105c.flv",
+    "average_rate": 25.0,
+    "duration": 204.68,
+    "nb_frames": 5117,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/c29e02d9e847bcde39ee667b454e4d67b22b105c"
+  },
+  "d1a19730dcc2b5ea5bec61756c452772aae031dd": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/scent_of_woman_tango/d1a19730dcc2b5ea5bec61756c452772aae031dd.flv",
+    "average_rate": 29.97,
+    "duration": 140.411,
+    "nb_frames": 4207,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/d1a19730dcc2b5ea5bec61756c452772aae031dd"
+  },
+  "0cad474aedea70d42f8d8f2a6f9a21e3c40fa40b": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/brazil_vs_brazil_nike_commercial_2012/0cad474aedea70d42f8d8f2a6f9a21e3c40fa40b.flv",
+    "average_rate": 1000.0,
+    "duration": 44.962,
+    "nb_frames": 1079,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/0cad474aedea70d42f8d8f2a6f9a21e3c40fa40b"
+  },
+  "c9cee9c02cc23af3a26ee9548b895addd643974f": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/scent_of_woman_tango/c9cee9c02cc23af3a26ee9548b895addd643974f.flv",
+    "average_rate": 29.97,
+    "duration": 228.531,
+    "nb_frames": 6847,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/c9cee9c02cc23af3a26ee9548b895addd643974f"
+  },
+  "952cdd6aa1a8c2f63f9900960b3e18ffb217b97f": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/saving_private_ryan_omaha_beach/952cdd6aa1a8c2f63f9900960b3e18ffb217b97f.flv",
+    "average_rate": 30.0,
+    "duration": 871.12,
+    "nb_frames": 26130,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/952cdd6aa1a8c2f63f9900960b3e18ffb217b97f"
+  },
+  "ddf4ea3ad374dad0d4abc418418581632547f2fc": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/scent_of_woman_tango/ddf4ea3ad374dad0d4abc418418581632547f2fc.flv",
+    "average_rate": 30.0,
+    "duration": 147.566,
+    "nb_frames": 4427,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/ddf4ea3ad374dad0d4abc418418581632547f2fc"
+  },
+  "d503fe96854919e67233ef3367d8fef6a23e0220": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/scent_of_woman_tango/d503fe96854919e67233ef3367d8fef6a23e0220.flv",
+    "average_rate": 23.976,
+    "duration": 269.766,
+    "nb_frames": 6468,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/d503fe96854919e67233ef3367d8fef6a23e0220"
+  },
+  "e2409fb1749da3d3412fa0e5a1751c2fa0a6965d": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/scent_of_woman_tango/e2409fb1749da3d3412fa0e5a1751c2fa0a6965d.flv",
+    "average_rate": 29.97,
+    "duration": 150.837,
+    "nb_frames": 4503,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/e2409fb1749da3d3412fa0e5a1751c2fa0a6965d"
+  },
+  "f30a503af68c95032a23557171ed7f788f0df018": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/scent_of_woman_tango/f30a503af68c95032a23557171ed7f788f0df018.flv",
+    "average_rate": 24.0,
+    "duration": 147.417,
+    "nb_frames": 3538,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/f30a503af68c95032a23557171ed7f788f0df018"
+  },
+  "813837205d30049992f5fce833fcc668229cd204": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/scent_of_woman_tango/813837205d30049992f5fce833fcc668229cd204.flv",
+    "average_rate": 30.0,
+    "duration": 469.933,
+    "nb_frames": 14098,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/813837205d30049992f5fce833fcc668229cd204"
+  },
+  "da1854c05d28b4d56f176c1aae5b14d7b9e36536": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/scent_of_woman_tango/da1854c05d28b4d56f176c1aae5b14d7b9e36536.flv",
+    "average_rate": 29.97,
+    "duration": 291.642,
+    "nb_frames": 8725,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/da1854c05d28b4d56f176c1aae5b14d7b9e36536"
+  },
+  "b9d57bdc2d729020825f9617089e1aee6be798fe": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/scent_of_woman_tango/b9d57bdc2d729020825f9617089e1aee6be798fe.flv",
+    "average_rate": 25.0,
+    "duration": 524.4,
+    "nb_frames": 13110,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/b9d57bdc2d729020825f9617089e1aee6be798fe"
+  },
+  "e89539c5310189d7333610e2a4b57b8648d30af5": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/scent_of_woman_tango/e89539c5310189d7333610e2a4b57b8648d30af5.flv",
+    "average_rate": 29.97,
+    "duration": 209.924,
+    "nb_frames": 6281,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/e89539c5310189d7333610e2a4b57b8648d30af5"
+  },
+  "ee126b94478ec14c15bc7305974fbcfc07f4d40c": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/scent_of_woman_tango/ee126b94478ec14c15bc7305974fbcfc07f4d40c.flv",
+    "average_rate": 23.976,
+    "duration": 269.766,
+    "nb_frames": 6468,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/ee126b94478ec14c15bc7305974fbcfc07f4d40c"
+  },
+  "0bd7440f5fdf08fa30d2281f111ed4ae97d836a4": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/t-mac_13_points_in_35_seconds/0bd7440f5fdf08fa30d2281f111ed4ae97d836a4.flv",
+    "average_rate": 29.97,
+    "duration": 179.56,
+    "nb_frames": 5366,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/0bd7440f5fdf08fa30d2281f111ed4ae97d836a4"
+  },
+  "09516f733d69613b8f6085b83d0aacd6f1a7f75d": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/t-mac_13_points_in_35_seconds/09516f733d69613b8f6085b83d0aacd6f1a7f75d.mp4",
+    "average_rate": 24.968,
+    "duration": 266.26,
+    "nb_frames": 6648,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/09516f733d69613b8f6085b83d0aacd6f1a7f75d"
+  },
+  "e3e5cae3b58a6338c9a1b13d66b69c9e3d4fc785": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/scent_of_woman_tango/e3e5cae3b58a6338c9a1b13d66b69c9e3d4fc785.flv",
+    "average_rate": 25.0,
+    "duration": 453.95,
+    "nb_frames": 11336,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/e3e5cae3b58a6338c9a1b13d66b69c9e3d4fc785"
+  },
+  "42daf76df2f31f0805f2f3f766bb348bb24feac7": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/t-mac_13_points_in_35_seconds/42daf76df2f31f0805f2f3f766bb348bb24feac7.flv",
+    "average_rate": 25.0,
+    "duration": 302.045,
+    "nb_frames": 7538,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/42daf76df2f31f0805f2f3f766bb348bb24feac7"
+  },
+  "f3c8c0c9b93e0a49d2508eee4aae618c1d69e082": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/scent_of_woman_tango/f3c8c0c9b93e0a49d2508eee4aae618c1d69e082.flv",
+    "average_rate": 23.976,
+    "duration": 593.479,
+    "nb_frames": 14217,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/f3c8c0c9b93e0a49d2508eee4aae618c1d69e082"
+  },
+  "35cea0d48b9b69a6cda373766ea586ccaa5ba78d": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/t-mac_13_points_in_35_seconds/35cea0d48b9b69a6cda373766ea586ccaa5ba78d.flv",
+    "average_rate": 29.97,
+    "duration": 356.194,
+    "nb_frames": 10661,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/35cea0d48b9b69a6cda373766ea586ccaa5ba78d"
+  },
+  "55aed88a8ca6116c8f83f3c0220414aa3d460ead": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/t-mac_13_points_in_35_seconds/55aed88a8ca6116c8f83f3c0220414aa3d460ead.flv",
+    "average_rate": 30.0,
+    "duration": 248.198,
+    "nb_frames": 7428,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/55aed88a8ca6116c8f83f3c0220414aa3d460ead"
+  },
+  "5df28e18b3d8fbdc0f4cd07ef5aefcdc1b4f8d42": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/t-mac_13_points_in_35_seconds/5df28e18b3d8fbdc0f4cd07ef5aefcdc1b4f8d42.flv",
+    "average_rate": 30.0,
+    "duration": 88.793,
+    "nb_frames": 2650,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/5df28e18b3d8fbdc0f4cd07ef5aefcdc1b4f8d42"
+  },
+  "18f317405a4f8e49e546b3f4df689030a1f6664c": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/t-mac_13_points_in_35_seconds/18f317405a4f8e49e546b3f4df689030a1f6664c.flv",
+    "average_rate": 29.97,
+    "duration": 438.207,
+    "nb_frames": 13118,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/18f317405a4f8e49e546b3f4df689030a1f6664c"
+  },
+  "2bdf8029b38735a992a56e32cfc81466eea81286": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/t-mac_13_points_in_35_seconds/2bdf8029b38735a992a56e32cfc81466eea81286.flv",
+    "average_rate": 29.97,
+    "duration": 438.207,
+    "nb_frames": 13118,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/2bdf8029b38735a992a56e32cfc81466eea81286"
+  },
+  "44be6e5e82fced7f458b17c0230118034ffc7a57": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/t-mac_13_points_in_35_seconds/44be6e5e82fced7f458b17c0230118034ffc7a57.flv",
+    "average_rate": 29.97,
+    "duration": 356.194,
+    "nb_frames": 10661,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/44be6e5e82fced7f458b17c0230118034ffc7a57"
+  },
+  "8d222599bddb8d463bc7c7835f209cbc41072ca6": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/t-mac_13_points_in_35_seconds/8d222599bddb8d463bc7c7835f209cbc41072ca6.mp4",
+    "average_rate": 29.97,
+    "duration": 49.115,
+    "nb_frames": 1472,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/8d222599bddb8d463bc7c7835f209cbc41072ca6"
+  },
+  "3d05bb64144049ccc7bc64001538f7e8ea50bf8b": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/t-mac_13_points_in_35_seconds/3d05bb64144049ccc7bc64001538f7e8ea50bf8b.flv",
+    "average_rate": 29.97,
+    "duration": 438.207,
+    "nb_frames": 13118,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/3d05bb64144049ccc7bc64001538f7e8ea50bf8b"
+  },
+  "3d0a3002441f682c7124806eb9b92c677af2ee9e": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/t-mac_13_points_in_35_seconds/3d0a3002441f682c7124806eb9b92c677af2ee9e.flv",
+    "average_rate": 29.97,
+    "duration": 438.207,
+    "nb_frames": 13118,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/3d0a3002441f682c7124806eb9b92c677af2ee9e"
+  },
+  "b61905d41276ccf2af59d4985158f8b1ce1d4990": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/t-mac_13_points_in_35_seconds/b61905d41276ccf2af59d4985158f8b1ce1d4990.flv",
+    "average_rate": 29.97,
+    "duration": 66.548,
+    "nb_frames": 1979,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/b61905d41276ccf2af59d4985158f8b1ce1d4990"
+  },
+  "a99ef662562ec242651946259b170b409c0d48d7": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/t-mac_13_points_in_35_seconds/a99ef662562ec242651946259b170b409c0d48d7.mp4",
+    "average_rate": 29.97,
+    "duration": 73.873,
+    "nb_frames": 2214,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/a99ef662562ec242651946259b170b409c0d48d7"
+  },
+  "9ad3cc564c4f1b52ce076068e3830a70b9abccbf": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/t-mac_13_points_in_35_seconds/9ad3cc564c4f1b52ce076068e3830a70b9abccbf.flv",
+    "average_rate": 25.0,
+    "duration": 123.507,
+    "nb_frames": 3075,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/9ad3cc564c4f1b52ce076068e3830a70b9abccbf"
+  },
+  "beb8ec624aae490c6f21a7bc7330da8e839623fb": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/t-mac_13_points_in_35_seconds/beb8ec624aae490c6f21a7bc7330da8e839623fb.mp4",
+    "average_rate": 29.97,
+    "duration": 72.072,
+    "nb_frames": 2160,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/beb8ec624aae490c6f21a7bc7330da8e839623fb"
+  },
+  "c4365f3b67428240a4e82a07ec373cc2db96e0a4": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/t-mac_13_points_in_35_seconds/c4365f3b67428240a4e82a07ec373cc2db96e0a4.mp4",
+    "average_rate": 29.97,
+    "duration": 49.115,
+    "nb_frames": 1472,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/c4365f3b67428240a4e82a07ec373cc2db96e0a4"
+  },
+  "e862343f349018b392c1a389ff71cbe5eea67666": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/t-mac_13_points_in_35_seconds/e862343f349018b392c1a389ff71cbe5eea67666.flv",
+    "average_rate": 13.284,
+    "duration": 80.526,
+    "nb_frames": 1065,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/e862343f349018b392c1a389ff71cbe5eea67666"
+  },
+  "60b45a875979efba30700f8e55728d17f0857212": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/t-mac_13_points_in_35_seconds/60b45a875979efba30700f8e55728d17f0857212.flv",
+    "average_rate": 24.0,
+    "duration": 305.435,
+    "nb_frames": 7318,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/60b45a875979efba30700f8e55728d17f0857212"
+  },
+  "b75d15d45b34b0aba85ebc67fdc9fac93e20fd26": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/t-mac_13_points_in_35_seconds/b75d15d45b34b0aba85ebc67fdc9fac93e20fd26.flv",
+    "average_rate": 25.0,
+    "duration": 138.228,
+    "nb_frames": 3443,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/b75d15d45b34b0aba85ebc67fdc9fac93e20fd26"
+  },
+  "e4b443e64c27a3364d16db8e11e6e85f2d3fd7ed": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/t-mac_13_points_in_35_seconds/e4b443e64c27a3364d16db8e11e6e85f2d3fd7ed.flv",
+    "average_rate": 29.933,
+    "duration": 63.53,
+    "nb_frames": 1885,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/e4b443e64c27a3364d16db8e11e6e85f2d3fd7ed"
+  },
+  "f8190a5d3e36b6bf01db0a4033c917c5cef93bcc": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/t-mac_13_points_in_35_seconds/f8190a5d3e36b6bf01db0a4033c917c5cef93bcc.flv",
+    "average_rate": 20.0,
+    "duration": 43.468,
+    "nb_frames": 858,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/f8190a5d3e36b6bf01db0a4033c917c5cef93bcc"
+  },
+  "5106b657cb3d1d98dd496150241aa529c80bd479": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/t-mac_13_points_in_35_seconds/5106b657cb3d1d98dd496150241aa529c80bd479.flv",
+    "average_rate": 29.97,
+    "duration": 437.975,
+    "nb_frames": 13118,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/5106b657cb3d1d98dd496150241aa529c80bd479"
+  },
+  "b87117db8a791ef534d91b79dd6d0ab57ffc644c": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/t-mac_13_points_in_35_seconds/b87117db8a791ef534d91b79dd6d0ab57ffc644c.flv",
+    "average_rate": 29.917,
+    "duration": 179.629,
+    "nb_frames": 5357,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/b87117db8a791ef534d91b79dd6d0ab57ffc644c"
+  },
+  "92e46a8b5dcc5f1ad5db96e626d56234470f3c28": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/t-mac_13_points_in_35_seconds/92e46a8b5dcc5f1ad5db96e626d56234470f3c28.flv",
+    "average_rate": 25.0,
+    "duration": 282.586,
+    "nb_frames": 7052,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/92e46a8b5dcc5f1ad5db96e626d56234470f3c28"
+  },
+  "436657d23d80e9dbce2df57db62a3b45e05d475e": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/the_last_samurai_last_battle/436657d23d80e9dbce2df57db62a3b45e05d475e.flv",
+    "average_rate": 25.0,
+    "duration": 264.2,
+    "nb_frames": 6605,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/436657d23d80e9dbce2df57db62a3b45e05d475e"
+  },
+  "668693ee5770ba3bfd7c6b5374d13c137a7c5942": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/t-mac_13_points_in_35_seconds/668693ee5770ba3bfd7c6b5374d13c137a7c5942.flv",
+    "average_rate": 29.97,
+    "duration": 438.207,
+    "nb_frames": 13118,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/668693ee5770ba3bfd7c6b5374d13c137a7c5942"
+  },
+  "1e2598afd4d6a8728d6c0076354477db59702a5a": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/the_last_samurai_last_battle/1e2598afd4d6a8728d6c0076354477db59702a5a.flv",
+    "average_rate": 30.0,
+    "duration": 232.153,
+    "nb_frames": 6949,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/1e2598afd4d6a8728d6c0076354477db59702a5a"
+  },
+  "93cad7675cea2f7c761ad9fc2ee72baee61f38e3": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/the_last_samurai_last_battle/93cad7675cea2f7c761ad9fc2ee72baee61f38e3.flv",
+    "average_rate": 25.0,
+    "duration": 297.517,
+    "nb_frames": 7425,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/93cad7675cea2f7c761ad9fc2ee72baee61f38e3"
+  },
+  "5f8d7efc28c6dd3e20cfd0060177edcb243a0456": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/the_last_samurai_last_battle/5f8d7efc28c6dd3e20cfd0060177edcb243a0456.flv",
+    "average_rate": 29.97,
+    "duration": 282.354,
+    "nb_frames": 8447,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/5f8d7efc28c6dd3e20cfd0060177edcb243a0456"
+  },
+  "4a84b3090139a049a0dfd9cd4ae6db8b446fec99": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/the_last_samurai_last_battle/4a84b3090139a049a0dfd9cd4ae6db8b446fec99.flv",
+    "average_rate": 29.92,
+    "duration": 325.52,
+    "nb_frames": 9723,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/4a84b3090139a049a0dfd9cd4ae6db8b446fec99"
+  },
+  "9e94d3404faee3a1e3c78fb33064319511428103": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/the_last_samurai_last_battle/9e94d3404faee3a1e3c78fb33064319511428103.flv",
+    "average_rate": 29.97,
+    "duration": 316.0,
+    "nb_frames": 9455,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/9e94d3404faee3a1e3c78fb33064319511428103"
+  },
+  "a62ac3f909e921e2ae89e2ed4c272cfadab838a3": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/the_last_samurai_last_battle/a62ac3f909e921e2ae89e2ed4c272cfadab838a3.mp4",
+    "average_rate": 25.0,
+    "duration": 243.49,
+    "nb_frames": 6088,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/a62ac3f909e921e2ae89e2ed4c272cfadab838a3"
+  },
+  "c3ca62e39b8118a8773999ca5ed4757784032371": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/the_last_samurai_last_battle/c3ca62e39b8118a8773999ca5ed4757784032371.flv",
+    "average_rate": 29.921,
+    "duration": 274.599,
+    "nb_frames": 8200,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/c3ca62e39b8118a8773999ca5ed4757784032371"
+  },
+  "cbe5dff0d1f7658b8e37d32ade9fd9b27a9f3fc9": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/the_last_samurai_last_battle/cbe5dff0d1f7658b8e37d32ade9fd9b27a9f3fc9.flv",
+    "average_rate": 30.0,
+    "duration": 254.537,
+    "nb_frames": 7621,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/cbe5dff0d1f7658b8e37d32ade9fd9b27a9f3fc9"
+  },
+  "cf6db37d583044431cc33c4c723988cb6c5edc46": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/the_last_samurai_last_battle/cf6db37d583044431cc33c4c723988cb6c5edc46.flv",
+    "average_rate": 25.0,
+    "duration": 312.122,
+    "nb_frames": 7800,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/cf6db37d583044431cc33c4c723988cb6c5edc46"
+  },
+  "fa89363182761c182136f54fc7650930265a5bb4": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/the_last_samurai_last_battle/fa89363182761c182136f54fc7650930265a5bb4.flv",
+    "average_rate": 25.0,
+    "duration": 298.76,
+    "nb_frames": 7469,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/fa89363182761c182136f54fc7650930265a5bb4"
+  },
+  "36058f2303f8f3792127c3aba23a770e2ce3a2af": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/the_legend_of_1900_magic_waltz/36058f2303f8f3792127c3aba23a770e2ce3a2af.flv",
+    "average_rate": 29.97,
+    "duration": 183.019,
+    "nb_frames": 5470,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/36058f2303f8f3792127c3aba23a770e2ce3a2af"
+  },
+  "0908a93749a07da23df25c1e7e13c4ceaeca1e23": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/the_legend_of_1900_magic_waltz/0908a93749a07da23df25c1e7e13c4ceaeca1e23.flv",
+    "average_rate": 25.0,
+    "duration": 265.195,
+    "nb_frames": 6618,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/0908a93749a07da23df25c1e7e13c4ceaeca1e23"
+  },
+  "43e88c05606fa8939f8a1a908cc3ec7cbffb9acf": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/the_legend_of_1900_magic_waltz/43e88c05606fa8939f8a1a908cc3ec7cbffb9acf.flv",
+    "average_rate": 30.0,
+    "duration": 153.553,
+    "nb_frames": 4603,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/43e88c05606fa8939f8a1a908cc3ec7cbffb9acf"
+  },
+  "4849d1042b92a04fb2e019beec04a4f30188ba18": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/the_legend_of_1900_magic_waltz/4849d1042b92a04fb2e019beec04a4f30188ba18.flv",
+    "average_rate": 23.976,
+    "duration": 164.838,
+    "nb_frames": 3940,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/4849d1042b92a04fb2e019beec04a4f30188ba18"
+  },
+  "500bc7f5c5c61a19a8d4489fece07fdc1d7ed50e": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/the_legend_of_1900_magic_waltz/500bc7f5c5c61a19a8d4489fece07fdc1d7ed50e.flv",
+    "average_rate": 23.976,
+    "duration": 164.838,
+    "nb_frames": 3940,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/500bc7f5c5c61a19a8d4489fece07fdc1d7ed50e"
+  },
+  "b4d71ae78d81a607ddc2951bfd0a2e3ce46e6d91": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/the_last_samurai_last_battle/b4d71ae78d81a607ddc2951bfd0a2e3ce46e6d91.flv",
+    "average_rate": 29.97,
+    "duration": 480.862,
+    "nb_frames": 14395,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/b4d71ae78d81a607ddc2951bfd0a2e3ce46e6d91"
+  },
+  "2c6e77e63a5b12547ccdd5d0c2a32db71428fc98": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/the_last_samurai_last_battle/2c6e77e63a5b12547ccdd5d0c2a32db71428fc98.flv",
+    "average_rate": 29.918,
+    "duration": 771.97,
+    "nb_frames": 23080,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/2c6e77e63a5b12547ccdd5d0c2a32db71428fc98"
+  },
+  "923b0fb622520f5e31207dc0c339639743cd77bd": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/the_legend_of_1900_magic_waltz/923b0fb622520f5e31207dc0c339639743cd77bd.flv",
+    "average_rate": 25.0,
+    "duration": 201.177,
+    "nb_frames": 5028,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/923b0fb622520f5e31207dc0c339639743cd77bd"
+  },
+  "50dfd1daee780fbf9722990387201e2b367a1f27": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/the_legend_of_1900_magic_waltz/50dfd1daee780fbf9722990387201e2b367a1f27.flv",
+    "average_rate": 23.976,
+    "duration": 239.157,
+    "nb_frames": 5734,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/50dfd1daee780fbf9722990387201e2b367a1f27"
+  },
+  "772259df16f837eb39a6d525748541fe6e15eecf": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/the_legend_of_1900_magic_waltz/772259df16f837eb39a6d525748541fe6e15eecf.flv",
+    "average_rate": 25.0,
+    "duration": 236.1,
+    "nb_frames": 5890,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/772259df16f837eb39a6d525748541fe6e15eecf"
+  },
+  "ffc734ab3e218f50f27286750b42a924fa151ef5": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/the_legend_of_1900_magic_waltz/ffc734ab3e218f50f27286750b42a924fa151ef5.flv",
+    "average_rate": 6.006,
+    "duration": 171.688,
+    "nb_frames": 1027,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/ffc734ab3e218f50f27286750b42a924fa151ef5"
+  },
+  "94d686ecfa99d431b9f35e589e601057a2075b8e": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/the_last_samurai_last_battle/94d686ecfa99d431b9f35e589e601057a2075b8e.flv",
+    "average_rate": 29.918,
+    "duration": 771.97,
+    "nb_frames": 23080,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/94d686ecfa99d431b9f35e589e601057a2075b8e"
+  },
+  "976d46d661538fdfcff23979d4c0d9fff5fb5ee8": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/the_legend_of_1900_magic_waltz/976d46d661538fdfcff23979d4c0d9fff5fb5ee8.flv",
+    "average_rate": 23.976,
+    "duration": 239.157,
+    "nb_frames": 5734,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/976d46d661538fdfcff23979d4c0d9fff5fb5ee8"
+  },
+  "abd84397791c7c16a1718e37e2821f232889d9ac": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/the_legend_of_1900_magic_waltz/abd84397791c7c16a1718e37e2821f232889d9ac.flv",
+    "average_rate": 25.0,
+    "duration": 201.177,
+    "nb_frames": 5028,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/abd84397791c7c16a1718e37e2821f232889d9ac"
+  },
+  "1c347b1b7ceb23e4b45f0965cafb6f981c0f61d5": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/the_pursuit_of_happyness_-_job_interview/1c347b1b7ceb23e4b45f0965cafb6f981c0f61d5.flv",
+    "average_rate": 29.97,
+    "duration": 71.305,
+    "nb_frames": 2138,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/1c347b1b7ceb23e4b45f0965cafb6f981c0f61d5"
+  },
+  "b90b0fdb3035754c78e100577387be7c39ea2404": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/the_legend_of_1900_magic_waltz/b90b0fdb3035754c78e100577387be7c39ea2404.flv",
+    "average_rate": 29.97,
+    "duration": 183.019,
+    "nb_frames": 5470,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/b90b0fdb3035754c78e100577387be7c39ea2404"
+  },
+  "b441a4e7885a6735296550f6e765a3fc1da1947b": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/the_legend_of_1900_magic_waltz/b441a4e7885a6735296550f6e765a3fc1da1947b.flv",
+    "average_rate": 25.0,
+    "duration": 236.1,
+    "nb_frames": 5890,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/b441a4e7885a6735296550f6e765a3fc1da1947b"
+  },
+  "9067be820dde81e11fc69146317995110f408627": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/the_last_samurai_last_battle/9067be820dde81e11fc69146317995110f408627.flv",
+    "average_rate": 29.97,
+    "duration": 922.32,
+    "nb_frames": 27638,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/9067be820dde81e11fc69146317995110f408627"
+  },
+  "1e65b3cc99734d5b44474fd883a58e27e7644360": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/the_pursuit_of_happyness_-_job_interview/1e65b3cc99734d5b44474fd883a58e27e7644360.flv",
+    "average_rate": 29.97,
+    "duration": 167.253,
+    "nb_frames": 5011,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/1e65b3cc99734d5b44474fd883a58e27e7644360"
+  },
+  "1e0136fbd902af54aa012949158c995b75f9b443": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/the_pursuit_of_happyness_-_job_interview/1e0136fbd902af54aa012949158c995b75f9b443.flv",
+    "average_rate": 29.923,
+    "duration": 209.908,
+    "nb_frames": 6282,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/1e0136fbd902af54aa012949158c995b75f9b443"
+  },
+  "1c30bd1429c68113b2e9adc4e080488d743b14df": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/the_pursuit_of_happyness_-_job_interview/1c30bd1429c68113b2e9adc4e080488d743b14df.flv",
+    "average_rate": 29.97,
+    "duration": 255.535,
+    "nb_frames": 7640,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/1c30bd1429c68113b2e9adc4e080488d743b14df"
+  },
+  "834a827de29c3955ab8cb0d7bf800bcb64acf555": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/the_pursuit_of_happyness_-_job_interview/834a827de29c3955ab8cb0d7bf800bcb64acf555.flv",
+    "average_rate": 29.97,
+    "duration": 167.167,
+    "nb_frames": 5011,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/834a827de29c3955ab8cb0d7bf800bcb64acf555"
+  },
+  "51dabd8f940a75182408db600fa74a5cfc9b3d29": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/the_pursuit_of_happyness_-_job_interview/51dabd8f940a75182408db600fa74a5cfc9b3d29.flv",
+    "average_rate": 29.923,
+    "duration": 209.941,
+    "nb_frames": 6282,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/51dabd8f940a75182408db600fa74a5cfc9b3d29"
+  },
+  "4dd842508699d66636298376da31208a2e029c61": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/the_pursuit_of_happyness_-_job_interview/4dd842508699d66636298376da31208a2e029c61.flv",
+    "average_rate": 25.0,
+    "duration": 284.64,
+    "nb_frames": 7117,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/4dd842508699d66636298376da31208a2e029c61"
+  },
+  "b97bd2c745407e22c671d36b64a5be29659aa0ba": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/the_pursuit_of_happyness_-_job_interview/b97bd2c745407e22c671d36b64a5be29659aa0ba.mp4",
+    "average_rate": 30.0,
+    "duration": 146.6,
+    "nb_frames": 4398,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/b97bd2c745407e22c671d36b64a5be29659aa0ba"
+  },
+  "18b795635784edf78f356c8fa2daf892c1fb7de0": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/titanic_fly_scene/18b795635784edf78f356c8fa2daf892c1fb7de0.flv",
+    "average_rate": 30.0,
+    "duration": 42.609,
+    "nb_frames": 1278,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/18b795635784edf78f356c8fa2daf892c1fb7de0"
+  },
+  "74c3753f0751b532dd29c947777e5825dd3b2392": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/the_pursuit_of_happyness_-_job_interview/74c3753f0751b532dd29c947777e5825dd3b2392.flv",
+    "average_rate": 29.97,
+    "duration": 253.094,
+    "nb_frames": 7573,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/74c3753f0751b532dd29c947777e5825dd3b2392"
+  },
+  "131233edfdfe1756ea474dab9f3a70d8530433d7": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/titanic_fly_scene/131233edfdfe1756ea474dab9f3a70d8530433d7.flv",
+    "average_rate": 25.0,
+    "duration": 98.56,
+    "nb_frames": 2465,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/131233edfdfe1756ea474dab9f3a70d8530433d7"
+  },
+  "8dab37af058628a51bd4b7e0a5a0c1cd5234f6ac": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/the_pursuit_of_happyness_-_job_interview/8dab37af058628a51bd4b7e0a5a0c1cd5234f6ac.flv",
+    "average_rate": 29.97,
+    "duration": 254.888,
+    "nb_frames": 7640,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/8dab37af058628a51bd4b7e0a5a0c1cd5234f6ac"
+  },
+  "2d033b088c2a341267c1329439506c206d6e7a87": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/titanic_fly_scene/2d033b088c2a341267c1329439506c206d6e7a87.flv",
+    "average_rate": 25.0,
+    "duration": 95.04,
+    "nb_frames": 2377,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/2d033b088c2a341267c1329439506c206d6e7a87"
+  },
+  "524ef63fbe3c17ac7dce07f21e19c22841269580": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/titanic_fly_scene/524ef63fbe3c17ac7dce07f21e19c22841269580.flv",
+    "average_rate": 23.976,
+    "duration": 93.427,
+    "nb_frames": 2241,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/524ef63fbe3c17ac7dce07f21e19c22841269580"
+  },
+  "34d8301dfa17beef7c5a703c03765e328c2c108e": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/titanic_fly_scene/34d8301dfa17beef7c5a703c03765e328c2c108e.flv",
+    "average_rate": 25.0,
+    "duration": 153.0,
+    "nb_frames": 3826,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/34d8301dfa17beef7c5a703c03765e328c2c108e"
+  },
+  "1803c61a647e94580b6b4fa9dd0677ae787df1fb": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/titanic_fly_scene/1803c61a647e94580b6b4fa9dd0677ae787df1fb.mp4",
+    "average_rate": 29.97,
+    "duration": 165.13,
+    "nb_frames": 4949,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/1803c61a647e94580b6b4fa9dd0677ae787df1fb"
+  },
+  "d821d4ffbf4f727e376164e2ad149757b70d0579": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/the_pursuit_of_happyness_-_job_interview/d821d4ffbf4f727e376164e2ad149757b70d0579.flv",
+    "average_rate": 25.0,
+    "duration": 284.769,
+    "nb_frames": 7116,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/d821d4ffbf4f727e376164e2ad149757b70d0579"
+  },
+  "e7d95916555f9a89b377a0e9f94087416c8f9914": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/the_pursuit_of_happyness_-_job_interview/e7d95916555f9a89b377a0e9f94087416c8f9914.flv",
+    "average_rate": 25.0,
+    "duration": 284.6,
+    "nb_frames": 7116,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/e7d95916555f9a89b377a0e9f94087416c8f9914"
+  },
+  "28e2a70b9a97f4f501ec673368cdd9caa1d00831": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/the_pursuit_of_happyness_-_job_interview/28e2a70b9a97f4f501ec673368cdd9caa1d00831.flv",
+    "average_rate": 29.97,
+    "duration": 413.999,
+    "nb_frames": 12388,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/28e2a70b9a97f4f501ec673368cdd9caa1d00831"
+  },
+  "4b8d5281f2235a0da86a784857fb44a7e5725c21": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/titanic_fly_scene/4b8d5281f2235a0da86a784857fb44a7e5725c21.flv",
+    "average_rate": 30.0,
+    "duration": 138.333,
+    "nb_frames": 4151,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/4b8d5281f2235a0da86a784857fb44a7e5725c21"
+  },
+  "8b183ce1a33c5ab3eec1b3dc91e29b98f52bd3c1": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/titanic_fly_scene/8b183ce1a33c5ab3eec1b3dc91e29b98f52bd3c1.flv",
+    "average_rate": 29.97,
+    "duration": 30.658,
+    "nb_frames": 919,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/8b183ce1a33c5ab3eec1b3dc91e29b98f52bd3c1"
+  },
+  "659b7a2003008951009b3edb5b61b455abae21a8": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/titanic_fly_scene/659b7a2003008951009b3edb5b61b455abae21a8.flv",
+    "average_rate": 25.0,
+    "duration": 86.24,
+    "nb_frames": 2157,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/659b7a2003008951009b3edb5b61b455abae21a8"
+  },
+  "57c51ad056860d885f1f7535f07f1d82d1fe03c5": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/titanic_fly_scene/57c51ad056860d885f1f7535f07f1d82d1fe03c5.flv",
+    "average_rate": 29.97,
+    "duration": 165.332,
+    "nb_frames": 4956,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/57c51ad056860d885f1f7535f07f1d82d1fe03c5"
+  },
+  "851a6c020ddd0b07bff00667ae8913fe8452f422": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/titanic_fly_scene/851a6c020ddd0b07bff00667ae8913fe8452f422.flv",
+    "average_rate": 25.0,
+    "duration": 101.4,
+    "nb_frames": 2536,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/851a6c020ddd0b07bff00667ae8913fe8452f422"
+  },
+  "57e9e178196e922eda7174a756d3bdb80c1b4758": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/titanic_fly_scene/57e9e178196e922eda7174a756d3bdb80c1b4758.mp4",
+    "average_rate": 30.0,
+    "duration": 166.033,
+    "nb_frames": 4981,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/57e9e178196e922eda7174a756d3bdb80c1b4758"
+  },
+  "8105112836d236b232243624663911147a944ed4": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/titanic_fly_scene/8105112836d236b232243624663911147a944ed4.mp4",
+    "average_rate": 24.0,
+    "duration": 120.25,
+    "nb_frames": 2886,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/8105112836d236b232243624663911147a944ed4"
+  },
+  "64de9d6b38ee8593d635a40baa74ace9a5316aa1": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/titanic_fly_scene/64de9d6b38ee8593d635a40baa74ace9a5316aa1.flv",
+    "average_rate": 29.97,
+    "duration": 123.424,
+    "nb_frames": 3700,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/64de9d6b38ee8593d635a40baa74ace9a5316aa1"
+  },
+  "ac919b7ef7f4bd14fffddc17c41f9057f5cb408b": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/titanic_fly_scene/ac919b7ef7f4bd14fffddc17c41f9057f5cb408b.flv",
+    "average_rate": 29.97,
+    "duration": 11.411,
+    "nb_frames": 343,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/ac919b7ef7f4bd14fffddc17c41f9057f5cb408b"
+  },
+  "8f7a8b19c5309b39e0d2b908d6ab9ccb313da72b": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/titanic_fly_scene/8f7a8b19c5309b39e0d2b908d6ab9ccb313da72b.flv",
+    "average_rate": 25.0,
+    "duration": 101.4,
+    "nb_frames": 2536,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/8f7a8b19c5309b39e0d2b908d6ab9ccb313da72b"
+  },
+  "48410b965d9e38987584d5ac39e3da0066a541df": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/titanic_fly_scene/48410b965d9e38987584d5ac39e3da0066a541df.flv",
+    "average_rate": 30.0,
+    "duration": 279.483,
+    "nb_frames": 8378,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/48410b965d9e38987584d5ac39e3da0066a541df"
+  },
+  "988c10a00144e5cc99f35d5c2e819ae83a14af00": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/titanic_fly_scene/988c10a00144e5cc99f35d5c2e819ae83a14af00.flv",
+    "average_rate": 25.0,
+    "duration": 68.12,
+    "nb_frames": 1704,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/988c10a00144e5cc99f35d5c2e819ae83a14af00"
+  },
+  "b2591211ef659b15f9ddb19f0d62086d880a25e7": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/titanic_fly_scene/b2591211ef659b15f9ddb19f0d62086d880a25e7.flv",
+    "average_rate": 25.0,
+    "duration": 87.76,
+    "nb_frames": 2195,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/b2591211ef659b15f9ddb19f0d62086d880a25e7"
+  },
+  "c93fd45d975f63d8341fe603023a9d0258b4e02b": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/titanic_fly_scene/c93fd45d975f63d8341fe603023a9d0258b4e02b.flv",
+    "average_rate": 30.0,
+    "duration": 51.672,
+    "nb_frames": 1551,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/c93fd45d975f63d8341fe603023a9d0258b4e02b"
+  },
+  "ced799f59617c20019ab9faa3be934b9c77f14c8": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/titanic_fly_scene/ced799f59617c20019ab9faa3be934b9c77f14c8.mp4",
+    "average_rate": 29.97,
+    "duration": 46.278,
+    "nb_frames": 1387,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/ced799f59617c20019ab9faa3be934b9c77f14c8"
+  },
+  "b95fcc5bd9b38c2ace5c5e19d5f8e2faef086c2d": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/titanic_fly_scene/b95fcc5bd9b38c2ace5c5e19d5f8e2faef086c2d.flv",
+    "average_rate": 25.0,
+    "duration": 167.68,
+    "nb_frames": 4193,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/b95fcc5bd9b38c2ace5c5e19d5f8e2faef086c2d"
+  },
+  "be847241c99460843de85ffa104b07dcac62e588": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/titanic_fly_scene/be847241c99460843de85ffa104b07dcac62e588.flv",
+    "average_rate": 25.0,
+    "duration": 165.44,
+    "nb_frames": 4137,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/be847241c99460843de85ffa104b07dcac62e588"
+  },
+  "de04dd21b7ef63a37ae70770dc0cfa0b2c1f52fc": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/titanic_fly_scene/de04dd21b7ef63a37ae70770dc0cfa0b2c1f52fc.flv",
+    "average_rate": 25.0,
+    "duration": 68.12,
+    "nb_frames": 1704,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/de04dd21b7ef63a37ae70770dc0cfa0b2c1f52fc"
+  },
+  "8eced8631e728d892ecce8b2d916e8f12c03f63b": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/titanic_fly_scene/8eced8631e728d892ecce8b2d916e8f12c03f63b.flv",
+    "average_rate": 25.0,
+    "duration": 317.04,
+    "nb_frames": 7927,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/8eced8631e728d892ecce8b2d916e8f12c03f63b"
+  },
+  "bdf029642e25b4e815c3bb602427babb2cbede2c": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/titanic_fly_scene/bdf029642e25b4e815c3bb602427babb2cbede2c.mp4",
+    "average_rate": 29.97,
+    "duration": 159.092,
+    "nb_frames": 4768,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/bdf029642e25b4e815c3bb602427babb2cbede2c"
+  },
+  "5ceebbdf8bac4c15ff4657c73feee58dedd67c78": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/titanic_fly_scene/5ceebbdf8bac4c15ff4657c73feee58dedd67c78.flv",
+    "average_rate": 29.97,
+    "duration": 356.556,
+    "nb_frames": 10687,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/5ceebbdf8bac4c15ff4657c73feee58dedd67c78"
+  },
+  "f39ab3318095c03b262a315d486a33dbcc41a535": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/titanic_fly_scene/f39ab3318095c03b262a315d486a33dbcc41a535.flv",
+    "average_rate": 25.0,
+    "duration": 86.0,
+    "nb_frames": 2151,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/f39ab3318095c03b262a315d486a33dbcc41a535"
+  },
+  "d2442b3cf9396f6ae26a92e9165c8798297384ed": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/titanic_fly_scene/d2442b3cf9396f6ae26a92e9165c8798297384ed.mp4",
+    "average_rate": 30.0,
+    "duration": 166.033,
+    "nb_frames": 4981,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/d2442b3cf9396f6ae26a92e9165c8798297384ed"
+  },
+  "90b2f3863d924c7aef594b86c1d3a10092ff141e": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/titanic_fly_scene/90b2f3863d924c7aef594b86c1d3a10092ff141e.mp4",
+    "average_rate": 29.97,
+    "duration": 286.818,
+    "nb_frames": 8596,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/90b2f3863d924c7aef594b86c1d3a10092ff141e"
+  },
+  "eb97c61cfd330392a5d8c6d5c7e48fdfd1a0c859": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/titanic_fly_scene/eb97c61cfd330392a5d8c6d5c7e48fdfd1a0c859.flv",
+    "average_rate": 29.97,
+    "duration": 123.424,
+    "nb_frames": 3700,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/eb97c61cfd330392a5d8c6d5c7e48fdfd1a0c859"
+  },
+  "e0159f1fa526854a81158d9cef89e31d2d189bf1": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/titanic_fly_scene/e0159f1fa526854a81158d9cef89e31d2d189bf1.mp4",
+    "average_rate": 29.97,
+    "duration": 165.13,
+    "nb_frames": 4949,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/e0159f1fa526854a81158d9cef89e31d2d189bf1"
+  },
+  "ec6d9578723211eebde91393c69ba9f84507431c": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/titanic_fly_scene/ec6d9578723211eebde91393c69ba9f84507431c.mp4",
+    "average_rate": 25.0,
+    "duration": 150.72,
+    "nb_frames": 3768,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/ec6d9578723211eebde91393c69ba9f84507431c"
+  },
+  "f277e9757d3eeeef647967a50e7c9211f9298de5": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/titanic_fly_scene/f277e9757d3eeeef647967a50e7c9211f9298de5.flv",
+    "average_rate": 25.0,
+    "duration": 165.44,
+    "nb_frames": 4137,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/f277e9757d3eeeef647967a50e7c9211f9298de5"
+  },
+  "fcbbdde0277a104a69b6bf013156f875ec9cfe0c": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/titanic_fly_scene/fcbbdde0277a104a69b6bf013156f875ec9cfe0c.flv",
+    "average_rate": 25.0,
+    "duration": 165.08,
+    "nb_frames": 4128,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/fcbbdde0277a104a69b6bf013156f875ec9cfe0c"
+  },
+  "6280e17346f8c34c231180e8d659f804d111fa6b": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/troy_achilles_and_hector/6280e17346f8c34c231180e8d659f804d111fa6b.mp4",
+    "average_rate": 29.97,
+    "duration": 92.292,
+    "nb_frames": 2766,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/6280e17346f8c34c231180e8d659f804d111fa6b"
+  },
+  "0a6a553c5d2d7eb7409eb580e7da01f60e3176f1": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/troy_achilles_and_hector/0a6a553c5d2d7eb7409eb580e7da01f60e3176f1.flv",
+    "average_rate": 29.97,
+    "duration": 193.445,
+    "nb_frames": 5782,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/0a6a553c5d2d7eb7409eb580e7da01f60e3176f1"
+  },
+  "015d1827ee83949cba0db763a6d3d916d83f4f95": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/tom_hanks_winning_an_oscar/015d1827ee83949cba0db763a6d3d916d83f4f95.flv",
+    "average_rate": 29.97,
+    "duration": 225.094,
+    "nb_frames": 6731,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/015d1827ee83949cba0db763a6d3d916d83f4f95"
+  },
+  "80f9281cacdfc5aef4a111d9286a66c30338e30a": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/tom_hanks_winning_an_oscar/80f9281cacdfc5aef4a111d9286a66c30338e30a.flv",
+    "average_rate": 29.97,
+    "duration": 225.094,
+    "nb_frames": 6731,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/80f9281cacdfc5aef4a111d9286a66c30338e30a"
+  },
+  "e2397f231463229b2c93e61d7837f7c0e9b88377": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/tom_hanks_winning_an_oscar/e2397f231463229b2c93e61d7837f7c0e9b88377.flv",
+    "average_rate": 29.97,
+    "duration": 225.094,
+    "nb_frames": 6731,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/e2397f231463229b2c93e61d7837f7c0e9b88377"
+  },
+  "868f1ff130f7a0215de9abfacca746f96c4cd85d": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/troy_achilles_and_hector/868f1ff130f7a0215de9abfacca746f96c4cd85d.flv",
+    "average_rate": 29.97,
+    "duration": 148.259,
+    "nb_frames": 4439,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/868f1ff130f7a0215de9abfacca746f96c4cd85d"
+  },
+  "0b3f9e88e5ab73e19dc4d1a32115ea3457867128": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/troy_achilles_and_hector/0b3f9e88e5ab73e19dc4d1a32115ea3457867128.flv",
+    "average_rate": 29.97,
+    "duration": 271.186,
+    "nb_frames": 8124,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/0b3f9e88e5ab73e19dc4d1a32115ea3457867128"
+  },
+  "9c5fde27983574ca7840da09d40c40bd20820957": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/troy_achilles_and_hector/9c5fde27983574ca7840da09d40c40bd20820957.flv",
+    "average_rate": 25.14,
+    "duration": 7.709,
+    "nb_frames": 180,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/9c5fde27983574ca7840da09d40c40bd20820957"
+  },
+  "6fe097a963673b26c62f6ff6d6151d383c194b9d": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/troy_achilles_and_hector/6fe097a963673b26c62f6ff6d6151d383c194b9d.flv",
+    "average_rate": 30.0,
+    "duration": 264.986,
+    "nb_frames": 7934,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/6fe097a963673b26c62f6ff6d6151d383c194b9d"
+  },
+  "911169b1e685d943c7854a1c0ecdf9cef1250bec": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/troy_achilles_and_hector/911169b1e685d943c7854a1c0ecdf9cef1250bec.mp4",
+    "average_rate": 29.97,
+    "duration": 120.187,
+    "nb_frames": 3602,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/911169b1e685d943c7854a1c0ecdf9cef1250bec"
+  },
+  "548e9ff21d5a54cf621986dc6047abf8db12e8b7": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/troy_achilles_and_hector/548e9ff21d5a54cf621986dc6047abf8db12e8b7.flv",
+    "average_rate": 29.97,
+    "duration": 294.621,
+    "nb_frames": 8815,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/548e9ff21d5a54cf621986dc6047abf8db12e8b7"
+  },
+  "7fdf8f5e4fb91b1af5b016242ad70fd0d74abb42": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/troy_achilles_and_hector/7fdf8f5e4fb91b1af5b016242ad70fd0d74abb42.flv",
+    "average_rate": 25.0,
+    "duration": 351.968,
+    "nb_frames": 8788,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/7fdf8f5e4fb91b1af5b016242ad70fd0d74abb42"
+  },
+  "97f5900df59435bc1230615987e24858e9a37f67": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/troy_achilles_and_hector/97f5900df59435bc1230615987e24858e9a37f67.flv",
+    "average_rate": 25.0,
+    "duration": 183.902,
+    "nb_frames": 4585,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/97f5900df59435bc1230615987e24858e9a37f67"
+  },
+  "8e4dcdacc0266b4836101656bcd0fd7721918e40": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/troy_achilles_and_hector/8e4dcdacc0266b4836101656bcd0fd7721918e40.flv",
+    "average_rate": 25.0,
+    "duration": 277.896,
+    "nb_frames": 6934,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/8e4dcdacc0266b4836101656bcd0fd7721918e40"
+  },
+  "c1ffd1a86d2b2451edda0bb4b25c914350aa9826": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/titanic_fly_scene/c1ffd1a86d2b2451edda0bb4b25c914350aa9826.mp4",
+    "average_rate": 30.0,
+    "duration": 655.472,
+    "nb_frames": 19646,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/c1ffd1a86d2b2451edda0bb4b25c914350aa9826"
+  },
+  "9185e2ba429ae15c5e2a2d0f624dee890e03d0f0": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/troy_achilles_and_hector/9185e2ba429ae15c5e2a2d0f624dee890e03d0f0.flv",
+    "average_rate": 30.0,
+    "duration": 264.986,
+    "nb_frames": 7934,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/9185e2ba429ae15c5e2a2d0f624dee890e03d0f0"
+  },
+  "c1025681a6dfd43843735c07e9ec8ac2f08d80fc": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/troy_achilles_and_hector/c1025681a6dfd43843735c07e9ec8ac2f08d80fc.flv",
+    "average_rate": 25.0,
+    "duration": 59.56,
+    "nb_frames": 1489,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/c1025681a6dfd43843735c07e9ec8ac2f08d80fc"
+  },
+  "b053607f9eae018c3916d3fdb0ccb1dc49777456": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/troy_achilles_and_hector/b053607f9eae018c3916d3fdb0ccb1dc49777456.flv",
+    "average_rate": 25.0,
+    "duration": 77.067,
+    "nb_frames": 1914,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/b053607f9eae018c3916d3fdb0ccb1dc49777456"
+  },
+  "9f7862bcee961fdec039a3f287ad7c8351cfbed9": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/troy_achilles_and_hector/9f7862bcee961fdec039a3f287ad7c8351cfbed9.flv",
+    "average_rate": 25.0,
+    "duration": 226.278,
+    "nb_frames": 5644,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/9f7862bcee961fdec039a3f287ad7c8351cfbed9"
+  },
+  "9b15a52652373497a10b8915b8cc025967962b72": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/troy_achilles_and_hector/9b15a52652373497a10b8915b8cc025967962b72.flv",
+    "average_rate": 30.0,
+    "duration": 240.0,
+    "nb_frames": 7200,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/9b15a52652373497a10b8915b8cc025967962b72"
+  },
+  "0c06d64856ceae3c5146fd0cae9ac6fc5107083e": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/zidane_headbutt/0c06d64856ceae3c5146fd0cae9ac6fc5107083e.flv",
+    "average_rate": 30.0,
+    "duration": 17.693,
+    "nb_frames": 515,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/0c06d64856ceae3c5146fd0cae9ac6fc5107083e"
+  },
+  "0ab11b52561e9255423b01f29f7904a6dcadd87b": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/zidane_headbutt/0ab11b52561e9255423b01f29f7904a6dcadd87b.flv",
+    "average_rate": 25.0,
+    "duration": 53.986,
+    "nb_frames": 1337,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/0ab11b52561e9255423b01f29f7904a6dcadd87b"
+  },
+  "0ed02c5bbb500542f88f0d7285e56e1186ac9bf5": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/zidane_headbutt/0ed02c5bbb500542f88f0d7285e56e1186ac9bf5.flv",
+    "average_rate": 30.0,
+    "duration": 21.13,
+    "nb_frames": 617,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/0ed02c5bbb500542f88f0d7285e56e1186ac9bf5"
+  },
+  "a89a3193db3354c059dfe4effac05c4667f9c239": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/troy_achilles_and_hector/a89a3193db3354c059dfe4effac05c4667f9c239.flv",
+    "average_rate": 25.0,
+    "duration": 237.401,
+    "nb_frames": 5922,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/a89a3193db3354c059dfe4effac05c4667f9c239"
+  },
+  "a15a43f0cf9ce7eab781706a82ee0027d53aae4f": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/troy_achilles_and_hector/a15a43f0cf9ce7eab781706a82ee0027d53aae4f.flv",
+    "average_rate": 29.97,
+    "duration": 246.735,
+    "nb_frames": 7379,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/a15a43f0cf9ce7eab781706a82ee0027d53aae4f"
+  },
+  "a8ede4918fb583e92125f6ead7e7cdf6f331084d": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/troy_achilles_and_hector/a8ede4918fb583e92125f6ead7e7cdf6f331084d.flv",
+    "average_rate": 30.0,
+    "duration": 200.295,
+    "nb_frames": 6005,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/a8ede4918fb583e92125f6ead7e7cdf6f331084d"
+  },
+  "a86c9e954e46fae7936a0e70a2ecc1914a2f43e1": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/troy_achilles_and_hector/a86c9e954e46fae7936a0e70a2ecc1914a2f43e1.flv",
+    "average_rate": 30.0,
+    "duration": 263.244,
+    "nb_frames": 7882,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/a86c9e954e46fae7936a0e70a2ecc1914a2f43e1"
+  },
+  "a0fc0a97772388012c3d2062b36086d2cfb2bc82": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/troy_achilles_and_hector/a0fc0a97772388012c3d2062b36086d2cfb2bc82.flv",
+    "average_rate": 30.0,
+    "duration": 264.986,
+    "nb_frames": 7934,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/a0fc0a97772388012c3d2062b36086d2cfb2bc82"
+  },
+  "2d38fff9674d85ddccdd873df98475153c20aedd": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/zidane_headbutt/2d38fff9674d85ddccdd873df98475153c20aedd.flv",
+    "average_rate": 25.062,
+    "duration": 16.556,
+    "nb_frames": 401,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/2d38fff9674d85ddccdd873df98475153c20aedd"
+  },
+  "42fe16072c4e7fbf1d1e280df7c1ad727446a615": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/zidane_headbutt/42fe16072c4e7fbf1d1e280df7c1ad727446a615.mp4",
+    "average_rate": 29.917,
+    "duration": 8.355,
+    "nb_frames": 250,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/42fe16072c4e7fbf1d1e280df7c1ad727446a615"
+  },
+  "49eccab61ab137fc0ab04c8029e3caec0fa2b35f": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/zidane_headbutt/49eccab61ab137fc0ab04c8029e3caec0fa2b35f.flv",
+    "average_rate": 30.0,
+    "duration": 20.828,
+    "nb_frames": 609,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/49eccab61ab137fc0ab04c8029e3caec0fa2b35f"
+  },
+  "ccc879ecfb35a1a77667dd8357b71a930c19092c": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/troy_achilles_and_hector/ccc879ecfb35a1a77667dd8357b71a930c19092c.flv",
+    "average_rate": 25.0,
+    "duration": 168.461,
+    "nb_frames": 4199,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/ccc879ecfb35a1a77667dd8357b71a930c19092c"
+  },
+  "0dbcff0b6d671e1579ad468eed54d84f7e9b7289": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/zidane_headbutt/0dbcff0b6d671e1579ad468eed54d84f7e9b7289.mp4",
+    "average_rate": 25.0,
+    "duration": 83.76,
+    "nb_frames": 2094,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/0dbcff0b6d671e1579ad468eed54d84f7e9b7289"
+  },
+  "8ad458ed4d45f32e8baa3bf5d84ad2a2a0324300": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/zidane_headbutt/8ad458ed4d45f32e8baa3bf5d84ad2a2a0324300.flv",
+    "average_rate": 30.0,
+    "duration": 34.017,
+    "nb_frames": 1004,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/8ad458ed4d45f32e8baa3bf5d84ad2a2a0324300"
+  },
+  "5a6a49b7660b858476a69819cdf15a13ecf13c36": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/zidane_headbutt/5a6a49b7660b858476a69819cdf15a13ecf13c36.mp4",
+    "average_rate": 25.0,
+    "duration": 50.72,
+    "nb_frames": 1268,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/5a6a49b7660b858476a69819cdf15a13ecf13c36"
+  },
+  "b91aa7020c5dd0a6518d11f745b275363f854bce": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/zidane_headbutt/b91aa7020c5dd0a6518d11f745b275363f854bce.flv",
+    "average_rate": 25.041,
+    "duration": 24.984,
+    "nb_frames": 612,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/b91aa7020c5dd0a6518d11f745b275363f854bce"
+  },
+  "afc75e8c02a5ecba44739b0623befa16afa1d896": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/zidane_headbutt/afc75e8c02a5ecba44739b0623befa16afa1d896.flv",
+    "average_rate": 30.0,
+    "duration": 33.971,
+    "nb_frames": 1004,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/afc75e8c02a5ecba44739b0623befa16afa1d896"
+  },
+  "e2d1ca4b2657cd82092765801adda59a7f71bc56": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/zidane_headbutt/e2d1ca4b2657cd82092765801adda59a7f71bc56.mp4",
+    "average_rate": 23.976,
+    "duration": 5.88,
+    "nb_frames": 141,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/e2d1ca4b2657cd82092765801adda59a7f71bc56"
+  },
+  "ffe9ad0e2519d04939e04ea128ee565fc3395e5b": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/troy_achilles_and_hector/ffe9ad0e2519d04939e04ea128ee565fc3395e5b.flv",
+    "average_rate": 25.0,
+    "duration": 187.942,
+    "nb_frames": 4695,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/ffe9ad0e2519d04939e04ea128ee565fc3395e5b"
+  },
+  "cc3b8791039b9e7f664260d76f8ca6cc48004823": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/zidane_headbutt/cc3b8791039b9e7f664260d76f8ca6cc48004823.flv",
+    "average_rate": 29.97,
+    "duration": 76.486,
+    "nb_frames": 2277,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/cc3b8791039b9e7f664260d76f8ca6cc48004823"
+  },
+  "cb593efe5b194fe67a8e5ffe33b35cca954cdcd4": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/zidane_headbutt/cb593efe5b194fe67a8e5ffe33b35cca954cdcd4.flv",
+    "average_rate": 25.0,
+    "duration": 176.03,
+    "nb_frames": 4388,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/cb593efe5b194fe67a8e5ffe33b35cca954cdcd4"
+  },
+  "ee417a6b882853ffcd3f78b380b0205a9411f4d6": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/troy_achilles_and_hector/ee417a6b882853ffcd3f78b380b0205a9411f4d6.flv",
+    "average_rate": 29.97,
+    "duration": 273.275,
+    "nb_frames": 8188,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/ee417a6b882853ffcd3f78b380b0205a9411f4d6"
+  },
+  "2620a515a196e5d4329f320f478010e578980bee": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/infernal_affairs_1/2620a515a196e5d4329f320f478010e578980bee.flv",
+    "average_rate": 1000.0,
+    "duration": 174.034,
+    "nb_frames": 2610,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/2620a515a196e5d4329f320f478010e578980bee"
+  },
+  "13f06a567cbee6f40952cc13817a7774caa72903": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/zidane_headbutt/13f06a567cbee6f40952cc13817a7774caa72903.flv",
+    "average_rate": 25.025641025641026,
+    "duration": 61.486,
+    "nb_frames": 1525,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/13f06a567cbee6f40952cc13817a7774caa72903"
+  },
+  "1e04e15f77363ebb7cdfb8811cd3d5d6d8b18305": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/zidane_headbutt/1e04e15f77363ebb7cdfb8811cd3d5d6d8b18305.flv",
+    "average_rate": 29.96969696969697,
+    "duration": 71.216,
+    "nb_frames": 2120,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/1e04e15f77363ebb7cdfb8811cd3d5d6d8b18305"
+  },
+  "359b3ef99acac4136096052c6d812a6248811e10": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/bolt_beijing_100m/359b3ef99acac4136096052c6d812a6248811e10.flv",
+    "average_rate": 1000.0,
+    "duration": 171.972,
+    "nb_frames": 5155,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/359b3ef99acac4136096052c6d812a6248811e10"
+  },
+  "20d29f3a064272395f59c40cc0c29e7f6c4ff48c": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/scent_of_woman_tango/20d29f3a064272395f59c40cc0c29e7f6c4ff48c.flv",
+    "average_rate": 23.975609756097562,
+    "duration": 600.932,
+    "nb_frames": 14397,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/20d29f3a064272395f59c40cc0c29e7f6c4ff48c"
+  },
+  "ac1543adad8ecc32d98d9a67d75fb0a39f67b685": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/scent_of_woman_tango/ac1543adad8ecc32d98d9a67d75fb0a39f67b685.flv",
+    "average_rate": 23.975609756097562,
+    "duration": 600.932,
+    "nb_frames": 14397,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/ac1543adad8ecc32d98d9a67d75fb0a39f67b685"
+  },
+  "fbd257e13786ad8bc65da9830f99da038a845079": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/scent_of_woman_tango/fbd257e13786ad8bc65da9830f99da038a845079.flv",
+    "average_rate": 23.975609756097562,
+    "duration": 600.932,
+    "nb_frames": 14397,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/fbd257e13786ad8bc65da9830f99da038a845079"
+  },
+  "1e5aec100a5b897342a4be9246995fc16f784e66": {
+    "video": "/mldisk/nfs_shared_/MLVD/VCDB/videos/core_dataset/run_forrest_fun/1e5aec100a5b897342a4be9246995fc16f784e66.flv",
+    "average_rate": 30.0,
+    "duration": 504.033,
+    "nb_frames": 15122,
+    "frames": "/mlsun/ms/vcdb/frames/core_dataset/1e5aec100a5b897342a4be9246995fc16f784e66"
+  }
+}
