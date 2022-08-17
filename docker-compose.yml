@@ -1,0 +1,66 @@
+version: '2.3'
+
+services:
+  main:
+    build:
+      context: ./
+      dockerfile: Dockerfile
+    runtime: nvidia
+    restart: always
+    tty: true
+    stdin_open: true
+    ipc: host
+    network_mode: host
+    environment:
+      - PYTHONPATH=/workspace
+      - TORCH_DISTRIBUTED_DEBUG=DETAIL
+      - NCCL_DEBUG=WARN
+      - NCCL_SOCKET_IFNAME
+      - MASTER_ADDR=163.239.27.244
+      - MASTER_PORT=29400
+
+    volumes:
+      - type: volume
+        source: nfs_shared_
+        target: /mldisk/nfs_shared_
+        volume:
+          nocopy: true
+      - type: volume
+        source: nfs_shared
+        target: /mldisk/nfs_shared
+        volume:
+          nocopy: true
+      - type: volume
+        source: mlsun
+        target: /mlsun
+        volume:
+          nocopy: true
+      - type: volume
+        source: workspace
+        target: /workspace
+        volume:
+          nocopy: true
+      - "/media/mmlab/hdd:/hdd"
+
+volumes:
+  nfs_shared_:
+    driver_opts:
+      type: "nfs"
+      o: "addr=mldisk.sogang.ac.kr,nolock,soft,rw"
+      device: ":/volume3/nfs_shared_"
+  nfs_shared:
+    driver_opts:
+      type: "nfs"
+      o: "addr=mldisk.sogang.ac.kr,nolock,soft,rw"
+      device: ":/volume2/nfs_shared"
+  mlsun:
+    driver_opts:
+      type: "nfs"
+      o: "addr=mlsun.sogang.ac.kr,nolock,soft,rw"
+      device: ":/volume1/nfs_shared"
+  workspace:
+    driver_opts:
+      type: "nfs"
+      o: "addr=mlsun.sogang.ac.kr,nolock,soft,rw"
+      device: ":/volume1/nfs_shared/ms/svr"
+

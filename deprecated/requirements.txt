@@ -1,0 +1,9 @@
+ffmpeg-python==0.2.0
+torchsummary==1.5.1
+albumentations==1.1.0
+einops==0.4.1
+opencv-python==4.5.5.64
+opencv-contrib-python==4.5.5.64
+faiss-gpu==1.7.2
+pytorchvideo
+matplotlib

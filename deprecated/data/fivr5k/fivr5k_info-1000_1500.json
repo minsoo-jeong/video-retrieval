@@ -1,0 +1,4002 @@
+{
+  "B40ON_-mfmA": {
+    "video": "/mlsun/ms/fivr5k/videos/B40ON_-mfmA.mp4",
+    "average_rate": 25.0,
+    "duration": 28.76952380952381,
+    "nb_frames": 718,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/B40ON_-mfmA.tar",
+    "frame_archive_length": 719
+  },
+  "B4D2XpbXnh8": {
+    "video": "/mlsun/ms/fivr5k/videos/B4D2XpbXnh8.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 232.8497052154195,
+    "nb_frames": 6977,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/B4D2XpbXnh8.tar",
+    "frame_archive_length": 6978
+  },
+  "B4jgYaQYfK4": {
+    "video": "/mlsun/ms/fivr5k/videos/B4jgYaQYfK4.mp4",
+    "average_rate": 28.446,
+    "duration": 27.051247165532878,
+    "nb_frames": 768,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/B4jgYaQYfK4.tar",
+    "frame_archive_length": 769
+  },
+  "B6e14OXPkOU": {
+    "video": "/mlsun/ms/fivr5k/videos/B6e14OXPkOU.mp4",
+    "average_rate": 15.0,
+    "duration": 174.19609977324262,
+    "nb_frames": 2612,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/B6e14OXPkOU.tar",
+    "frame_archive_length": 2613
+  },
+  "B7ElFJUjYso": {
+    "video": "/mlsun/ms/fivr5k/videos/B7ElFJUjYso.mp4",
+    "average_rate": 24.0,
+    "duration": 103.49133786848073,
+    "nb_frames": 2482,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/B7ElFJUjYso.tar",
+    "frame_archive_length": 2483
+  },
+  "B89MYVh1Z8M": {
+    "video": "/mlsun/ms/fivr5k/videos/B89MYVh1Z8M.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 72.37263333333334,
+    "nb_frames": 0,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/B89MYVh1Z8M.tar",
+    "frame_archive_length": 2170
+  },
+  "B9RzxU_vzpc": {
+    "video": "/mlsun/ms/fivr5k/videos/B9RzxU_vzpc.mp4",
+    "average_rate": 25.0,
+    "duration": 75.16299319727891,
+    "nb_frames": 1876,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/B9RzxU_vzpc.tar",
+    "frame_archive_length": 1877
+  },
+  "BACX3uAEuZM": {
+    "video": "/mlsun/ms/fivr5k/videos/BACX3uAEuZM.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 39.59002267573696,
+    "nb_frames": 1185,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/BACX3uAEuZM.tar",
+    "frame_archive_length": 1186
+  },
+  "BCJsoR25jqA": {
+    "video": "/mlsun/ms/fivr5k/videos/BCJsoR25jqA.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 39.288163265306125,
+    "nb_frames": 1173,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/BCJsoR25jqA.tar",
+    "frame_archive_length": 1174
+  },
+  "BCeAewd7wAU": {
+    "video": "/mlsun/ms/fivr5k/videos/BCeAewd7wAU.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 102.09814058956916,
+    "nb_frames": 3058,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/BCeAewd7wAU.tar",
+    "frame_archive_length": 3059
+  },
+  "BCjkGqBPq38": {
+    "video": "/mlsun/ms/fivr5k/videos/BCjkGqBPq38.mp4",
+    "average_rate": 25.0,
+    "duration": 33.45995464852608,
+    "nb_frames": 835,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/BCjkGqBPq38.tar",
+    "frame_archive_length": 836
+  },
+  "BCvy-6fF0Lo": {
+    "video": "/mlsun/ms/fivr5k/videos/BCvy-6fF0Lo.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 96.66467120181406,
+    "nb_frames": 2895,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/BCvy-6fF0Lo.tar",
+    "frame_archive_length": 2896
+  },
+  "BDSrmCsdwCQ": {
+    "video": "/mlsun/ms/fivr5k/videos/BDSrmCsdwCQ.mp4",
+    "average_rate": 15.0,
+    "duration": 64.06385487528345,
+    "nb_frames": 960,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/BDSrmCsdwCQ.tar",
+    "frame_archive_length": 961
+  },
+  "BEfZFjMWQCs": {
+    "video": "/mlsun/ms/fivr5k/videos/BEfZFjMWQCs.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 139.76090702947846,
+    "nb_frames": 4187,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/BEfZFjMWQCs.tar",
+    "frame_archive_length": 4188
+  },
+  "BF6HVpTibPU": {
+    "video": "/mlsun/ms/fivr5k/videos/BF6HVpTibPU.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 60.04680272108843,
+    "nb_frames": 1798,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/BF6HVpTibPU.tar",
+    "frame_archive_length": 1799
+  },
+  "BGeE8ERFmw8": {
+    "video": "/mlsun/ms/fivr5k/videos/BGeE8ERFmw8.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 51.1071201814059,
+    "nb_frames": 1530,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/BGeE8ERFmw8.tar",
+    "frame_archive_length": 1531
+  },
+  "BGyGhkDI8Xw": {
+    "video": "/mlsun/ms/fivr5k/videos/BGyGhkDI8Xw.mp4",
+    "average_rate": 24.0,
+    "duration": 160.8214058956916,
+    "nb_frames": 3858,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/BGyGhkDI8Xw.tar",
+    "frame_archive_length": 3859
+  },
+  "BHdce-Le_VU": {
+    "video": "/mlsun/ms/fivr5k/videos/BHdce-Le_VU.mp4",
+    "average_rate": 30.0,
+    "duration": 259.03333333333336,
+    "nb_frames": 0,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/BHdce-Le_VU.tar",
+    "frame_archive_length": 7772
+  },
+  "BHkAz6K0sCw": {
+    "video": "/mlsun/ms/fivr5k/videos/BHkAz6K0sCw.mp4",
+    "average_rate": 25.0,
+    "duration": 58.30530612244898,
+    "nb_frames": 1456,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/BHkAz6K0sCw.tar",
+    "frame_archive_length": 1457
+  },
+  "BIlLtAkbpWQ": {
+    "video": "/mlsun/ms/fivr5k/videos/BIlLtAkbpWQ.mp4",
+    "average_rate": 24.89539748953975,
+    "duration": 57.42294784580499,
+    "nb_frames": 1428,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/BIlLtAkbpWQ.tar",
+    "frame_archive_length": 1429
+  },
+  "BJFU4ay-svE": {
+    "video": "/mlsun/ms/fivr5k/videos/BJFU4ay-svE.mp4",
+    "average_rate": 29.893428063943162,
+    "duration": 75.11655328798186,
+    "nb_frames": 2244,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/BJFU4ay-svE.tar",
+    "frame_archive_length": 2245
+  },
+  "BJMIWaNNVcM": {
+    "video": "/mlsun/ms/fivr5k/videos/BJMIWaNNVcM.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 52.2681179138322,
+    "nb_frames": 1563,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/BJMIWaNNVcM.tar",
+    "frame_archive_length": 1564
+  },
+  "BJYwf4i1Wuo": {
+    "video": "/mlsun/ms/fivr5k/videos/BJYwf4i1Wuo.mp4",
+    "average_rate": 30.0,
+    "duration": 100.21732426303855,
+    "nb_frames": 3004,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/BJYwf4i1Wuo.tar",
+    "frame_archive_length": 3005
+  },
+  "BLpsfYhz8Gw": {
+    "video": "/mlsun/ms/fivr5k/videos/BLpsfYhz8Gw.mp4",
+    "average_rate": 28.405,
+    "duration": 25.820589569160997,
+    "nb_frames": 732,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/BLpsfYhz8Gw.tar",
+    "frame_archive_length": 733
+  },
+  "BN3fhMKHxic": {
+    "video": "/mlsun/ms/fivr5k/videos/BN3fhMKHxic.mp4",
+    "average_rate": 25.0,
+    "duration": 107.85668934240363,
+    "nb_frames": 2695,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/BN3fhMKHxic.tar",
+    "frame_archive_length": 2696
+  },
+  "BNC_BpH-oNE": {
+    "video": "/mlsun/ms/fivr5k/videos/BNC_BpH-oNE.mp4",
+    "average_rate": 24.882903981264636,
+    "duration": 17.136326530612244,
+    "nb_frames": 425,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/BNC_BpH-oNE.tar",
+    "frame_archive_length": 426
+  },
+  "BOsE52tvLw4": {
+    "video": "/mlsun/ms/fivr5k/videos/BOsE52tvLw4.mp4",
+    "average_rate": 25.0,
+    "duration": 31.068299319727892,
+    "nb_frames": 775,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/BOsE52tvLw4.tar",
+    "frame_archive_length": 776
+  },
+  "BQ4l_9t-QR4": {
+    "video": "/mlsun/ms/fivr5k/videos/BQ4l_9t-QR4.mp4",
+    "average_rate": 30.0,
+    "duration": 162.9344217687075,
+    "nb_frames": 4884,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/BQ4l_9t-QR4.tar",
+    "frame_archive_length": 4885
+  },
+  "BQIQurxF7dw": {
+    "video": "/mlsun/ms/fivr5k/videos/BQIQurxF7dw.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 108.9015873015873,
+    "nb_frames": 3262,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/BQIQurxF7dw.tar",
+    "frame_archive_length": 3263
+  },
+  "BSAOeWHctDc": {
+    "video": "/mlsun/ms/fivr5k/videos/BSAOeWHctDc.mp4",
+    "average_rate": 25.0,
+    "duration": 47.809886621315194,
+    "nb_frames": 1194,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/BSAOeWHctDc.tar",
+    "frame_archive_length": 1195
+  },
+  "BScS2M7O640": {
+    "video": "/mlsun/ms/fivr5k/videos/BScS2M7O640.mp4",
+    "average_rate": 24.9000999000999,
+    "duration": 40.12408163265306,
+    "nb_frames": 997,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/BScS2M7O640.tar",
+    "frame_archive_length": 998
+  },
+  "BSfGvzlQNik": {
+    "video": "/mlsun/ms/fivr5k/videos/BSfGvzlQNik.mp4",
+    "average_rate": 25.0,
+    "duration": 57.91056689342403,
+    "nb_frames": 1446,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/BSfGvzlQNik.tar",
+    "frame_archive_length": 1447
+  },
+  "BUvG20fCADY": {
+    "video": "/mlsun/ms/fivr5k/videos/BUvG20fCADY.mp4",
+    "average_rate": 30.0,
+    "duration": 59.93366666666667,
+    "nb_frames": 0,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/BUvG20fCADY.tar",
+    "frame_archive_length": 1799
+  },
+  "BVT_mMYyGic": {
+    "video": "/mlsun/ms/fivr5k/videos/BVT_mMYyGic.mp4",
+    "average_rate": 25.0,
+    "duration": 107.299410430839,
+    "nb_frames": 2681,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/BVT_mMYyGic.tar",
+    "frame_archive_length": 2682
+  },
+  "BX3WG3smnJU": {
+    "video": "/mlsun/ms/fivr5k/videos/BX3WG3smnJU.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 195.92997732426304,
+    "nb_frames": 5870,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/BX3WG3smnJU.tar",
+    "frame_archive_length": 5871
+  },
+  "BXDz2g93N-s": {
+    "video": "/mlsun/ms/fivr5k/videos/BXDz2g93N-s.mp4",
+    "average_rate": 24.895724713242963,
+    "duration": 38.42902494331066,
+    "nb_frames": 955,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/BXDz2g93N-s.tar",
+    "frame_archive_length": 956
+  },
+  "BXbOUGi38XM": {
+    "video": "/mlsun/ms/fivr5k/videos/BXbOUGi38XM.mp4",
+    "average_rate": 25.0,
+    "duration": 125.24843537414966,
+    "nb_frames": 3129,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/BXbOUGi38XM.tar",
+    "frame_archive_length": 3130
+  },
+  "BZ71LriXPxY": {
+    "video": "/mlsun/ms/fivr5k/videos/BZ71LriXPxY.mp4",
+    "average_rate": 25.0,
+    "duration": 89.88444444444444,
+    "nb_frames": 2243,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/BZ71LriXPxY.tar",
+    "frame_archive_length": 2244
+  },
+  "B_SZ5-9fEiE": {
+    "video": "/mlsun/ms/fivr5k/videos/B_SZ5-9fEiE.mp4",
+    "average_rate": 30.0,
+    "duration": 121.32426303854875,
+    "nb_frames": 3638,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/B_SZ5-9fEiE.tar",
+    "frame_archive_length": 3639
+  },
+  "B_bOrcAxM7o": {
+    "video": "/mlsun/ms/fivr5k/videos/B_bOrcAxM7o.mp4",
+    "average_rate": 25.0,
+    "duration": 148.93278911564627,
+    "nb_frames": 3722,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/B_bOrcAxM7o.tar",
+    "frame_archive_length": 3723
+  },
+  "B_y_2sPobBI": {
+    "video": "/mlsun/ms/fivr5k/videos/B_y_2sPobBI.mp4",
+    "average_rate": 25.0,
+    "duration": 271.0465306122449,
+    "nb_frames": 6774,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/B_y_2sPobBI.tar",
+    "frame_archive_length": 6775
+  },
+  "Ba8jTkRWiwI": {
+    "video": "/mlsun/ms/fivr5k/videos/Ba8jTkRWiwI.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 71.70321995464853,
+    "nb_frames": 2147,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/Ba8jTkRWiwI.tar",
+    "frame_archive_length": 2148
+  },
+  "BaB82cWweNk": {
+    "video": "/mlsun/ms/fivr5k/videos/BaB82cWweNk.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 126.38621315192744,
+    "nb_frames": 3786,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/BaB82cWweNk.tar",
+    "frame_archive_length": 3787
+  },
+  "BcH31LW87fg": {
+    "video": "/mlsun/ms/fivr5k/videos/BcH31LW87fg.mp4",
+    "average_rate": 29.970002680910397,
+    "duration": 256.3250793650794,
+    "nb_frames": 7680,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/BcH31LW87fg.tar",
+    "frame_archive_length": 7681
+  },
+  "BcZ_DaZ8kRo": {
+    "video": "/mlsun/ms/fivr5k/videos/BcZ_DaZ8kRo.mp4",
+    "average_rate": 30.0,
+    "duration": 115.24063492063492,
+    "nb_frames": 3443,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/BcZ_DaZ8kRo.tar",
+    "frame_archive_length": 3444
+  },
+  "Bc_LTonGO18": {
+    "video": "/mlsun/ms/fivr5k/videos/Bc_LTonGO18.mp4",
+    "average_rate": 29.883457429588862,
+    "duration": 103.0269387755102,
+    "nb_frames": 3077,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/Bc_LTonGO18.tar",
+    "frame_archive_length": 3078
+  },
+  "Bco8i5Au7eU": {
+    "video": "/mlsun/ms/fivr5k/videos/Bco8i5Au7eU.mp4",
+    "average_rate": 25.0,
+    "duration": 147.12163265306123,
+    "nb_frames": 3675,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/Bco8i5Au7eU.tar",
+    "frame_archive_length": 3676
+  },
+  "Bdel5VPvtzc": {
+    "video": "/mlsun/ms/fivr5k/videos/Bdel5VPvtzc.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 122.04408163265306,
+    "nb_frames": 3652,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/Bdel5VPvtzc.tar",
+    "frame_archive_length": 3653
+  },
+  "Be03F6gEzMw": {
+    "video": "/mlsun/ms/fivr5k/videos/Be03F6gEzMw.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 143.05814058956915,
+    "nb_frames": 4284,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/Be03F6gEzMw.tar",
+    "frame_archive_length": 4285
+  },
+  "BeJ431lmHwQ": {
+    "video": "/mlsun/ms/fivr5k/videos/BeJ431lmHwQ.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 237.63301587301586,
+    "nb_frames": 7117,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/BeJ431lmHwQ.tar",
+    "frame_archive_length": 7118
+  },
+  "BeWicbqFAwQ": {
+    "video": "/mlsun/ms/fivr5k/videos/BeWicbqFAwQ.mp4",
+    "average_rate": 25.0,
+    "duration": 83.9633560090703,
+    "nb_frames": 2094,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/BeWicbqFAwQ.tar",
+    "frame_archive_length": 2095
+  },
+  "Bgdb0uCym5I": {
+    "video": "/mlsun/ms/fivr5k/videos/Bgdb0uCym5I.mp4",
+    "average_rate": 14.900662251655628,
+    "duration": 20.201360544217685,
+    "nb_frames": 300,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/Bgdb0uCym5I.tar",
+    "frame_archive_length": 301
+  },
+  "BguD0LQ0nrk": {
+    "video": "/mlsun/ms/fivr5k/videos/BguD0LQ0nrk.mp4",
+    "average_rate": 29.022,
+    "duration": 111.0378231292517,
+    "nb_frames": 3221,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/BguD0LQ0nrk.tar",
+    "frame_archive_length": 3222
+  },
+  "Bh7jbqHUfv8": {
+    "video": "/mlsun/ms/fivr5k/videos/Bh7jbqHUfv8.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 164.51337868480726,
+    "nb_frames": 4928,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/Bh7jbqHUfv8.tar",
+    "frame_archive_length": 4929
+  },
+  "BhFE2x7TPWc": {
+    "video": "/mlsun/ms/fivr5k/videos/BhFE2x7TPWc.mp4",
+    "average_rate": 25.0,
+    "duration": 53.057596371882084,
+    "nb_frames": 1325,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/BhFE2x7TPWc.tar",
+    "frame_archive_length": 1326
+  },
+  "BjZ0QMiGI5k": {
+    "video": "/mlsun/ms/fivr5k/videos/BjZ0QMiGI5k.mp4",
+    "average_rate": 29.0,
+    "duration": 109.76072562358277,
+    "nb_frames": 3176,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/BjZ0QMiGI5k.tar",
+    "frame_archive_length": 3177
+  },
+  "BktYJVtC2Xc": {
+    "video": "/mlsun/ms/fivr5k/videos/BktYJVtC2Xc.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 290.1101133786848,
+    "nb_frames": 8693,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/BktYJVtC2Xc.tar",
+    "frame_archive_length": 8694
+  },
+  "Bl61TayIPHI": {
+    "video": "/mlsun/ms/fivr5k/videos/Bl61TayIPHI.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 15.162630385487528,
+    "nb_frames": 453,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/Bl61TayIPHI.tar",
+    "frame_archive_length": 454
+  },
+  "BlUdRqlvcAk": {
+    "video": "/mlsun/ms/fivr5k/videos/BlUdRqlvcAk.mp4",
+    "average_rate": 25.0,
+    "duration": 71.16916099773243,
+    "nb_frames": 1776,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/BlUdRqlvcAk.tar",
+    "frame_archive_length": 1777
+  },
+  "BlwVp84RcHw": {
+    "video": "/mlsun/ms/fivr5k/videos/BlwVp84RcHw.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 40.91356009070295,
+    "nb_frames": 1224,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/BlwVp84RcHw.tar",
+    "frame_archive_length": 1225
+  },
+  "Blx7CsNjlSA": {
+    "video": "/mlsun/ms/fivr5k/videos/Blx7CsNjlSA.mp4",
+    "average_rate": 25.0,
+    "duration": 88.8627664399093,
+    "nb_frames": 2220,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/Blx7CsNjlSA.tar",
+    "frame_archive_length": 2221
+  },
+  "BoAA4eMA4nc": {
+    "video": "/mlsun/ms/fivr5k/videos/BoAA4eMA4nc.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 237.37759637188208,
+    "nb_frames": 7111,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/BoAA4eMA4nc.tar",
+    "frame_archive_length": 7112
+  },
+  "BoEbvPTeJdo": {
+    "video": "/mlsun/ms/fivr5k/videos/BoEbvPTeJdo.mp4",
+    "average_rate": 25.0,
+    "duration": 211.85886621315194,
+    "nb_frames": 5295,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/BoEbvPTeJdo.tar",
+    "frame_archive_length": 5296
+  },
+  "BoGjfs509xg": {
+    "video": "/mlsun/ms/fivr5k/videos/BoGjfs509xg.mp4",
+    "average_rate": 30.0,
+    "duration": 9.984580498866213,
+    "nb_frames": 296,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/BoGjfs509xg.tar",
+    "frame_archive_length": 297
+  },
+  "Boys0BH6_Ck": {
+    "video": "/mlsun/ms/fivr5k/videos/Boys0BH6_Ck.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 62.55455782312925,
+    "nb_frames": 1873,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/Boys0BH6_Ck.tar",
+    "frame_archive_length": 1874
+  },
+  "BpBMu31i9Pw": {
+    "video": "/mlsun/ms/fivr5k/videos/BpBMu31i9Pw.mp4",
+    "average_rate": 29.97012170740281,
+    "duration": 206.95945578231292,
+    "nb_frames": 6201,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/BpBMu31i9Pw.tar",
+    "frame_archive_length": 6202
+  },
+  "Bqd48x6TBOQ": {
+    "video": "/mlsun/ms/fivr5k/videos/Bqd48x6TBOQ.mp4",
+    "average_rate": 29.8804780876494,
+    "duration": 15.51092970521542,
+    "nb_frames": 462,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/Bqd48x6TBOQ.tar",
+    "frame_archive_length": 463
+  },
+  "BqulTiXxDvA": {
+    "video": "/mlsun/ms/fivr5k/videos/BqulTiXxDvA.mp4",
+    "average_rate": 25.0,
+    "duration": 116.61061224489796,
+    "nb_frames": 2913,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/BqulTiXxDvA.tar",
+    "frame_archive_length": 2914
+  },
+  "BriJNACl7zQ": {
+    "video": "/mlsun/ms/fivr5k/videos/BriJNACl7zQ.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 33.94757369614513,
+    "nb_frames": 1016,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/BriJNACl7zQ.tar",
+    "frame_archive_length": 1017
+  },
+  "BsXqqEqkmJg": {
+    "video": "/mlsun/ms/fivr5k/videos/BsXqqEqkmJg.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 54.28825396825397,
+    "nb_frames": 1621,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/BsXqqEqkmJg.tar",
+    "frame_archive_length": 1622
+  },
+  "Bu76AMFg60c": {
+    "video": "/mlsun/ms/fivr5k/videos/Bu76AMFg60c.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 54.022,
+    "nb_frames": 0,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/Bu76AMFg60c.tar",
+    "frame_archive_length": 1621
+  },
+  "BuKsZMPDbiE": {
+    "video": "/mlsun/ms/fivr5k/videos/BuKsZMPDbiE.mp4",
+    "average_rate": 25.0,
+    "duration": 84.0562358276644,
+    "nb_frames": 2100,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/BuKsZMPDbiE.tar",
+    "frame_archive_length": 2101
+  },
+  "BuXnxdsPsRg": {
+    "video": "/mlsun/ms/fivr5k/videos/BuXnxdsPsRg.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 181.41456666666667,
+    "nb_frames": 0,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/BuXnxdsPsRg.tar",
+    "frame_archive_length": 5438
+  },
+  "Bxhpxtd8R20": {
+    "video": "/mlsun/ms/fivr5k/videos/Bxhpxtd8R20.mp4",
+    "average_rate": 25.0,
+    "duration": 119.09514739229024,
+    "nb_frames": 2976,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/Bxhpxtd8R20.tar",
+    "frame_archive_length": 2977
+  },
+  "Byvor9llecM": {
+    "video": "/mlsun/ms/fivr5k/videos/Byvor9llecM.mp4",
+    "average_rate": 25.0,
+    "duration": 220.17160997732427,
+    "nb_frames": 5502,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/Byvor9llecM.tar",
+    "frame_archive_length": 5503
+  },
+  "Bzd2NYuXxVc": {
+    "video": "/mlsun/ms/fivr5k/videos/Bzd2NYuXxVc.mp4",
+    "average_rate": 29.869352204681547,
+    "duration": 61.30068027210884,
+    "nb_frames": 1829,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/Bzd2NYuXxVc.tar",
+    "frame_archive_length": 1830
+  },
+  "C-96YbD9vRw": {
+    "video": "/mlsun/ms/fivr5k/videos/C-96YbD9vRw.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 93.32623333333333,
+    "nb_frames": 0,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/C-96YbD9vRw.tar",
+    "frame_archive_length": 2798
+  },
+  "C1hdyAQVxm8": {
+    "video": "/mlsun/ms/fivr5k/videos/C1hdyAQVxm8.mp4",
+    "average_rate": 25.0,
+    "duration": 20.154920634920636,
+    "nb_frames": 501,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/C1hdyAQVxm8.tar",
+    "frame_archive_length": 502
+  },
+  "C1rWWo7xmLQ": {
+    "video": "/mlsun/ms/fivr5k/videos/C1rWWo7xmLQ.mp4",
+    "average_rate": 30.0,
+    "duration": 66.94312925170068,
+    "nb_frames": 2005,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/C1rWWo7xmLQ.tar",
+    "frame_archive_length": 2006
+  },
+  "C3ltTXA4qSQ": {
+    "video": "/mlsun/ms/fivr5k/videos/C3ltTXA4qSQ.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 92.02068027210885,
+    "nb_frames": 2756,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/C3ltTXA4qSQ.tar",
+    "frame_archive_length": 2757
+  },
+  "C4BBqem3fiY": {
+    "video": "/mlsun/ms/fivr5k/videos/C4BBqem3fiY.mp4",
+    "average_rate": 25.0,
+    "duration": 74.39673469387755,
+    "nb_frames": 1858,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/C4BBqem3fiY.tar",
+    "frame_archive_length": 1859
+  },
+  "C4tOhui00DY": {
+    "video": "/mlsun/ms/fivr5k/videos/C4tOhui00DY.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 120.25614512471655,
+    "nb_frames": 3602,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/C4tOhui00DY.tar",
+    "frame_archive_length": 3603
+  },
+  "C5YNsM2YSKw": {
+    "video": "/mlsun/ms/fivr5k/videos/C5YNsM2YSKw.mp4",
+    "average_rate": 24.874655302080722,
+    "duration": 159.61396825396827,
+    "nb_frames": 3969,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/C5YNsM2YSKw.tar",
+    "frame_archive_length": 3970
+  },
+  "C8w51WHEqW4": {
+    "video": "/mlsun/ms/fivr5k/videos/C8w51WHEqW4.mp4",
+    "average_rate": 10.0,
+    "duration": 5.108390022675737,
+    "nb_frames": 50,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/C8w51WHEqW4.tar",
+    "frame_archive_length": 51
+  },
+  "C9664Yl3XXI": {
+    "video": "/mlsun/ms/fivr5k/videos/C9664Yl3XXI.mp4",
+    "average_rate": 30.0,
+    "duration": 10.333,
+    "nb_frames": 0,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/C9664Yl3XXI.tar",
+    "frame_archive_length": 311
+  },
+  "CB1Ws8LLTEw": {
+    "video": "/mlsun/ms/fivr5k/videos/CB1Ws8LLTEw.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 113.10439909297052,
+    "nb_frames": 3388,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/CB1Ws8LLTEw.tar",
+    "frame_archive_length": 3389
+  },
+  "CC3kr3jTiuI": {
+    "video": "/mlsun/ms/fivr5k/videos/CC3kr3jTiuI.mp4",
+    "average_rate": 25.0,
+    "duration": 59.8378231292517,
+    "nb_frames": 1494,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/CC3kr3jTiuI.tar",
+    "frame_archive_length": 1495
+  },
+  "CCMolsTugus": {
+    "video": "/mlsun/ms/fivr5k/videos/CCMolsTugus.mp4",
+    "average_rate": 30.0,
+    "duration": 19.319002267573698,
+    "nb_frames": 576,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/CCMolsTugus.tar",
+    "frame_archive_length": 577
+  },
+  "CE1dBU8wF-8": {
+    "video": "/mlsun/ms/fivr5k/videos/CE1dBU8wF-8.mp4",
+    "average_rate": 23.97615281152773,
+    "duration": 178.39891156462585,
+    "nb_frames": 4276,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/CE1dBU8wF-8.tar",
+    "frame_archive_length": 4277
+  },
+  "CEFGlHq31wM": {
+    "video": "/mlsun/ms/fivr5k/videos/CEFGlHq31wM.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 129.5294,
+    "nb_frames": 0,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/CEFGlHq31wM.tar",
+    "frame_archive_length": 3883
+  },
+  "CEJoMXkVza4": {
+    "video": "/mlsun/ms/fivr5k/videos/CEJoMXkVza4.mp4",
+    "average_rate": 25.0,
+    "duration": 60.13968253968254,
+    "nb_frames": 1502,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/CEJoMXkVza4.tar",
+    "frame_archive_length": 1503
+  },
+  "CEcW-Z04tXA": {
+    "video": "/mlsun/ms/fivr5k/videos/CEcW-Z04tXA.mp4",
+    "average_rate": 15.0,
+    "duration": 275.62086167800453,
+    "nb_frames": 4129,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/CEcW-Z04tXA.tar",
+    "frame_archive_length": 4130
+  },
+  "CF0hH5GeMJo": {
+    "video": "/mlsun/ms/fivr5k/videos/CF0hH5GeMJo.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 124.87691609977324,
+    "nb_frames": 3741,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/CF0hH5GeMJo.tar",
+    "frame_archive_length": 3742
+  },
+  "CGi2kH3OcxI": {
+    "video": "/mlsun/ms/fivr5k/videos/CGi2kH3OcxI.mp4",
+    "average_rate": 25.0,
+    "duration": 90.1166439909297,
+    "nb_frames": 2251,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/CGi2kH3OcxI.tar",
+    "frame_archive_length": 2252
+  },
+  "CH4zcl8SL1E": {
+    "video": "/mlsun/ms/fivr5k/videos/CH4zcl8SL1E.mp4",
+    "average_rate": 25.0,
+    "duration": 107.78702947845805,
+    "nb_frames": 2691,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/CH4zcl8SL1E.tar",
+    "frame_archive_length": 2692
+  },
+  "CHOQbYCSt30": {
+    "video": "/mlsun/ms/fivr5k/videos/CHOQbYCSt30.mp4",
+    "average_rate": 25.0,
+    "duration": 56.33160997732426,
+    "nb_frames": 1407,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/CHOQbYCSt30.tar",
+    "frame_archive_length": 1408
+  },
+  "CHU6gdlAvds": {
+    "video": "/mlsun/ms/fivr5k/videos/CHU6gdlAvds.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 267.4672,
+    "nb_frames": 0,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/CHU6gdlAvds.tar",
+    "frame_archive_length": 8017
+  },
+  "CHeBvbdfBwU": {
+    "video": "/mlsun/ms/fivr5k/videos/CHeBvbdfBwU.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 28.53732426303855,
+    "nb_frames": 853,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/CHeBvbdfBwU.tar",
+    "frame_archive_length": 854
+  },
+  "CI2MQlnrVY4": {
+    "video": "/mlsun/ms/fivr5k/videos/CI2MQlnrVY4.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 186.31691609977324,
+    "nb_frames": 5581,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/CI2MQlnrVY4.tar",
+    "frame_archive_length": 5582
+  },
+  "CJSmvdPT8p0": {
+    "video": "/mlsun/ms/fivr5k/videos/CJSmvdPT8p0.mp4",
+    "average_rate": 23.976023976023978,
+    "duration": 215.80625850340135,
+    "nb_frames": 5173,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/CJSmvdPT8p0.tar",
+    "frame_archive_length": 5174
+  },
+  "CJnHsieKgtg": {
+    "video": "/mlsun/ms/fivr5k/videos/CJnHsieKgtg.mp4",
+    "average_rate": 30.0,
+    "duration": 54.590113378684805,
+    "nb_frames": 1635,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/CJnHsieKgtg.tar",
+    "frame_archive_length": 1636
+  },
+  "CKvMbz6ohlA": {
+    "video": "/mlsun/ms/fivr5k/videos/CKvMbz6ohlA.mp4",
+    "average_rate": 25.0,
+    "duration": 268.16725623582767,
+    "nb_frames": 6701,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/CKvMbz6ohlA.tar",
+    "frame_archive_length": 6702
+  },
+  "CLIIhM9f7B0": {
+    "video": "/mlsun/ms/fivr5k/videos/CLIIhM9f7B0.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 293.61632653061224,
+    "nb_frames": 8795,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/CLIIhM9f7B0.tar",
+    "frame_archive_length": 8796
+  },
+  "CLkk11VkgrM": {
+    "video": "/mlsun/ms/fivr5k/videos/CLkk11VkgrM.mp4",
+    "average_rate": 23.976023976023978,
+    "duration": 60.116462585034014,
+    "nb_frames": 1440,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/CLkk11VkgrM.tar",
+    "frame_archive_length": 1441
+  },
+  "CP-4S70Sd2s": {
+    "video": "/mlsun/ms/fivr5k/videos/CP-4S70Sd2s.mp4",
+    "average_rate": 24.0,
+    "duration": 116.81959183673469,
+    "nb_frames": 2802,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/CP-4S70Sd2s.tar",
+    "frame_archive_length": 2803
+  },
+  "CPR2SVxgSxg": {
+    "video": "/mlsun/ms/fivr5k/videos/CPR2SVxgSxg.mp4",
+    "average_rate": 30.0,
+    "duration": 37.29124716553288,
+    "nb_frames": 1110,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/CPR2SVxgSxg.tar",
+    "frame_archive_length": 1111
+  },
+  "CPYjoB1BpWw": {
+    "video": "/mlsun/ms/fivr5k/videos/CPYjoB1BpWw.mp4",
+    "average_rate": 25.0,
+    "duration": 20.387120181405894,
+    "nb_frames": 507,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/CPYjoB1BpWw.tar",
+    "frame_archive_length": 508
+  },
+  "CS-UeYJcJyU": {
+    "video": "/mlsun/ms/fivr5k/videos/CS-UeYJcJyU.mp4",
+    "average_rate": 30.0,
+    "duration": 214.57560090702947,
+    "nb_frames": 6435,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/CS-UeYJcJyU.tar",
+    "frame_archive_length": 6436
+  },
+  "CTM7Oihibd8": {
+    "video": "/mlsun/ms/fivr5k/videos/CTM7Oihibd8.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 194.04916099773243,
+    "nb_frames": 5814,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/CTM7Oihibd8.tar",
+    "frame_archive_length": 5815
+  },
+  "CTy5e4Bmd6c": {
+    "video": "/mlsun/ms/fivr5k/videos/CTy5e4Bmd6c.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 59.466303854875285,
+    "nb_frames": 1780,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/CTy5e4Bmd6c.tar",
+    "frame_archive_length": 1781
+  },
+  "CUYexSV-WDM": {
+    "video": "/mlsun/ms/fivr5k/videos/CUYexSV-WDM.mp4",
+    "average_rate": 24.877450980392158,
+    "duration": 16.370068027210884,
+    "nb_frames": 406,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/CUYexSV-WDM.tar",
+    "frame_archive_length": 407
+  },
+  "CVvIQmYlgSQ": {
+    "video": "/mlsun/ms/fivr5k/videos/CVvIQmYlgSQ.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 68.33632653061224,
+    "nb_frames": 2046,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/CVvIQmYlgSQ.tar",
+    "frame_archive_length": 2047
+  },
+  "CWk9SMWuBoc": {
+    "video": "/mlsun/ms/fivr5k/videos/CWk9SMWuBoc.mp4",
+    "average_rate": 10.0,
+    "duration": 105.55791383219955,
+    "nb_frames": 1055,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/CWk9SMWuBoc.tar",
+    "frame_archive_length": 1056
+  },
+  "CX2-T1KGpBI": {
+    "video": "/mlsun/ms/fivr5k/videos/CX2-T1KGpBI.mp4",
+    "average_rate": 24.87489574645538,
+    "duration": 192.05224489795918,
+    "nb_frames": 4772,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/CX2-T1KGpBI.tar",
+    "frame_archive_length": 4773
+  },
+  "CXfekTeK-Cg": {
+    "video": "/mlsun/ms/fivr5k/videos/CXfekTeK-Cg.mp4",
+    "average_rate": 30.0,
+    "duration": 276.59609977324266,
+    "nb_frames": 8296,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/CXfekTeK-Cg.tar",
+    "frame_archive_length": 8297
+  },
+  "CYl2iKXuQCE": {
+    "video": "/mlsun/ms/fivr5k/videos/CYl2iKXuQCE.mp4",
+    "average_rate": 25.0,
+    "duration": 169.0877097505669,
+    "nb_frames": 4226,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/CYl2iKXuQCE.tar",
+    "frame_archive_length": 4227
+  },
+  "CaN5vHuY9QA": {
+    "video": "/mlsun/ms/fivr5k/videos/CaN5vHuY9QA.mp4",
+    "average_rate": 24.0,
+    "duration": 26.261768707482993,
+    "nb_frames": 629,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/CaN5vHuY9QA.tar",
+    "frame_archive_length": 630
+  },
+  "CaN9jPIvbc4": {
+    "video": "/mlsun/ms/fivr5k/videos/CaN9jPIvbc4.mp4",
+    "average_rate": 30.0,
+    "duration": 75.9524716553288,
+    "nb_frames": 2276,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/CaN9jPIvbc4.tar",
+    "frame_archive_length": 2277
+  },
+  "CcnIJasLgJ8": {
+    "video": "/mlsun/ms/fivr5k/videos/CcnIJasLgJ8.mp4",
+    "average_rate": 29.933481152993348,
+    "duration": 15.62702947845805,
+    "nb_frames": 465,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/CcnIJasLgJ8.tar",
+    "frame_archive_length": 466
+  },
+  "Ccuv25YRw5M": {
+    "video": "/mlsun/ms/fivr5k/videos/Ccuv25YRw5M.mp4",
+    "average_rate": 25.0,
+    "duration": 147.8878911564626,
+    "nb_frames": 3696,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/Ccuv25YRw5M.tar",
+    "frame_archive_length": 3697
+  },
+  "CdpbHgtys84": {
+    "video": "/mlsun/ms/fivr5k/videos/CdpbHgtys84.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 97.12907029478458,
+    "nb_frames": 2909,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/CdpbHgtys84.tar",
+    "frame_archive_length": 2910
+  },
+  "Ce4AIcHPpaY": {
+    "video": "/mlsun/ms/fivr5k/videos/Ce4AIcHPpaY.mp4",
+    "average_rate": 30.0,
+    "duration": 54.543673469387755,
+    "nb_frames": 1634,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/Ce4AIcHPpaY.tar",
+    "frame_archive_length": 1635
+  },
+  "Cf2g5Wt9raw": {
+    "video": "/mlsun/ms/fivr5k/videos/Cf2g5Wt9raw.mp4",
+    "average_rate": 25.0,
+    "duration": 20.154920634920636,
+    "nb_frames": 501,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/Cf2g5Wt9raw.tar",
+    "frame_archive_length": 502
+  },
+  "CfCd7BR44I0": {
+    "video": "/mlsun/ms/fivr5k/videos/CfCd7BR44I0.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 66.29297052154195,
+    "nb_frames": 1984,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/CfCd7BR44I0.tar",
+    "frame_archive_length": 1985
+  },
+  "Cg5DHb9ZTXU": {
+    "video": "/mlsun/ms/fivr5k/videos/Cg5DHb9ZTXU.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 152.97306122448978,
+    "nb_frames": 4583,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/Cg5DHb9ZTXU.tar",
+    "frame_archive_length": 4584
+  },
+  "CiBlYcmSHHI": {
+    "video": "/mlsun/ms/fivr5k/videos/CiBlYcmSHHI.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 254.53714285714287,
+    "nb_frames": 7627,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/CiBlYcmSHHI.tar",
+    "frame_archive_length": 7628
+  },
+  "CiFFXkcI55s": {
+    "video": "/mlsun/ms/fivr5k/videos/CiFFXkcI55s.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 89.5825850340136,
+    "nb_frames": 2683,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/CiFFXkcI55s.tar",
+    "frame_archive_length": 2684
+  },
+  "CjFat843kfk": {
+    "video": "/mlsun/ms/fivr5k/videos/CjFat843kfk.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 74.86113378684807,
+    "nb_frames": 2242,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/CjFat843kfk.tar",
+    "frame_archive_length": 2243
+  },
+  "Ckz1m75zS1o": {
+    "video": "/mlsun/ms/fivr5k/videos/Ckz1m75zS1o.mp4",
+    "average_rate": 25.0,
+    "duration": 286.1859410430839,
+    "nb_frames": 7153,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/Ckz1m75zS1o.tar",
+    "frame_archive_length": 7154
+  },
+  "ClkPGt-obwQ": {
+    "video": "/mlsun/ms/fivr5k/videos/ClkPGt-obwQ.mp4",
+    "average_rate": 30.0,
+    "duration": 34.87637188208617,
+    "nb_frames": 1044,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/ClkPGt-obwQ.tar",
+    "frame_archive_length": 1045
+  },
+  "CmHSQVjxFgU": {
+    "video": "/mlsun/ms/fivr5k/videos/CmHSQVjxFgU.mp4",
+    "average_rate": 29.0,
+    "duration": 40.4259410430839,
+    "nb_frames": 1171,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/CmHSQVjxFgU.tar",
+    "frame_archive_length": 1172
+  },
+  "CnN17wV77DU": {
+    "video": "/mlsun/ms/fivr5k/videos/CnN17wV77DU.mp4",
+    "average_rate": 25.0,
+    "duration": 52.291337868480724,
+    "nb_frames": 1306,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/CnN17wV77DU.tar",
+    "frame_archive_length": 1307
+  },
+  "CncCLDZ-tRE": {
+    "video": "/mlsun/ms/fivr5k/videos/CncCLDZ-tRE.mp4",
+    "average_rate": 30.0,
+    "duration": 109.29632653061225,
+    "nb_frames": 3271,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/CncCLDZ-tRE.tar",
+    "frame_archive_length": 3272
+  },
+  "Co5CKe-Tp4A": {
+    "video": "/mlsun/ms/fivr5k/videos/Co5CKe-Tp4A.mp4",
+    "average_rate": 25.0,
+    "duration": 74.16453514739229,
+    "nb_frames": 1851,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/Co5CKe-Tp4A.tar",
+    "frame_archive_length": 1852
+  },
+  "CoCTOEdWIi0": {
+    "video": "/mlsun/ms/fivr5k/videos/CoCTOEdWIi0.mp4",
+    "average_rate": 25.0,
+    "duration": 30.1859410430839,
+    "nb_frames": 751,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/CoCTOEdWIi0.tar",
+    "frame_archive_length": 752
+  },
+  "ConD1e4PRCU": {
+    "video": "/mlsun/ms/fivr5k/videos/ConD1e4PRCU.mp4",
+    "average_rate": 25.0,
+    "duration": 173.66204081632654,
+    "nb_frames": 4340,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/ConD1e4PRCU.tar",
+    "frame_archive_length": 4341
+  },
+  "Conv0AqTlq4": {
+    "video": "/mlsun/ms/fivr5k/videos/Conv0AqTlq4.mp4",
+    "average_rate": 25.0,
+    "duration": 216.40997732426302,
+    "nb_frames": 5409,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/Conv0AqTlq4.tar",
+    "frame_archive_length": 5410
+  },
+  "Cph0KadiUNQ": {
+    "video": "/mlsun/ms/fivr5k/videos/Cph0KadiUNQ.mp4",
+    "average_rate": 25.0,
+    "duration": 155.85233560090703,
+    "nb_frames": 3893,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/Cph0KadiUNQ.tar",
+    "frame_archive_length": 3894
+  },
+  "Cpi8B1G7hAw": {
+    "video": "/mlsun/ms/fivr5k/videos/Cpi8B1G7hAw.mp4",
+    "average_rate": 30.0,
+    "duration": 112.36136054421769,
+    "nb_frames": 3369,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/Cpi8B1G7hAw.tar",
+    "frame_archive_length": 3370
+  },
+  "Cpkl2LVfAVo": {
+    "video": "/mlsun/ms/fivr5k/videos/Cpkl2LVfAVo.mp4",
+    "average_rate": 30.0,
+    "duration": 112.80253968253969,
+    "nb_frames": 3382,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/Cpkl2LVfAVo.tar",
+    "frame_archive_length": 3383
+  },
+  "Cpog-HTxGDI": {
+    "video": "/mlsun/ms/fivr5k/videos/Cpog-HTxGDI.mp4",
+    "average_rate": 29.970403292509143,
+    "duration": 53.68453514739229,
+    "nb_frames": 1604,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/Cpog-HTxGDI.tar",
+    "frame_archive_length": 1605
+  },
+  "Cs21wIEDa0c": {
+    "video": "/mlsun/ms/fivr5k/videos/Cs21wIEDa0c.mp4",
+    "average_rate": 30.0,
+    "duration": 277.2230385487528,
+    "nb_frames": 8315,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/Cs21wIEDa0c.tar",
+    "frame_archive_length": 8316
+  },
+  "Csla4aPUF0s": {
+    "video": "/mlsun/ms/fivr5k/videos/Csla4aPUF0s.mp4",
+    "average_rate": 30.0,
+    "duration": 37.94140589569161,
+    "nb_frames": 1135,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/Csla4aPUF0s.tar",
+    "frame_archive_length": 1136
+  },
+  "CujjbdyFIDA": {
+    "video": "/mlsun/ms/fivr5k/videos/CujjbdyFIDA.mp4",
+    "average_rate": 30.0,
+    "duration": 26.679727891156464,
+    "nb_frames": 798,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/CujjbdyFIDA.tar",
+    "frame_archive_length": 799
+  },
+  "CvcSUsfWSuU": {
+    "video": "/mlsun/ms/fivr5k/videos/CvcSUsfWSuU.mp4",
+    "average_rate": 30.0,
+    "duration": 80.3,
+    "nb_frames": 0,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/CvcSUsfWSuU.tar",
+    "frame_archive_length": 2410
+  },
+  "Cw0jXXyAXw4": {
+    "video": "/mlsun/ms/fivr5k/videos/Cw0jXXyAXw4.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 137.7713,
+    "nb_frames": 0,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/Cw0jXXyAXw4.tar",
+    "frame_archive_length": 4130
+  },
+  "CwGrFyqZNdk": {
+    "video": "/mlsun/ms/fivr5k/videos/CwGrFyqZNdk.mp4",
+    "average_rate": 25.0,
+    "duration": 64.2,
+    "nb_frames": 0,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/CwGrFyqZNdk.tar",
+    "frame_archive_length": 1606
+  },
+  "CwVWxyluNCw": {
+    "video": "/mlsun/ms/fivr5k/videos/CwVWxyluNCw.mp4",
+    "average_rate": 25.0,
+    "duration": 41.308299319727894,
+    "nb_frames": 1025,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/CwVWxyluNCw.tar",
+    "frame_archive_length": 1026
+  },
+  "Cxd9Xg8fFWg": {
+    "video": "/mlsun/ms/fivr5k/videos/Cxd9Xg8fFWg.mp4",
+    "average_rate": 25.0,
+    "duration": 123.762358276644,
+    "nb_frames": 3092,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/Cxd9Xg8fFWg.tar",
+    "frame_archive_length": 3093
+  },
+  "CzhqgYU7pwY": {
+    "video": "/mlsun/ms/fivr5k/videos/CzhqgYU7pwY.mp4",
+    "average_rate": 25.0,
+    "duration": 137.81043083900227,
+    "nb_frames": 3444,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/CzhqgYU7pwY.tar",
+    "frame_archive_length": 3445
+  },
+  "D-hx4rn1_ww": {
+    "video": "/mlsun/ms/fivr5k/videos/D-hx4rn1_ww.mp4",
+    "average_rate": 23.930792377131393,
+    "duration": 74.86113378684807,
+    "nb_frames": 1790,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/D-hx4rn1_ww.tar",
+    "frame_archive_length": 1791
+  },
+  "D0dCmHuPEiI": {
+    "video": "/mlsun/ms/fivr5k/videos/D0dCmHuPEiI.mp4",
+    "average_rate": 25.0,
+    "duration": 24.729251700680273,
+    "nb_frames": 617,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/D0dCmHuPEiI.tar",
+    "frame_archive_length": 618
+  },
+  "D0hr6AJGJlY": {
+    "video": "/mlsun/ms/fivr5k/videos/D0hr6AJGJlY.mp4",
+    "average_rate": 24.902629016553067,
+    "duration": 41.21541950113379,
+    "nb_frames": 1023,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/D0hr6AJGJlY.tar",
+    "frame_archive_length": 1024
+  },
+  "D0kgGdfiQFM": {
+    "video": "/mlsun/ms/fivr5k/videos/D0kgGdfiQFM.mp4",
+    "average_rate": 25.0,
+    "duration": 166.25487528344672,
+    "nb_frames": 4155,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/D0kgGdfiQFM.tar",
+    "frame_archive_length": 4156
+  },
+  "D0rwqsDYYKc": {
+    "video": "/mlsun/ms/fivr5k/videos/D0rwqsDYYKc.mp4",
+    "average_rate": 25.0,
+    "duration": 55.54213151927438,
+    "nb_frames": 1387,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/D0rwqsDYYKc.tar",
+    "frame_archive_length": 1388
+  },
+  "D12hisW-47U": {
+    "video": "/mlsun/ms/fivr5k/videos/D12hisW-47U.mp4",
+    "average_rate": 25.0,
+    "duration": 41.16897959183674,
+    "nb_frames": 1028,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/D12hisW-47U.tar",
+    "frame_archive_length": 1029
+  },
+  "D16gXQScCiY": {
+    "video": "/mlsun/ms/fivr5k/videos/D16gXQScCiY.mp4",
+    "average_rate": 24.89051094890511,
+    "duration": 54.868752834467124,
+    "nb_frames": 1364,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/D16gXQScCiY.tar",
+    "frame_archive_length": 1365
+  },
+  "D4DCaC7bKs4": {
+    "video": "/mlsun/ms/fivr5k/videos/D4DCaC7bKs4.mp4",
+    "average_rate": 25.0,
+    "duration": 90.30240362811791,
+    "nb_frames": 2256,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/D4DCaC7bKs4.tar",
+    "frame_archive_length": 2257
+  },
+  "D4s2VjtGWmI": {
+    "video": "/mlsun/ms/fivr5k/videos/D4s2VjtGWmI.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 61.3471201814059,
+    "nb_frames": 1837,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/D4s2VjtGWmI.tar",
+    "frame_archive_length": 1838
+  },
+  "D5crECuGguQ": {
+    "video": "/mlsun/ms/fivr5k/videos/D5crECuGguQ.mp4",
+    "average_rate": 25.0,
+    "duration": 57.283628117913835,
+    "nb_frames": 1430,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/D5crECuGguQ.tar",
+    "frame_archive_length": 1431
+  },
+  "D6MLL-0RRMQ": {
+    "video": "/mlsun/ms/fivr5k/videos/D6MLL-0RRMQ.mp4",
+    "average_rate": 25.0,
+    "duration": 91.6259410430839,
+    "nb_frames": 2289,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/D6MLL-0RRMQ.tar",
+    "frame_archive_length": 2290
+  },
+  "D6oBg1vVQZo": {
+    "video": "/mlsun/ms/fivr5k/videos/D6oBg1vVQZo.mp4",
+    "average_rate": 29.001420029488735,
+    "duration": 12.445895691609977,
+    "nb_frames": 359,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/D6oBg1vVQZo.tar",
+    "frame_archive_length": 360
+  },
+  "D769JcVGzoo": {
+    "video": "/mlsun/ms/fivr5k/videos/D769JcVGzoo.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 52.73251700680272,
+    "nb_frames": 1579,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/D769JcVGzoo.tar",
+    "frame_archive_length": 1580
+  },
+  "D81eJV51ElM": {
+    "video": "/mlsun/ms/fivr5k/videos/D81eJV51ElM.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 75.02367346938776,
+    "nb_frames": 2247,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/D81eJV51ElM.tar",
+    "frame_archive_length": 2248
+  },
+  "D9LpLoo4_zw": {
+    "video": "/mlsun/ms/fivr5k/videos/D9LpLoo4_zw.mp4",
+    "average_rate": 25.0,
+    "duration": 80.10884353741497,
+    "nb_frames": 2001,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/D9LpLoo4_zw.tar",
+    "frame_archive_length": 2002
+  },
+  "DCUVdoT9Xgs": {
+    "video": "/mlsun/ms/fivr5k/videos/DCUVdoT9Xgs.mp4",
+    "average_rate": 25.0,
+    "duration": 89.4897052154195,
+    "nb_frames": 2236,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/DCUVdoT9Xgs.tar",
+    "frame_archive_length": 2237
+  },
+  "DE-QKxCWCQs": {
+    "video": "/mlsun/ms/fivr5k/videos/DE-QKxCWCQs.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 220.75210884353743,
+    "nb_frames": 6614,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/DE-QKxCWCQs.tar",
+    "frame_archive_length": 6615
+  },
+  "DEO4SxfgNr8": {
+    "video": "/mlsun/ms/fivr5k/videos/DEO4SxfgNr8.mp4",
+    "average_rate": 23.976023976023978,
+    "duration": 78.1815873015873,
+    "nb_frames": 1873,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/DEO4SxfgNr8.tar",
+    "frame_archive_length": 1874
+  },
+  "DEmaXmPliMM": {
+    "video": "/mlsun/ms/fivr5k/videos/DEmaXmPliMM.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 275.2261224489796,
+    "nb_frames": 8247,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/DEmaXmPliMM.tar",
+    "frame_archive_length": 8248
+  },
+  "DF-YM6Mgos4": {
+    "video": "/mlsun/ms/fivr5k/videos/DF-YM6Mgos4.mp4",
+    "average_rate": 25.0,
+    "duration": 51.7340589569161,
+    "nb_frames": 1292,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/DF-YM6Mgos4.tar",
+    "frame_archive_length": 1293
+  },
+  "DFPn8C874Ug": {
+    "video": "/mlsun/ms/fivr5k/videos/DFPn8C874Ug.mp4",
+    "average_rate": 25.0,
+    "duration": 259.50621315192745,
+    "nb_frames": 6486,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/DFPn8C874Ug.tar",
+    "frame_archive_length": 6487
+  },
+  "DGiAV9HrmLk": {
+    "video": "/mlsun/ms/fivr5k/videos/DGiAV9HrmLk.mp4",
+    "average_rate": 30.0,
+    "duration": 56.30839002267574,
+    "nb_frames": 1687,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/DGiAV9HrmLk.tar",
+    "frame_archive_length": 1688
+  },
+  "DH0QlHZNec4": {
+    "video": "/mlsun/ms/fivr5k/videos/DH0QlHZNec4.mp4",
+    "average_rate": 25.0,
+    "duration": 80.78222222222222,
+    "nb_frames": 2015,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/DH0QlHZNec4.tar",
+    "frame_archive_length": 2016
+  },
+  "DIimD0p9E3g": {
+    "video": "/mlsun/ms/fivr5k/videos/DIimD0p9E3g.mp4",
+    "average_rate": 29.970136735886197,
+    "duration": 65.59637188208617,
+    "nb_frames": 1963,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/DIimD0p9E3g.tar",
+    "frame_archive_length": 1964
+  },
+  "DJgt28pHz7k": {
+    "video": "/mlsun/ms/fivr5k/videos/DJgt28pHz7k.mp4",
+    "average_rate": 25.0,
+    "duration": 6.339047619047619,
+    "nb_frames": 156,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/DJgt28pHz7k.tar",
+    "frame_archive_length": 157
+  },
+  "DKVUwxOSJEo": {
+    "video": "/mlsun/ms/fivr5k/videos/DKVUwxOSJEo.mp4",
+    "average_rate": 25.0,
+    "duration": 40.054421768707485,
+    "nb_frames": 1000,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/DKVUwxOSJEo.tar",
+    "frame_archive_length": 1001
+  },
+  "DKaK-JAD8b8": {
+    "video": "/mlsun/ms/fivr5k/videos/DKaK-JAD8b8.mp4",
+    "average_rate": 30.0,
+    "duration": 41.029659863945575,
+    "nb_frames": 1219,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/DKaK-JAD8b8.tar",
+    "frame_archive_length": 1220
+  },
+  "DKnUEe20GsY": {
+    "video": "/mlsun/ms/fivr5k/videos/DKnUEe20GsY.mp4",
+    "average_rate": 29.92683336952467,
+    "duration": 30.093061224489794,
+    "nb_frames": 898,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/DKnUEe20GsY.tar",
+    "frame_archive_length": 899
+  },
+  "DL-LZg4s7eE": {
+    "video": "/mlsun/ms/fivr5k/videos/DL-LZg4s7eE.mp4",
+    "average_rate": 30.0,
+    "duration": 298.95691609977325,
+    "nb_frames": 8964,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/DL-LZg4s7eE.tar",
+    "frame_archive_length": 8965
+  },
+  "DLNuF6KBOLU": {
+    "video": "/mlsun/ms/fivr5k/videos/DLNuF6KBOLU.mp4",
+    "average_rate": 30.0,
+    "duration": 46.556009070294785,
+    "nb_frames": 1394,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/DLNuF6KBOLU.tar",
+    "frame_archive_length": 1395
+  },
+  "DLpTFRXPwrM": {
+    "video": "/mlsun/ms/fivr5k/videos/DLpTFRXPwrM.mp4",
+    "average_rate": 25.0,
+    "duration": 155.85233560090703,
+    "nb_frames": 3879,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/DLpTFRXPwrM.tar",
+    "frame_archive_length": 3880
+  },
+  "DN9UROjCwaM": {
+    "video": "/mlsun/ms/fivr5k/videos/DN9UROjCwaM.mp4",
+    "average_rate": 25.0,
+    "duration": 33.274195011337866,
+    "nb_frames": 828,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/DN9UROjCwaM.tar",
+    "frame_archive_length": 829
+  },
+  "DNbzZTMde7k": {
+    "video": "/mlsun/ms/fivr5k/videos/DNbzZTMde7k.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 248.12843537414966,
+    "nb_frames": 7435,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/DNbzZTMde7k.tar",
+    "frame_archive_length": 7436
+  },
+  "DOGGDWB9e-Y": {
+    "video": "/mlsun/ms/fivr5k/videos/DOGGDWB9e-Y.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 126.57197278911565,
+    "nb_frames": 3791,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/DOGGDWB9e-Y.tar",
+    "frame_archive_length": 3792
+  },
+  "DOOcG5pgIEM": {
+    "video": "/mlsun/ms/fivr5k/videos/DOOcG5pgIEM.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 55.82077097505669,
+    "nb_frames": 1671,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/DOOcG5pgIEM.tar",
+    "frame_archive_length": 1672
+  },
+  "DQ2h0DEOJnc": {
+    "video": "/mlsun/ms/fivr5k/videos/DQ2h0DEOJnc.mp4",
+    "average_rate": 24.8952331063384,
+    "duration": 76.46331065759637,
+    "nb_frames": 1901,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/DQ2h0DEOJnc.tar",
+    "frame_archive_length": 1902
+  },
+  "DQwY1HSAJrI": {
+    "video": "/mlsun/ms/fivr5k/videos/DQwY1HSAJrI.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 176.2162358276644,
+    "nb_frames": 5279,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/DQwY1HSAJrI.tar",
+    "frame_archive_length": 5280
+  },
+  "DS5rDB_xMPA": {
+    "video": "/mlsun/ms/fivr5k/videos/DS5rDB_xMPA.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 176.84317460317462,
+    "nb_frames": 5298,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/DS5rDB_xMPA.tar",
+    "frame_archive_length": 5299
+  },
+  "DTzYdTqrUGE": {
+    "video": "/mlsun/ms/fivr5k/videos/DTzYdTqrUGE.mp4",
+    "average_rate": 24.91460290350128,
+    "duration": 46.90430839002268,
+    "nb_frames": 1167,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/DTzYdTqrUGE.tar",
+    "frame_archive_length": 1168
+  },
+  "DVUyrJmQbaA": {
+    "video": "/mlsun/ms/fivr5k/videos/DVUyrJmQbaA.mp4",
+    "average_rate": 29.892857142857142,
+    "duration": 56.099410430839,
+    "nb_frames": 1674,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/DVUyrJmQbaA.tar",
+    "frame_archive_length": 1675
+  },
+  "DVnnr9AusSQ": {
+    "video": "/mlsun/ms/fivr5k/videos/DVnnr9AusSQ.mp4",
+    "average_rate": 30.0,
+    "duration": 35.0,
+    "nb_frames": 0,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/DVnnr9AusSQ.tar",
+    "frame_archive_length": 1051
+  },
+  "DW5Aiws3yUY": {
+    "video": "/mlsun/ms/fivr5k/videos/DW5Aiws3yUY.mp4",
+    "average_rate": 29.927,
+    "duration": 34.34231292517007,
+    "nb_frames": 1023,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/DW5Aiws3yUY.tar",
+    "frame_archive_length": 1024
+  },
+  "DX-hw7yMjwA": {
+    "video": "/mlsun/ms/fivr5k/videos/DX-hw7yMjwA.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 39.00952380952381,
+    "nb_frames": 1166,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/DX-hw7yMjwA.tar",
+    "frame_archive_length": 1167
+  },
+  "DYHMq6dn_EI": {
+    "video": "/mlsun/ms/fivr5k/videos/DYHMq6dn_EI.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 54.17215419501134,
+    "nb_frames": 1620,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/DYHMq6dn_EI.tar",
+    "frame_archive_length": 1621
+  },
+  "DZfzzdw38iQ": {
+    "video": "/mlsun/ms/fivr5k/videos/DZfzzdw38iQ.mp4",
+    "average_rate": 25.0,
+    "duration": 55.54213151927438,
+    "nb_frames": 1387,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/DZfzzdw38iQ.tar",
+    "frame_archive_length": 1388
+  },
+  "D_C7KMU_Mdc": {
+    "video": "/mlsun/ms/fivr5k/videos/D_C7KMU_Mdc.mp4",
+    "average_rate": 25.0,
+    "duration": 115.6,
+    "nb_frames": 0,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/D_C7KMU_Mdc.tar",
+    "frame_archive_length": 2891
+  },
+  "D_ua52x29tU": {
+    "video": "/mlsun/ms/fivr5k/videos/D_ua52x29tU.mp4",
+    "average_rate": 25.0,
+    "duration": 62.18303854875283,
+    "nb_frames": 1553,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/D_ua52x29tU.tar",
+    "frame_archive_length": 1554
+  },
+  "Da5J1XqH1vE": {
+    "video": "/mlsun/ms/fivr5k/videos/Da5J1XqH1vE.mp4",
+    "average_rate": 25.0,
+    "duration": 101.08,
+    "nb_frames": 0,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/Da5J1XqH1vE.tar",
+    "frame_archive_length": 2528
+  },
+  "Da7I9vnYlgI": {
+    "video": "/mlsun/ms/fivr5k/videos/Da7I9vnYlgI.mp4",
+    "average_rate": 25.0,
+    "duration": 25.170430839002268,
+    "nb_frames": 626,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/Da7I9vnYlgI.tar",
+    "frame_archive_length": 627
+  },
+  "DaOzZEppkXM": {
+    "video": "/mlsun/ms/fivr5k/videos/DaOzZEppkXM.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 54.84553287981859,
+    "nb_frames": 1634,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/DaOzZEppkXM.tar",
+    "frame_archive_length": 1635
+  },
+  "DbSmLOojqHE": {
+    "video": "/mlsun/ms/fivr5k/videos/DbSmLOojqHE.mp4",
+    "average_rate": 25.0,
+    "duration": 172.01342403628118,
+    "nb_frames": 4299,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/DbSmLOojqHE.tar",
+    "frame_archive_length": 4300
+  },
+  "DbhiZ3KUxGE": {
+    "video": "/mlsun/ms/fivr5k/videos/DbhiZ3KUxGE.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 49.342403628117914,
+    "nb_frames": 1477,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/DbhiZ3KUxGE.tar",
+    "frame_archive_length": 1478
+  },
+  "DcdiRY8bb1o": {
+    "video": "/mlsun/ms/fivr5k/videos/DcdiRY8bb1o.mp4",
+    "average_rate": 29.88502076014053,
+    "duration": 104.51301587301587,
+    "nb_frames": 3119,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/DcdiRY8bb1o.tar",
+    "frame_archive_length": 3120
+  },
+  "Dd9X89exSVA": {
+    "video": "/mlsun/ms/fivr5k/videos/Dd9X89exSVA.mp4",
+    "average_rate": 30.0,
+    "duration": 44.00181405895692,
+    "nb_frames": 1317,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/Dd9X89exSVA.tar",
+    "frame_archive_length": 1318
+  },
+  "DdI5ALom-oc": {
+    "video": "/mlsun/ms/fivr5k/videos/DdI5ALom-oc.mp4",
+    "average_rate": 25.0,
+    "duration": 94.96961451247165,
+    "nb_frames": 2373,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/DdI5ALom-oc.tar",
+    "frame_archive_length": 2374
+  },
+  "DdZUt3QWuJ0": {
+    "video": "/mlsun/ms/fivr5k/videos/DdZUt3QWuJ0.mp4",
+    "average_rate": 30.0,
+    "duration": 169.5521088435374,
+    "nb_frames": 5085,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/DdZUt3QWuJ0.tar",
+    "frame_archive_length": 5086
+  },
+  "Ddd8y6kGogQ": {
+    "video": "/mlsun/ms/fivr5k/videos/Ddd8y6kGogQ.mp4",
+    "average_rate": 25.0,
+    "duration": 89.18784580498867,
+    "nb_frames": 2228,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/Ddd8y6kGogQ.tar",
+    "frame_archive_length": 2229
+  },
+  "DfPTpp_VXvo": {
+    "video": "/mlsun/ms/fivr5k/videos/DfPTpp_VXvo.mp4",
+    "average_rate": 25.0,
+    "duration": 51.06068027210885,
+    "nb_frames": 1275,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/DfPTpp_VXvo.tar",
+    "frame_archive_length": 1276
+  },
+  "Dg1ZZz2dF4o": {
+    "video": "/mlsun/ms/fivr5k/videos/Dg1ZZz2dF4o.mp4",
+    "average_rate": 29.909049331608227,
+    "duration": 141.9435827664399,
+    "nb_frames": 4244,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/Dg1ZZz2dF4o.tar",
+    "frame_archive_length": 4245
+  },
+  "DgnvapBP1G8": {
+    "video": "/mlsun/ms/fivr5k/videos/DgnvapBP1G8.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 22.31437641723356,
+    "nb_frames": 667,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/DgnvapBP1G8.tar",
+    "frame_archive_length": 668
+  },
+  "DhSIPfdzC8c": {
+    "video": "/mlsun/ms/fivr5k/videos/DhSIPfdzC8c.mp4",
+    "average_rate": 25.0,
+    "duration": 30.1859410430839,
+    "nb_frames": 753,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/DhSIPfdzC8c.tar",
+    "frame_archive_length": 754
+  },
+  "DhTZtgPprsU": {
+    "video": "/mlsun/ms/fivr5k/videos/DhTZtgPprsU.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 174.05678004535147,
+    "nb_frames": 5215,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/DhTZtgPprsU.tar",
+    "frame_archive_length": 5216
+  },
+  "Dij3ObRdb7k": {
+    "video": "/mlsun/ms/fivr5k/videos/Dij3ObRdb7k.mp4",
+    "average_rate": 30.0,
+    "duration": 292.4088888888889,
+    "nb_frames": 8767,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/Dij3ObRdb7k.tar",
+    "frame_archive_length": 8768
+  },
+  "DjR5dlyT0Tk": {
+    "video": "/mlsun/ms/fivr5k/videos/DjR5dlyT0Tk.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 107.99600907029479,
+    "nb_frames": 3235,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/DjR5dlyT0Tk.tar",
+    "frame_archive_length": 3236
+  },
+  "DjZNEgU8gjY": {
+    "video": "/mlsun/ms/fivr5k/videos/DjZNEgU8gjY.mp4",
+    "average_rate": 29.970075578877758,
+    "duration": 241.02312925170068,
+    "nb_frames": 7221,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/DjZNEgU8gjY.tar",
+    "frame_archive_length": 7222
+  },
+  "DljOkzw1-zk": {
+    "video": "/mlsun/ms/fivr5k/videos/DljOkzw1-zk.mp4",
+    "average_rate": 29.87510407993339,
+    "duration": 80.1320634920635,
+    "nb_frames": 2392,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/DljOkzw1-zk.tar",
+    "frame_archive_length": 2393
+  },
+  "DmVP5TQFy6Q": {
+    "video": "/mlsun/ms/fivr5k/videos/DmVP5TQFy6Q.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 29.58222222222222,
+    "nb_frames": 885,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/DmVP5TQFy6Q.tar",
+    "frame_archive_length": 886
+  },
+  "Dqjnt2nng1M": {
+    "video": "/mlsun/ms/fivr5k/videos/Dqjnt2nng1M.mp4",
+    "average_rate": 25.0,
+    "duration": 76.138231292517,
+    "nb_frames": 1900,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/Dqjnt2nng1M.tar",
+    "frame_archive_length": 1901
+  },
+  "Dr5he1f67Qs": {
+    "video": "/mlsun/ms/fivr5k/videos/Dr5he1f67Qs.mp4",
+    "average_rate": 29.970172386062902,
+    "duration": 91.32408163265306,
+    "nb_frames": 2733,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/Dr5he1f67Qs.tar",
+    "frame_archive_length": 2734
+  },
+  "Drz05C54oZM": {
+    "video": "/mlsun/ms/fivr5k/videos/Drz05C54oZM.mp4",
+    "average_rate": 30.0,
+    "duration": 256.2786394557823,
+    "nb_frames": 7679,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/Drz05C54oZM.tar",
+    "frame_archive_length": 7680
+  },
+  "DwHq73QaFaU": {
+    "video": "/mlsun/ms/fivr5k/videos/DwHq73QaFaU.mp4",
+    "average_rate": 25.0,
+    "duration": 67.52,
+    "nb_frames": 0,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/DwHq73QaFaU.tar",
+    "frame_archive_length": 1689
+  },
+  "DwPMEZo3Ifg": {
+    "video": "/mlsun/ms/fivr5k/videos/DwPMEZo3Ifg.mp4",
+    "average_rate": 30.0,
+    "duration": 8.893242630385487,
+    "nb_frames": 265,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/DwPMEZo3Ifg.tar",
+    "frame_archive_length": 266
+  },
+  "DxEtsLFrnUg": {
+    "video": "/mlsun/ms/fivr5k/videos/DxEtsLFrnUg.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 81.50204081632653,
+    "nb_frames": 2441,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/DxEtsLFrnUg.tar",
+    "frame_archive_length": 2442
+  },
+  "DxZbbcxLdLY": {
+    "video": "/mlsun/ms/fivr5k/videos/DxZbbcxLdLY.mp4",
+    "average_rate": 25.0,
+    "duration": 17.066666666666666,
+    "nb_frames": 425,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/DxZbbcxLdLY.tar",
+    "frame_archive_length": 426
+  },
+  "Dzfl4nzNe2o": {
+    "video": "/mlsun/ms/fivr5k/videos/Dzfl4nzNe2o.mp4",
+    "average_rate": 24.86998514115899,
+    "duration": 107.78702947845805,
+    "nb_frames": 2678,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/Dzfl4nzNe2o.tar",
+    "frame_archive_length": 2679
+  },
+  "E-W0TG4FIn4": {
+    "video": "/mlsun/ms/fivr5k/videos/E-W0TG4FIn4.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 125.08589569160998,
+    "nb_frames": 3747,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/E-W0TG4FIn4.tar",
+    "frame_archive_length": 3748
+  },
+  "E-prdKV_MUM": {
+    "video": "/mlsun/ms/fivr5k/videos/E-prdKV_MUM.mp4",
+    "average_rate": 30.0,
+    "duration": 75.65061224489796,
+    "nb_frames": 2262,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/E-prdKV_MUM.tar",
+    "frame_archive_length": 2263
+  },
+  "E09NTdJWJ_k": {
+    "video": "/mlsun/ms/fivr5k/videos/E09NTdJWJ_k.mp4",
+    "average_rate": 24.91047448522829,
+    "duration": 44.74485260770975,
+    "nb_frames": 1113,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/E09NTdJWJ_k.tar",
+    "frame_archive_length": 1114
+  },
+  "E1mHM3kPu3w": {
+    "video": "/mlsun/ms/fivr5k/videos/E1mHM3kPu3w.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 150.6742857142857,
+    "nb_frames": 4512,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/E1mHM3kPu3w.tar",
+    "frame_archive_length": 4513
+  },
+  "E261Oey5BX4": {
+    "video": "/mlsun/ms/fivr5k/videos/E261Oey5BX4.mp4",
+    "average_rate": 30.0,
+    "duration": 133.63083900226758,
+    "nb_frames": 4007,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/E261Oey5BX4.tar",
+    "frame_archive_length": 4008
+  },
+  "E38BhRnA1wk": {
+    "video": "/mlsun/ms/fivr5k/videos/E38BhRnA1wk.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 77.2063492063492,
+    "nb_frames": 2312,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/E38BhRnA1wk.tar",
+    "frame_archive_length": 2313
+  },
+  "E48uZPoDeI0": {
+    "video": "/mlsun/ms/fivr5k/videos/E48uZPoDeI0.mp4",
+    "average_rate": 30.0,
+    "duration": 146.7268934240363,
+    "nb_frames": 4398,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/E48uZPoDeI0.tar",
+    "frame_archive_length": 4399
+  },
+  "E4CkLLtHZ1s": {
+    "video": "/mlsun/ms/fivr5k/videos/E4CkLLtHZ1s.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 112.94185941043084,
+    "nb_frames": 3383,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/E4CkLLtHZ1s.tar",
+    "frame_archive_length": 3384
+  },
+  "E5JDTNKWTqs": {
+    "video": "/mlsun/ms/fivr5k/videos/E5JDTNKWTqs.mp4",
+    "average_rate": 30.0,
+    "duration": 80.08562358276644,
+    "nb_frames": 2399,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/E5JDTNKWTqs.tar",
+    "frame_archive_length": 2400
+  },
+  "E6-CXMDpZew": {
+    "video": "/mlsun/ms/fivr5k/videos/E6-CXMDpZew.mp4",
+    "average_rate": 30.0,
+    "duration": 70.98340136054422,
+    "nb_frames": 2126,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/E6-CXMDpZew.tar",
+    "frame_archive_length": 2127
+  },
+  "E6FHu9Lz6CQ": {
+    "video": "/mlsun/ms/fivr5k/videos/E6FHu9Lz6CQ.mp4",
+    "average_rate": 29.944,
+    "duration": 143.8940589569161,
+    "nb_frames": 4307,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/E6FHu9Lz6CQ.tar",
+    "frame_archive_length": 4308
+  },
+  "E6iiZJ_2ZT4": {
+    "video": "/mlsun/ms/fivr5k/videos/E6iiZJ_2ZT4.mp4",
+    "average_rate": 25.0,
+    "duration": 60.41832199546485,
+    "nb_frames": 1509,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/E6iiZJ_2ZT4.tar",
+    "frame_archive_length": 1510
+  },
+  "E7S4DcfKA-k": {
+    "video": "/mlsun/ms/fivr5k/videos/E7S4DcfKA-k.mp4",
+    "average_rate": 29.9702547953908,
+    "duration": 155.59691609977324,
+    "nb_frames": 4661,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/E7S4DcfKA-k.tar",
+    "frame_archive_length": 4662
+  },
+  "E8aCQVbC0VE": {
+    "video": "/mlsun/ms/fivr5k/videos/E8aCQVbC0VE.mp4",
+    "average_rate": 29.912790697674417,
+    "duration": 45.952290249433105,
+    "nb_frames": 1372,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/E8aCQVbC0VE.tar",
+    "frame_archive_length": 1373
+  },
+  "EAWmJzqiqxg": {
+    "video": "/mlsun/ms/fivr5k/videos/EAWmJzqiqxg.mp4",
+    "average_rate": 30.0,
+    "duration": 298.23709750566894,
+    "nb_frames": 8945,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/EAWmJzqiqxg.tar",
+    "frame_archive_length": 8946
+  },
+  "EAcjNUycEgs": {
+    "video": "/mlsun/ms/fivr5k/videos/EAcjNUycEgs.mp4",
+    "average_rate": 29.88400193330111,
+    "duration": 69.03292517006803,
+    "nb_frames": 2061,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/EAcjNUycEgs.tar",
+    "frame_archive_length": 2062
+  },
+  "EC2pcUnYbC4": {
+    "video": "/mlsun/ms/fivr5k/videos/EC2pcUnYbC4.mp4",
+    "average_rate": 25.0,
+    "duration": 66.94312925170068,
+    "nb_frames": 1672,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/EC2pcUnYbC4.tar",
+    "frame_archive_length": 1673
+  },
+  "EDkJ0iSkkr8": {
+    "video": "/mlsun/ms/fivr5k/videos/EDkJ0iSkkr8.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 24.19519274376417,
+    "nb_frames": 708,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/EDkJ0iSkkr8.tar",
+    "frame_archive_length": 709
+  },
+  "EDpVgwCO0dA": {
+    "video": "/mlsun/ms/fivr5k/videos/EDpVgwCO0dA.mp4",
+    "average_rate": 29.921,
+    "duration": 188.52281179138322,
+    "nb_frames": 5636,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/EDpVgwCO0dA.tar",
+    "frame_archive_length": 5637
+  },
+  "EDwBLt90wCk": {
+    "video": "/mlsun/ms/fivr5k/videos/EDwBLt90wCk.mp4",
+    "average_rate": 25.0,
+    "duration": 136.1385941043084,
+    "nb_frames": 3402,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/EDwBLt90wCk.tar",
+    "frame_archive_length": 3403
+  },
+  "EE8lsZJRUpQ": {
+    "video": "/mlsun/ms/fivr5k/videos/EE8lsZJRUpQ.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 133.09678004535147,
+    "nb_frames": 3987,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/EE8lsZJRUpQ.tar",
+    "frame_archive_length": 3988
+  },
+  "EERwXnczr8M": {
+    "video": "/mlsun/ms/fivr5k/videos/EERwXnczr8M.mp4",
+    "average_rate": 30.0,
+    "duration": 151.25478458049886,
+    "nb_frames": 4536,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/EERwXnczr8M.tar",
+    "frame_archive_length": 4537
+  },
+  "EFDytyhI2mM": {
+    "video": "/mlsun/ms/fivr5k/videos/EFDytyhI2mM.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 77.34566893424036,
+    "nb_frames": 2316,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/EFDytyhI2mM.tar",
+    "frame_archive_length": 2317
+  },
+  "EFIGFifao_k": {
+    "video": "/mlsun/ms/fivr5k/videos/EFIGFifao_k.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 256.3250793650794,
+    "nb_frames": 7680,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/EFIGFifao_k.tar",
+    "frame_archive_length": 7681
+  },
+  "EFmuL2fiDBY": {
+    "video": "/mlsun/ms/fivr5k/videos/EFmuL2fiDBY.mp4",
+    "average_rate": 25.0,
+    "duration": 154.80743764172337,
+    "nb_frames": 3869,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/EFmuL2fiDBY.tar",
+    "frame_archive_length": 3870
+  },
+  "EFvnrNCWFGc": {
+    "video": "/mlsun/ms/fivr5k/videos/EFvnrNCWFGc.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 74.18775510204081,
+    "nb_frames": 2222,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/EFvnrNCWFGc.tar",
+    "frame_archive_length": 2223
+  },
+  "EGSoG5YN8o0": {
+    "video": "/mlsun/ms/fivr5k/videos/EGSoG5YN8o0.mp4",
+    "average_rate": 25.0,
+    "duration": 46.18448979591837,
+    "nb_frames": 1153,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/EGSoG5YN8o0.tar",
+    "frame_archive_length": 1154
+  },
+  "EHQt7JiqHu8": {
+    "video": "/mlsun/ms/fivr5k/videos/EHQt7JiqHu8.mp4",
+    "average_rate": 30.0,
+    "duration": 212.9966439909297,
+    "nb_frames": 6385,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/EHQt7JiqHu8.tar",
+    "frame_archive_length": 6386
+  },
+  "EIADEiypz6o": {
+    "video": "/mlsun/ms/fivr5k/videos/EIADEiypz6o.mp4",
+    "average_rate": 25.0,
+    "duration": 57.88,
+    "nb_frames": 0,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/EIADEiypz6o.tar",
+    "frame_archive_length": 1448
+  },
+  "EIG2hgXAzRI": {
+    "video": "/mlsun/ms/fivr5k/videos/EIG2hgXAzRI.mp4",
+    "average_rate": 29.87948782324881,
+    "duration": 132.84136054421768,
+    "nb_frames": 3967,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/EIG2hgXAzRI.tar",
+    "frame_archive_length": 3968
+  },
+  "EJGHT18isiE": {
+    "video": "/mlsun/ms/fivr5k/videos/EJGHT18isiE.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 241.41786848072562,
+    "nb_frames": 7232,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/EJGHT18isiE.tar",
+    "frame_archive_length": 7233
+  },
+  "EJiV0NmkHnw": {
+    "video": "/mlsun/ms/fivr5k/videos/EJiV0NmkHnw.mp4",
+    "average_rate": 25.0,
+    "duration": 227.02149659863946,
+    "nb_frames": 5674,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/EJiV0NmkHnw.tar",
+    "frame_archive_length": 5675
+  },
+  "EKD2v8eUw_A": {
+    "video": "/mlsun/ms/fivr5k/videos/EKD2v8eUw_A.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 211.67310657596371,
+    "nb_frames": 6341,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/EKD2v8eUw_A.tar",
+    "frame_archive_length": 6342
+  },
+  "EKUmY0V0Exw": {
+    "video": "/mlsun/ms/fivr5k/videos/EKUmY0V0Exw.mp4",
+    "average_rate": 25.0,
+    "duration": 59.44308390022676,
+    "nb_frames": 1483,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/EKUmY0V0Exw.tar",
+    "frame_archive_length": 1484
+  },
+  "EMHG807LABI": {
+    "video": "/mlsun/ms/fivr5k/videos/EMHG807LABI.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 50.24798185941043,
+    "nb_frames": 1504,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/EMHG807LABI.tar",
+    "frame_archive_length": 1505
+  },
+  "EMVD9zlY1no": {
+    "video": "/mlsun/ms/fivr5k/videos/EMVD9zlY1no.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 24.38095238095238,
+    "nb_frames": 729,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/EMVD9zlY1no.tar",
+    "frame_archive_length": 730
+  },
+  "ENMj3sUqWfg": {
+    "video": "/mlsun/ms/fivr5k/videos/ENMj3sUqWfg.mp4",
+    "average_rate": 25.0,
+    "duration": 60.51120181405896,
+    "nb_frames": 1511,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/ENMj3sUqWfg.tar",
+    "frame_archive_length": 1512
+  },
+  "ENytGFx7VuU": {
+    "video": "/mlsun/ms/fivr5k/videos/ENytGFx7VuU.mp4",
+    "average_rate": 25.0,
+    "duration": 20.317460317460316,
+    "nb_frames": 505,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/ENytGFx7VuU.tar",
+    "frame_archive_length": 506
+  },
+  "EO_y5BbLvDw": {
+    "video": "/mlsun/ms/fivr5k/videos/EO_y5BbLvDw.mp4",
+    "average_rate": 10.0,
+    "duration": 111.10748299319728,
+    "nb_frames": 1110,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/EO_y5BbLvDw.tar",
+    "frame_archive_length": 1111
+  },
+  "EPAXf8uMHx4": {
+    "video": "/mlsun/ms/fivr5k/videos/EPAXf8uMHx4.mp4",
+    "average_rate": 25.0,
+    "duration": 74.07165532879819,
+    "nb_frames": 1850,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/EPAXf8uMHx4.tar",
+    "frame_archive_length": 1851
+  },
+  "EPcWUrwsSLY": {
+    "video": "/mlsun/ms/fivr5k/videos/EPcWUrwsSLY.mp4",
+    "average_rate": 10.0,
+    "duration": 71.28526077097506,
+    "nb_frames": 712,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/EPcWUrwsSLY.tar",
+    "frame_archive_length": 713
+  },
+  "EPcZJtrgi1s": {
+    "video": "/mlsun/ms/fivr5k/videos/EPcZJtrgi1s.mp4",
+    "average_rate": 23.976023976023978,
+    "duration": 133.74693877551022,
+    "nb_frames": 3204,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/EPcZJtrgi1s.tar",
+    "frame_archive_length": 3205
+  },
+  "EQ0XqiO0LhM": {
+    "video": "/mlsun/ms/fivr5k/videos/EQ0XqiO0LhM.mp4",
+    "average_rate": 25.0,
+    "duration": 51.2,
+    "nb_frames": 1275,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/EQ0XqiO0LhM.tar",
+    "frame_archive_length": 1276
+  },
+  "ESSD7ueXtMY": {
+    "video": "/mlsun/ms/fivr5k/videos/ESSD7ueXtMY.mp4",
+    "average_rate": 10.0,
+    "duration": 271.0,
+    "nb_frames": 0,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/ESSD7ueXtMY.tar",
+    "frame_archive_length": 2711
+  },
+  "EVSkpdW7nDk": {
+    "video": "/mlsun/ms/fivr5k/videos/EVSkpdW7nDk.mp4",
+    "average_rate": 30.0,
+    "duration": 28.955283446712016,
+    "nb_frames": 867,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/EVSkpdW7nDk.tar",
+    "frame_archive_length": 868
+  },
+  "EW3QYek1H3A": {
+    "video": "/mlsun/ms/fivr5k/videos/EW3QYek1H3A.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 36.91972789115646,
+    "nb_frames": 1104,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/EW3QYek1H3A.tar",
+    "frame_archive_length": 1105
+  },
+  "EWboB1jrfuA": {
+    "video": "/mlsun/ms/fivr5k/videos/EWboB1jrfuA.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 193.95628117913833,
+    "nb_frames": 5811,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/EWboB1jrfuA.tar",
+    "frame_archive_length": 5812
+  },
+  "EX7ydAuMmu4": {
+    "video": "/mlsun/ms/fivr5k/videos/EX7ydAuMmu4.mp4",
+    "average_rate": 24.872832369942195,
+    "duration": 173.05832199546487,
+    "nb_frames": 4303,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/EX7ydAuMmu4.tar",
+    "frame_archive_length": 4304
+  },
+  "EXXqrUL6CQ0": {
+    "video": "/mlsun/ms/fivr5k/videos/EXXqrUL6CQ0.mp4",
+    "average_rate": 25.0,
+    "duration": 30.975419501133786,
+    "nb_frames": 773,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/EXXqrUL6CQ0.tar",
+    "frame_archive_length": 774
+  },
+  "EXty6mN551k": {
+    "video": "/mlsun/ms/fivr5k/videos/EXty6mN551k.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 137.67111111111112,
+    "nb_frames": 4122,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/EXty6mN551k.tar",
+    "frame_archive_length": 4123
+  },
+  "EYG7GR13DnU": {
+    "video": "/mlsun/ms/fivr5k/videos/EYG7GR13DnU.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 135.7902947845805,
+    "nb_frames": 4066,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/EYG7GR13DnU.tar",
+    "frame_archive_length": 4067
+  },
+  "EYi1YUNOguk": {
+    "video": "/mlsun/ms/fivr5k/videos/EYi1YUNOguk.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 202.84952380952382,
+    "nb_frames": 6078,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/EYi1YUNOguk.tar",
+    "frame_archive_length": 6079
+  },
+  "Ea6nh_u9JFM": {
+    "video": "/mlsun/ms/fivr5k/videos/Ea6nh_u9JFM.mp4",
+    "average_rate": 24.024,
+    "duration": 16.718367346938777,
+    "nb_frames": 400,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/Ea6nh_u9JFM.tar",
+    "frame_archive_length": 401
+  },
+  "EaaTODFfcPQ": {
+    "video": "/mlsun/ms/fivr5k/videos/EaaTODFfcPQ.mp4",
+    "average_rate": 25.0,
+    "duration": 125.82893424036281,
+    "nb_frames": 3144,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/EaaTODFfcPQ.tar",
+    "frame_archive_length": 3145
+  },
+  "Ealez50IyvE": {
+    "video": "/mlsun/ms/fivr5k/videos/Ealez50IyvE.mp4",
+    "average_rate": 25.0,
+    "duration": 190.14820861678004,
+    "nb_frames": 4752,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/Ealez50IyvE.tar",
+    "frame_archive_length": 4753
+  },
+  "EbGDrte9ySs": {
+    "video": "/mlsun/ms/fivr5k/videos/EbGDrte9ySs.mp4",
+    "average_rate": 25.0,
+    "duration": 77.97260770975056,
+    "nb_frames": 1948,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/EbGDrte9ySs.tar",
+    "frame_archive_length": 1949
+  },
+  "EcOoiV2zFK4": {
+    "video": "/mlsun/ms/fivr5k/videos/EcOoiV2zFK4.mp4",
+    "average_rate": 30.0,
+    "duration": 99.49750566893424,
+    "nb_frames": 2968,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/EcOoiV2zFK4.tar",
+    "frame_archive_length": 2969
+  },
+  "EdWnDhM2nYc": {
+    "video": "/mlsun/ms/fivr5k/videos/EdWnDhM2nYc.mp4",
+    "average_rate": 25.0,
+    "duration": 98.17396825396825,
+    "nb_frames": 2452,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/EdWnDhM2nYc.tar",
+    "frame_archive_length": 2453
+  },
+  "Edshw9k-Jwo": {
+    "video": "/mlsun/ms/fivr5k/videos/Edshw9k-Jwo.mp4",
+    "average_rate": 24.879421221864952,
+    "duration": 49.85324263038549,
+    "nb_frames": 1238,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/Edshw9k-Jwo.tar",
+    "frame_archive_length": 1239
+  },
+  "EdwCwPgBiqc": {
+    "video": "/mlsun/ms/fivr5k/videos/EdwCwPgBiqc.mp4",
+    "average_rate": 25.0,
+    "duration": 122.90321995464852,
+    "nb_frames": 3071,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/EdwCwPgBiqc.tar",
+    "frame_archive_length": 3072
+  },
+  "EeoDZLUcOk4": {
+    "video": "/mlsun/ms/fivr5k/videos/EeoDZLUcOk4.mp4",
+    "average_rate": 25.0,
+    "duration": 29.30358276643991,
+    "nb_frames": 729,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/EeoDZLUcOk4.tar",
+    "frame_archive_length": 730
+  },
+  "EfA4LtCNtFE": {
+    "video": "/mlsun/ms/fivr5k/videos/EfA4LtCNtFE.mp4",
+    "average_rate": 29.446048066661678,
+    "duration": 67.71706666666667,
+    "nb_frames": 0,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/EfA4LtCNtFE.tar",
+    "frame_archive_length": 1994
+  },
+  "Eg3_WniYc1w": {
+    "video": "/mlsun/ms/fivr5k/videos/Eg3_WniYc1w.mp4",
+    "average_rate": 29.933085501858734,
+    "duration": 22.430476190476192,
+    "nb_frames": 670,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/Eg3_WniYc1w.tar",
+    "frame_archive_length": 671
+  },
+  "Ega6YbSocLA": {
+    "video": "/mlsun/ms/fivr5k/videos/Ega6YbSocLA.mp4",
+    "average_rate": 25.0,
+    "duration": 99.21886621315193,
+    "nb_frames": 2479,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/Ega6YbSocLA.tar",
+    "frame_archive_length": 2480
+  },
+  "EhjQ9Afh0sc": {
+    "video": "/mlsun/ms/fivr5k/videos/EhjQ9Afh0sc.mp4",
+    "average_rate": 25.0,
+    "duration": 60.09324263038549,
+    "nb_frames": 1501,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/EhjQ9Afh0sc.tar",
+    "frame_archive_length": 1502
+  },
+  "EiOEXi_5rSY": {
+    "video": "/mlsun/ms/fivr5k/videos/EiOEXi_5rSY.mp4",
+    "average_rate": 25.0,
+    "duration": 254.09596371882085,
+    "nb_frames": 6351,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/EiOEXi_5rSY.tar",
+    "frame_archive_length": 6352
+  },
+  "EiVK8D-U_Ro": {
+    "video": "/mlsun/ms/fivr5k/videos/EiVK8D-U_Ro.mp4",
+    "average_rate": 25.0,
+    "duration": 28.212244897959184,
+    "nb_frames": 704,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/EiVK8D-U_Ro.tar",
+    "frame_archive_length": 705
+  },
+  "Ej4A_HrVgCA": {
+    "video": "/mlsun/ms/fivr5k/videos/Ej4A_HrVgCA.mp4",
+    "average_rate": 25.0,
+    "duration": 182.52,
+    "nb_frames": 4563,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/Ej4A_HrVgCA.tar",
+    "frame_archive_length": 4564
+  },
+  "EjH6MLsh2Ig": {
+    "video": "/mlsun/ms/fivr5k/videos/EjH6MLsh2Ig.mp4",
+    "average_rate": 29.97031044188076,
+    "duration": 57.05142857142857,
+    "nb_frames": 1708,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/EjH6MLsh2Ig.tar",
+    "frame_archive_length": 1709
+  },
+  "EmGrU5mOEMU": {
+    "video": "/mlsun/ms/fivr5k/videos/EmGrU5mOEMU.mp4",
+    "average_rate": 25.0,
+    "duration": 21.687437641723356,
+    "nb_frames": 541,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/EmGrU5mOEMU.tar",
+    "frame_archive_length": 542
+  },
+  "EmRhdFlujUE": {
+    "video": "/mlsun/ms/fivr5k/videos/EmRhdFlujUE.mp4",
+    "average_rate": 30.0,
+    "duration": 118.06666666666666,
+    "nb_frames": 0,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/EmRhdFlujUE.tar",
+    "frame_archive_length": 3543
+  },
+  "EoD3rEj_6DM": {
+    "video": "/mlsun/ms/fivr5k/videos/EoD3rEj_6DM.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 240.0398,
+    "nb_frames": 0,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/EoD3rEj_6DM.tar",
+    "frame_archive_length": 7195
+  },
+  "EodZwLSwdTQ": {
+    "video": "/mlsun/ms/fivr5k/videos/EodZwLSwdTQ.mp4",
+    "average_rate": 24.870801033591732,
+    "duration": 61.9740589569161,
+    "nb_frames": 1540,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/EodZwLSwdTQ.tar",
+    "frame_archive_length": 1541
+  },
+  "Ep9V9MbviKA": {
+    "video": "/mlsun/ms/fivr5k/videos/Ep9V9MbviKA.mp4",
+    "average_rate": 30.0,
+    "duration": 144.80033333333333,
+    "nb_frames": 0,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/Ep9V9MbviKA.tar",
+    "frame_archive_length": 4345
+  },
+  "EqVpMOoi-0k": {
+    "video": "/mlsun/ms/fivr5k/videos/EqVpMOoi-0k.mp4",
+    "average_rate": 25.0,
+    "duration": 202.16,
+    "nb_frames": 0,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/EqVpMOoi-0k.tar",
+    "frame_archive_length": 5055
+  },
+  "Es_pTJhIlpk": {
+    "video": "/mlsun/ms/fivr5k/videos/Es_pTJhIlpk.mp4",
+    "average_rate": 30.0,
+    "duration": 64.99265306122449,
+    "nb_frames": 1948,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/Es_pTJhIlpk.tar",
+    "frame_archive_length": 1949
+  },
+  "Esekm_WBLCc": {
+    "video": "/mlsun/ms/fivr5k/videos/Esekm_WBLCc.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 51.38575963718821,
+    "nb_frames": 1538,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/Esekm_WBLCc.tar",
+    "frame_archive_length": 1539
+  },
+  "Euu7o0HQxRE": {
+    "video": "/mlsun/ms/fivr5k/videos/Euu7o0HQxRE.mp4",
+    "average_rate": 25.0,
+    "duration": 127.94195011337868,
+    "nb_frames": 3197,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/Euu7o0HQxRE.tar",
+    "frame_archive_length": 3198
+  },
+  "EvSO75tBQUI": {
+    "video": "/mlsun/ms/fivr5k/videos/EvSO75tBQUI.mp4",
+    "average_rate": 30.0,
+    "duration": 20.01560090702948,
+    "nb_frames": 599,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/EvSO75tBQUI.tar",
+    "frame_archive_length": 600
+  },
+  "EvxYv7zGjMA": {
+    "video": "/mlsun/ms/fivr5k/videos/EvxYv7zGjMA.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 54.07927437641723,
+    "nb_frames": 1618,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/EvxYv7zGjMA.tar",
+    "frame_archive_length": 1619
+  },
+  "Ew25jxmghNE": {
+    "video": "/mlsun/ms/fivr5k/videos/Ew25jxmghNE.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 120.25614512471655,
+    "nb_frames": 3602,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/Ew25jxmghNE.tar",
+    "frame_archive_length": 3603
+  },
+  "EwKsaR6A28Q": {
+    "video": "/mlsun/ms/fivr5k/videos/EwKsaR6A28Q.mp4",
+    "average_rate": 25.0,
+    "duration": 73.42149659863945,
+    "nb_frames": 1834,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/EwKsaR6A28Q.tar",
+    "frame_archive_length": 1835
+  },
+  "Ex8rj1V3gm4": {
+    "video": "/mlsun/ms/fivr5k/videos/Ex8rj1V3gm4.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 32.25251700680272,
+    "nb_frames": 963,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/Ex8rj1V3gm4.tar",
+    "frame_archive_length": 964
+  },
+  "EyViu3hfI5U": {
+    "video": "/mlsun/ms/fivr5k/videos/EyViu3hfI5U.mp4",
+    "average_rate": 29.969876693903228,
+    "duration": 39.172063492063494,
+    "nb_frames": 1172,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/EyViu3hfI5U.tar",
+    "frame_archive_length": 1173
+  },
+  "EyWFjdZvVxk": {
+    "video": "/mlsun/ms/fivr5k/videos/EyWFjdZvVxk.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 7.894784580498866,
+    "nb_frames": 234,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/EyWFjdZvVxk.tar",
+    "frame_archive_length": 235
+  },
+  "Ey_dXMWgTMs": {
+    "video": "/mlsun/ms/fivr5k/videos/Ey_dXMWgTMs.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 124.18031746031745,
+    "nb_frames": 3719,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/Ey_dXMWgTMs.tar",
+    "frame_archive_length": 3720
+  },
+  "F-2TVKyLvHA": {
+    "video": "/mlsun/ms/fivr5k/videos/F-2TVKyLvHA.mp4",
+    "average_rate": 25.0,
+    "duration": 108.62294784580499,
+    "nb_frames": 2714,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/F-2TVKyLvHA.tar",
+    "frame_archive_length": 2715
+  },
+  "F-bKtGKmLuE": {
+    "video": "/mlsun/ms/fivr5k/videos/F-bKtGKmLuE.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 254.2120634920635,
+    "nb_frames": 7617,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/F-bKtGKmLuE.tar",
+    "frame_archive_length": 7618
+  },
+  "F-x-baR7mUI": {
+    "video": "/mlsun/ms/fivr5k/videos/F-x-baR7mUI.mp4",
+    "average_rate": 30.0,
+    "duration": 42.96666666666667,
+    "nb_frames": 0,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/F-x-baR7mUI.tar",
+    "frame_archive_length": 1290
+  },
+  "F05SsgayFik": {
+    "video": "/mlsun/ms/fivr5k/videos/F05SsgayFik.mp4",
+    "average_rate": 30.0,
+    "duration": 138.2,
+    "nb_frames": 0,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/F05SsgayFik.tar",
+    "frame_archive_length": 4147
+  },
+  "F1-QnRbOBa0": {
+    "video": "/mlsun/ms/fivr5k/videos/F1-QnRbOBa0.mp4",
+    "average_rate": 30.0,
+    "duration": 24.264852607709752,
+    "nb_frames": 724,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/F1-QnRbOBa0.tar",
+    "frame_archive_length": 725
+  },
+  "F3nHoy26uPY": {
+    "video": "/mlsun/ms/fivr5k/videos/F3nHoy26uPY.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 156.38639455782314,
+    "nb_frames": 4683,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/F3nHoy26uPY.tar",
+    "frame_archive_length": 4684
+  },
+  "F40Pi_BFOQw": {
+    "video": "/mlsun/ms/fivr5k/videos/F40Pi_BFOQw.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 42.5621768707483,
+    "nb_frames": 1274,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/F40Pi_BFOQw.tar",
+    "frame_archive_length": 1275
+  },
+  "F4PGzXLwGBc": {
+    "video": "/mlsun/ms/fivr5k/videos/F4PGzXLwGBc.mp4",
+    "average_rate": 28.551,
+    "duration": 112.03628117913833,
+    "nb_frames": 3197,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/F4PGzXLwGBc.tar",
+    "frame_archive_length": 3198
+  },
+  "F4h5T3kw8P0": {
+    "video": "/mlsun/ms/fivr5k/videos/F4h5T3kw8P0.mp4",
+    "average_rate": 29.37,
+    "duration": 67.26820861678004,
+    "nb_frames": 1974,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/F4h5T3kw8P0.tar",
+    "frame_archive_length": 1975
+  },
+  "F4wtQP8vEtc": {
+    "video": "/mlsun/ms/fivr5k/videos/F4wtQP8vEtc.mp4",
+    "average_rate": 25.0,
+    "duration": 126.78095238095239,
+    "nb_frames": 3168,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/F4wtQP8vEtc.tar",
+    "frame_archive_length": 3169
+  },
+  "F6OMI8CpkhY": {
+    "video": "/mlsun/ms/fivr5k/videos/F6OMI8CpkhY.mp4",
+    "average_rate": 30.0,
+    "duration": 228.23333333333332,
+    "nb_frames": 0,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/F6OMI8CpkhY.tar",
+    "frame_archive_length": 6848
+  },
+  "F6ZGMYacu8I": {
+    "video": "/mlsun/ms/fivr5k/videos/F6ZGMYacu8I.mp4",
+    "average_rate": 25.0,
+    "duration": 37.32,
+    "nb_frames": 0,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/F6ZGMYacu8I.tar",
+    "frame_archive_length": 934
+  },
+  "F9StL_9rwPs": {
+    "video": "/mlsun/ms/fivr5k/videos/F9StL_9rwPs.mp4",
+    "average_rate": 15.0,
+    "duration": 72.72489795918368,
+    "nb_frames": 1090,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/F9StL_9rwPs.tar",
+    "frame_archive_length": 1091
+  },
+  "FAXwJT-jF94": {
+    "video": "/mlsun/ms/fivr5k/videos/FAXwJT-jF94.mp4",
+    "average_rate": 30.0,
+    "duration": 197.69469387755103,
+    "nb_frames": 5929,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/FAXwJT-jF94.tar",
+    "frame_archive_length": 5930
+  },
+  "FA_bkutwea4": {
+    "video": "/mlsun/ms/fivr5k/videos/FA_bkutwea4.mp4",
+    "average_rate": 30.0,
+    "duration": 39.334603174603174,
+    "nb_frames": 1178,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/FA_bkutwea4.tar",
+    "frame_archive_length": 1179
+  },
+  "FAx-zdBPGjI": {
+    "video": "/mlsun/ms/fivr5k/videos/FAx-zdBPGjI.mp4",
+    "average_rate": 25.0,
+    "duration": 53.893514739229026,
+    "nb_frames": 1346,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/FAx-zdBPGjI.tar",
+    "frame_archive_length": 1347
+  },
+  "FBAtulDStMY": {
+    "video": "/mlsun/ms/fivr5k/videos/FBAtulDStMY.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 104.07183673469387,
+    "nb_frames": 3115,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/FBAtulDStMY.tar",
+    "frame_archive_length": 3116
+  },
+  "FC1fnzjyJ0E": {
+    "video": "/mlsun/ms/fivr5k/videos/FC1fnzjyJ0E.mp4",
+    "average_rate": 25.0,
+    "duration": 141.6649433106576,
+    "nb_frames": 3540,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/FC1fnzjyJ0E.tar",
+    "frame_archive_length": 3541
+  },
+  "FCkOgWv56IU": {
+    "video": "/mlsun/ms/fivr5k/videos/FCkOgWv56IU.mp4",
+    "average_rate": 25.0,
+    "duration": 69.75274376417234,
+    "nb_frames": 1741,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/FCkOgWv56IU.tar",
+    "frame_archive_length": 1742
+  },
+  "FDEH9OwezwE": {
+    "video": "/mlsun/ms/fivr5k/videos/FDEH9OwezwE.mp4",
+    "average_rate": 29.87538940809969,
+    "duration": 32.15963718820862,
+    "nb_frames": 959,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/FDEH9OwezwE.tar",
+    "frame_archive_length": 960
+  },
+  "FDj29aekkp0": {
+    "video": "/mlsun/ms/fivr5k/videos/FDj29aekkp0.mp4",
+    "average_rate": 25.0,
+    "duration": 92.20643990929705,
+    "nb_frames": 2304,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/FDj29aekkp0.tar",
+    "frame_archive_length": 2305
+  },
+  "FEVKsxnfkn0": {
+    "video": "/mlsun/ms/fivr5k/videos/FEVKsxnfkn0.mp4",
+    "average_rate": 25.0,
+    "duration": 160.58920634920634,
+    "nb_frames": 4013,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/FEVKsxnfkn0.tar",
+    "frame_archive_length": 4014
+  },
+  "FElAneW1pWs": {
+    "video": "/mlsun/ms/fivr5k/videos/FElAneW1pWs.mp4",
+    "average_rate": 25.0,
+    "duration": 118.32888888888888,
+    "nb_frames": 2957,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/FElAneW1pWs.tar",
+    "frame_archive_length": 2958
+  },
+  "FEvXZqep49o": {
+    "video": "/mlsun/ms/fivr5k/videos/FEvXZqep49o.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 50.6659410430839,
+    "nb_frames": 1517,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/FEvXZqep49o.tar",
+    "frame_archive_length": 1518
+  },
+  "FFT_atIIekE": {
+    "video": "/mlsun/ms/fivr5k/videos/FFT_atIIekE.mp4",
+    "average_rate": 25.0,
+    "duration": 48.34394557823129,
+    "nb_frames": 1207,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/FFT_atIIekE.tar",
+    "frame_archive_length": 1208
+  },
+  "FFxt19ZqjsE": {
+    "video": "/mlsun/ms/fivr5k/videos/FFxt19ZqjsE.mp4",
+    "average_rate": 24.878514404720583,
+    "duration": 115.28707482993197,
+    "nb_frames": 2867,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/FFxt19ZqjsE.tar",
+    "frame_archive_length": 2868
+  },
+  "FFy-sUSz2zg": {
+    "video": "/mlsun/ms/fivr5k/videos/FFy-sUSz2zg.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 128.4760090702948,
+    "nb_frames": 3849,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/FFy-sUSz2zg.tar",
+    "frame_archive_length": 3850
+  },
+  "FK-6TiPnizE": {
+    "video": "/mlsun/ms/fivr5k/videos/FK-6TiPnizE.mp4",
+    "average_rate": 25.0,
+    "duration": 98.10430839002268,
+    "nb_frames": 2451,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/FK-6TiPnizE.tar",
+    "frame_archive_length": 2452
+  },
+  "FLCc1d-1NGU": {
+    "video": "/mlsun/ms/fivr5k/videos/FLCc1d-1NGU.mp4",
+    "average_rate": 29.970335648433952,
+    "duration": 62.15981859410431,
+    "nb_frames": 1861,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/FLCc1d-1NGU.tar",
+    "frame_archive_length": 1862
+  },
+  "FLcLIXZI-bI": {
+    "video": "/mlsun/ms/fivr5k/videos/FLcLIXZI-bI.mp4",
+    "average_rate": 29.970251836613034,
+    "duration": 171.17750566893423,
+    "nb_frames": 5128,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/FLcLIXZI-bI.tar",
+    "frame_archive_length": 5129
+  },
+  "FNV8KRpC_IA": {
+    "video": "/mlsun/ms/fivr5k/videos/FNV8KRpC_IA.mp4",
+    "average_rate": 25.0,
+    "duration": 114.33505668934241,
+    "nb_frames": 2857,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/FNV8KRpC_IA.tar",
+    "frame_archive_length": 2858
+  },
+  "FNqpsSULOuQ": {
+    "video": "/mlsun/ms/fivr5k/videos/FNqpsSULOuQ.mp4",
+    "average_rate": 29.969879830265693,
+    "duration": 193.02748299319728,
+    "nb_frames": 5783,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/FNqpsSULOuQ.tar",
+    "frame_archive_length": 5784
+  },
+  "FOAYzj2LYW0": {
+    "video": "/mlsun/ms/fivr5k/videos/FOAYzj2LYW0.mp4",
+    "average_rate": 25.0,
+    "duration": 92.25287981859411,
+    "nb_frames": 2305,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/FOAYzj2LYW0.tar",
+    "frame_archive_length": 2306
+  },
+  "FP6jTylSNBQ": {
+    "video": "/mlsun/ms/fivr5k/videos/FP6jTylSNBQ.mp4",
+    "average_rate": 30.0,
+    "duration": 20.06204081632653,
+    "nb_frames": 600,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/FP6jTylSNBQ.tar",
+    "frame_archive_length": 601
+  },
+  "FQbeVh3jqzY": {
+    "video": "/mlsun/ms/fivr5k/videos/FQbeVh3jqzY.mp4",
+    "average_rate": 30.0,
+    "duration": 218.84807256235828,
+    "nb_frames": 6564,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/FQbeVh3jqzY.tar",
+    "frame_archive_length": 6565
+  },
+  "FRA_ir_Z6Z0": {
+    "video": "/mlsun/ms/fivr5k/videos/FRA_ir_Z6Z0.mp4",
+    "average_rate": 30.0,
+    "duration": 177.02893424036282,
+    "nb_frames": 5309,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/FRA_ir_Z6Z0.tar",
+    "frame_archive_length": 5310
+  },
+  "FVy2LVRxHo0": {
+    "video": "/mlsun/ms/fivr5k/videos/FVy2LVRxHo0.mp4",
+    "average_rate": 25.0,
+    "duration": 94.62131519274377,
+    "nb_frames": 2364,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/FVy2LVRxHo0.tar",
+    "frame_archive_length": 2365
+  },
+  "FWnqK7V3zgk": {
+    "video": "/mlsun/ms/fivr5k/videos/FWnqK7V3zgk.mp4",
+    "average_rate": 25.0,
+    "duration": 258.92571428571426,
+    "nb_frames": 6471,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/FWnqK7V3zgk.tar",
+    "frame_archive_length": 6472
+  },
+  "FXlkyxya018": {
+    "video": "/mlsun/ms/fivr5k/videos/FXlkyxya018.mp4",
+    "average_rate": 30.0,
+    "duration": 73.25895691609978,
+    "nb_frames": 2196,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/FXlkyxya018.tar",
+    "frame_archive_length": 2197
+  },
+  "FY89EOZfr38": {
+    "video": "/mlsun/ms/fivr5k/videos/FY89EOZfr38.mp4",
+    "average_rate": 25.0,
+    "duration": 63.25115646258504,
+    "nb_frames": 1577,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/FY89EOZfr38.tar",
+    "frame_archive_length": 1578
+  },
+  "F_dumtVgLFE": {
+    "video": "/mlsun/ms/fivr5k/videos/F_dumtVgLFE.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 184.01814058956916,
+    "nb_frames": 5513,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/F_dumtVgLFE.tar",
+    "frame_archive_length": 5514
+  },
+  "FaBCzXuV_7Y": {
+    "video": "/mlsun/ms/fivr5k/videos/FaBCzXuV_7Y.mp4",
+    "average_rate": 24.876176324913324,
+    "duration": 161.58766439909297,
+    "nb_frames": 4018,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/FaBCzXuV_7Y.tar",
+    "frame_archive_length": 4019
+  },
+  "FagT-i99CXk": {
+    "video": "/mlsun/ms/fivr5k/videos/FagT-i99CXk.mp4",
+    "average_rate": 25.0,
+    "duration": 115.61215419501134,
+    "nb_frames": 2889,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/FagT-i99CXk.tar",
+    "frame_archive_length": 2890
+  },
+  "Fbo1GLSgrkU": {
+    "video": "/mlsun/ms/fivr5k/videos/Fbo1GLSgrkU.mp4",
+    "average_rate": 30.0,
+    "duration": 35.99092970521542,
+    "nb_frames": 1077,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/Fbo1GLSgrkU.tar",
+    "frame_archive_length": 1078
+  },
+  "FcjkBo4FsSU": {
+    "video": "/mlsun/ms/fivr5k/videos/FcjkBo4FsSU.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 84.07945578231292,
+    "nb_frames": 2518,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/FcjkBo4FsSU.tar",
+    "frame_archive_length": 2519
+  },
+  "Fd_VXxpmck8": {
+    "video": "/mlsun/ms/fivr5k/videos/Fd_VXxpmck8.mp4",
+    "average_rate": 25.0,
+    "duration": 59.4,
+    "nb_frames": 0,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/Fd_VXxpmck8.tar",
+    "frame_archive_length": 1486
+  },
+  "FdiEwJp47QY": {
+    "video": "/mlsun/ms/fivr5k/videos/FdiEwJp47QY.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 57.05142857142857,
+    "nb_frames": 1705,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/FdiEwJp47QY.tar",
+    "frame_archive_length": 1706
+  },
+  "Fe6CkmJ346o": {
+    "video": "/mlsun/ms/fivr5k/videos/Fe6CkmJ346o.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 64.78367346938775,
+    "nb_frames": 1937,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/Fe6CkmJ346o.tar",
+    "frame_archive_length": 1938
+  },
+  "FeRgZ3nZAo0": {
+    "video": "/mlsun/ms/fivr5k/videos/FeRgZ3nZAo0.mp4",
+    "average_rate": 25.0,
+    "duration": 50.108662131519274,
+    "nb_frames": 1251,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/FeRgZ3nZAo0.tar",
+    "frame_archive_length": 1252
+  },
+  "FevQZHuJQcs": {
+    "video": "/mlsun/ms/fivr5k/videos/FevQZHuJQcs.mp4",
+    "average_rate": 24.871653832049873,
+    "duration": 109.13378684807256,
+    "nb_frames": 2713,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/FevQZHuJQcs.tar",
+    "frame_archive_length": 2714
+  },
+  "FfmQrQqTuLI": {
+    "video": "/mlsun/ms/fivr5k/videos/FfmQrQqTuLI.mp4",
+    "average_rate": 29.886578449905482,
+    "duration": 35.34077097505669,
+    "nb_frames": 1054,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/FfmQrQqTuLI.tar",
+    "frame_archive_length": 1055
+  },
+  "FgGB-blDKfk": {
+    "video": "/mlsun/ms/fivr5k/videos/FgGB-blDKfk.mp4",
+    "average_rate": 25.0,
+    "duration": 38.10394557823129,
+    "nb_frames": 951,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/FgGB-blDKfk.tar",
+    "frame_archive_length": 952
+  },
+  "FgUpceh9wlU": {
+    "video": "/mlsun/ms/fivr5k/videos/FgUpceh9wlU.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 145.9374149659864,
+    "nb_frames": 4372,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/FgUpceh9wlU.tar",
+    "frame_archive_length": 4373
+  },
+  "Fgi-dKq1p8w": {
+    "video": "/mlsun/ms/fivr5k/videos/Fgi-dKq1p8w.mp4",
+    "average_rate": 25.0,
+    "duration": 249.66095238095238,
+    "nb_frames": 6240,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/Fgi-dKq1p8w.tar",
+    "frame_archive_length": 6241
+  },
+  "FhctWjGSM_U": {
+    "video": "/mlsun/ms/fivr5k/videos/FhctWjGSM_U.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 245.04018140589568,
+    "nb_frames": 7342,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/FhctWjGSM_U.tar",
+    "frame_archive_length": 7343
+  },
+  "FhmWfjyzVI0": {
+    "video": "/mlsun/ms/fivr5k/videos/FhmWfjyzVI0.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 106.53315192743764,
+    "nb_frames": 3191,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/FhmWfjyzVI0.tar",
+    "frame_archive_length": 3192
+  },
+  "FiJ375QogJk": {
+    "video": "/mlsun/ms/fivr5k/videos/FiJ375QogJk.mp4",
+    "average_rate": 20.0,
+    "duration": 169.06448979591838,
+    "nb_frames": 3380,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/FiJ375QogJk.tar",
+    "frame_archive_length": 3381
+  },
+  "FiUrfDjxAio": {
+    "video": "/mlsun/ms/fivr5k/videos/FiUrfDjxAio.mp4",
+    "average_rate": 30.0,
+    "duration": 33.599274376417235,
+    "nb_frames": 1003,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/FiUrfDjxAio.tar",
+    "frame_archive_length": 1004
+  },
+  "FkMnDgmxnsk": {
+    "video": "/mlsun/ms/fivr5k/videos/FkMnDgmxnsk.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 102.95727891156463,
+    "nb_frames": 3082,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/FkMnDgmxnsk.tar",
+    "frame_archive_length": 3083
+  },
+  "Fkn5LyICsUc": {
+    "video": "/mlsun/ms/fivr5k/videos/Fkn5LyICsUc.mp4",
+    "average_rate": 30.0,
+    "duration": 25.123990929705215,
+    "nb_frames": 752,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/Fkn5LyICsUc.tar",
+    "frame_archive_length": 753
+  },
+  "Fl0sEYaX9bo": {
+    "video": "/mlsun/ms/fivr5k/videos/Fl0sEYaX9bo.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 23.777233560090703,
+    "nb_frames": 710,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/Fl0sEYaX9bo.tar",
+    "frame_archive_length": 711
+  },
+  "Fl4YhQ4x8zo": {
+    "video": "/mlsun/ms/fivr5k/videos/Fl4YhQ4x8zo.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 41.703038548752836,
+    "nb_frames": 1248,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/Fl4YhQ4x8zo.tar",
+    "frame_archive_length": 1249
+  },
+  "FlWiypOxoZk": {
+    "video": "/mlsun/ms/fivr5k/videos/FlWiypOxoZk.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 57.88734693877551,
+    "nb_frames": 1730,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/FlWiypOxoZk.tar",
+    "frame_archive_length": 1731
+  },
+  "FmSi1zTgzmc": {
+    "video": "/mlsun/ms/fivr5k/videos/FmSi1zTgzmc.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 48.854784580498865,
+    "nb_frames": 1462,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/FmSi1zTgzmc.tar",
+    "frame_archive_length": 1463
+  },
+  "Fn5Qm3arw9I": {
+    "video": "/mlsun/ms/fivr5k/videos/Fn5Qm3arw9I.mp4",
+    "average_rate": 30.0,
+    "duration": 47.94920634920635,
+    "nb_frames": 1436,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/Fn5Qm3arw9I.tar",
+    "frame_archive_length": 1437
+  },
+  "FnP1x4V0goY": {
+    "video": "/mlsun/ms/fivr5k/videos/FnP1x4V0goY.mp4",
+    "average_rate": 25.0,
+    "duration": 80.68934240362812,
+    "nb_frames": 2015,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/FnP1x4V0goY.tar",
+    "frame_archive_length": 2016
+  },
+  "Fo06dtoIdV0": {
+    "video": "/mlsun/ms/fivr5k/videos/Fo06dtoIdV0.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 30.812879818594105,
+    "nb_frames": 920,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/Fo06dtoIdV0.tar",
+    "frame_archive_length": 921
+  },
+  "FoMeTDtftqw": {
+    "video": "/mlsun/ms/fivr5k/videos/FoMeTDtftqw.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 39.19528344671202,
+    "nb_frames": 1173,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/FoMeTDtftqw.tar",
+    "frame_archive_length": 1174
+  },
+  "Fs93MKIKICQ": {
+    "video": "/mlsun/ms/fivr5k/videos/Fs93MKIKICQ.mp4",
+    "average_rate": 25.0,
+    "duration": 60.929160997732424,
+    "nb_frames": 1522,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/Fs93MKIKICQ.tar",
+    "frame_archive_length": 1523
+  },
+  "FsnUU2t51jE": {
+    "video": "/mlsun/ms/fivr5k/videos/FsnUU2t51jE.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 193.97950113378684,
+    "nb_frames": 5812,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/FsnUU2t51jE.tar",
+    "frame_archive_length": 5813
+  },
+  "FszkxraWtZQ": {
+    "video": "/mlsun/ms/fivr5k/videos/FszkxraWtZQ.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 191.12344671201814,
+    "nb_frames": 5726,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/FszkxraWtZQ.tar",
+    "frame_archive_length": 5727
+  },
+  "FtKgI0aOKuM": {
+    "video": "/mlsun/ms/fivr5k/videos/FtKgI0aOKuM.mp4",
+    "average_rate": 30.0,
+    "duration": 43.30521541950113,
+    "nb_frames": 1296,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/FtKgI0aOKuM.tar",
+    "frame_archive_length": 1297
+  },
+  "FvIXDBEioHQ": {
+    "video": "/mlsun/ms/fivr5k/videos/FvIXDBEioHQ.mp4",
+    "average_rate": 30.0,
+    "duration": 118.65396825396826,
+    "nb_frames": 3556,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/FvIXDBEioHQ.tar",
+    "frame_archive_length": 3557
+  },
+  "FvcRE7-bnBM": {
+    "video": "/mlsun/ms/fivr5k/videos/FvcRE7-bnBM.mp4",
+    "average_rate": 23.976023976023978,
+    "duration": 24.86857142857143,
+    "nb_frames": 595,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/FvcRE7-bnBM.tar",
+    "frame_archive_length": 596
+  },
+  "FxAEAGX0zLo": {
+    "video": "/mlsun/ms/fivr5k/videos/FxAEAGX0zLo.mp4",
+    "average_rate": 23.976023976023978,
+    "duration": 55.65823129251701,
+    "nb_frames": 1333,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/FxAEAGX0zLo.tar",
+    "frame_archive_length": 1334
+  },
+  "Fxi6krsx_B4": {
+    "video": "/mlsun/ms/fivr5k/videos/Fxi6krsx_B4.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 26.308208616780046,
+    "nb_frames": 787,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/Fxi6krsx_B4.tar",
+    "frame_archive_length": 788
+  },
+  "FzLhydQ0Kzs": {
+    "video": "/mlsun/ms/fivr5k/videos/FzLhydQ0Kzs.mp4",
+    "average_rate": 29.903459372485923,
+    "duration": 41.4940589569161,
+    "nb_frames": 1239,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/FzLhydQ0Kzs.tar",
+    "frame_archive_length": 1240
+  },
+  "G-0R0v-BULI": {
+    "video": "/mlsun/ms/fivr5k/videos/G-0R0v-BULI.mp4",
+    "average_rate": 15.0,
+    "duration": 83.61505668934241,
+    "nb_frames": 1253,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/G-0R0v-BULI.tar",
+    "frame_archive_length": 1254
+  },
+  "G0GOc-e4bo0": {
+    "video": "/mlsun/ms/fivr5k/videos/G0GOc-e4bo0.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 119.30412698412698,
+    "nb_frames": 3574,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/G0GOc-e4bo0.tar",
+    "frame_archive_length": 3575
+  },
+  "G0GzqXV3M64": {
+    "video": "/mlsun/ms/fivr5k/videos/G0GzqXV3M64.mp4",
+    "average_rate": 25.0,
+    "duration": 124.45895691609978,
+    "nb_frames": 3108,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/G0GzqXV3M64.tar",
+    "frame_archive_length": 3109
+  },
+  "G2Sxl1gCxq8": {
+    "video": "/mlsun/ms/fivr5k/videos/G2Sxl1gCxq8.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 49.049,
+    "nb_frames": 0,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/G2Sxl1gCxq8.tar",
+    "frame_archive_length": 1471
+  },
+  "G2wzBen6HZ0": {
+    "video": "/mlsun/ms/fivr5k/videos/G2wzBen6HZ0.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 85.77451247165533,
+    "nb_frames": 2567,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/G2wzBen6HZ0.tar",
+    "frame_archive_length": 2568
+  },
+  "G4Uo8YaCMQ8": {
+    "video": "/mlsun/ms/fivr5k/videos/G4Uo8YaCMQ8.mp4",
+    "average_rate": 25.0,
+    "duration": 61.11492063492064,
+    "nb_frames": 1526,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/G4Uo8YaCMQ8.tar",
+    "frame_archive_length": 1527
+  },
+  "G633q9gQUH8": {
+    "video": "/mlsun/ms/fivr5k/videos/G633q9gQUH8.mp4",
+    "average_rate": 30.0,
+    "duration": 73.04997732426304,
+    "nb_frames": 2190,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/G633q9gQUH8.tar",
+    "frame_archive_length": 2191
+  },
+  "G6F8H99WSew": {
+    "video": "/mlsun/ms/fivr5k/videos/G6F8H99WSew.mp4",
+    "average_rate": 24.86888111888112,
+    "duration": 91.57950113378685,
+    "nb_frames": 2276,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/G6F8H99WSew.tar",
+    "frame_archive_length": 2277
+  },
+  "G6QEL_iLkac": {
+    "video": "/mlsun/ms/fivr5k/videos/G6QEL_iLkac.mp4",
+    "average_rate": 25.0,
+    "duration": 126.66485260770975,
+    "nb_frames": 3165,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/G6QEL_iLkac.tar",
+    "frame_archive_length": 3166
+  },
+  "G8Anc5UGzNY": {
+    "video": "/mlsun/ms/fivr5k/videos/G8Anc5UGzNY.mp4",
+    "average_rate": 24.875710227272727,
+    "duration": 225.32643990929705,
+    "nb_frames": 5604,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/G8Anc5UGzNY.tar",
+    "frame_archive_length": 5605
+  },
+  "G8EYWALW7j4": {
+    "video": "/mlsun/ms/fivr5k/videos/G8EYWALW7j4.mp4",
+    "average_rate": 29.91769547325103,
+    "duration": 24.357732426303855,
+    "nb_frames": 727,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/G8EYWALW7j4.tar",
+    "frame_archive_length": 728
+  },
+  "G8G58vbl30I": {
+    "video": "/mlsun/ms/fivr5k/videos/G8G58vbl30I.mp4",
+    "average_rate": 30.0,
+    "duration": 27.16734693877551,
+    "nb_frames": 812,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/G8G58vbl30I.tar",
+    "frame_archive_length": 813
+  },
+  "G9ans_5cSfI": {
+    "video": "/mlsun/ms/fivr5k/videos/G9ans_5cSfI.mp4",
+    "average_rate": 25.0,
+    "duration": 57.0,
+    "nb_frames": 0,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/G9ans_5cSfI.tar",
+    "frame_archive_length": 1426
+  },
+  "GAHNU4kq3fU": {
+    "video": "/mlsun/ms/fivr5k/videos/GAHNU4kq3fU.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 34.08689342403628,
+    "nb_frames": 1020,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/GAHNU4kq3fU.tar",
+    "frame_archive_length": 1021
+  },
+  "GAScDpAkJHs": {
+    "video": "/mlsun/ms/fivr5k/videos/GAScDpAkJHs.mp4",
+    "average_rate": 29.659,
+    "duration": 112.5471201814059,
+    "nb_frames": 3336,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/GAScDpAkJHs.tar",
+    "frame_archive_length": 3337
+  },
+  "GAjwd87cz3I": {
+    "video": "/mlsun/ms/fivr5k/videos/GAjwd87cz3I.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 38.17360544217687,
+    "nb_frames": 1142,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/GAjwd87cz3I.tar",
+    "frame_archive_length": 1143
+  },
+  "GBUcmOXpLIk": {
+    "video": "/mlsun/ms/fivr5k/videos/GBUcmOXpLIk.mp4",
+    "average_rate": 30.0,
+    "duration": 222.90033333333332,
+    "nb_frames": 0,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/GBUcmOXpLIk.tar",
+    "frame_archive_length": 6688
+  },
+  "GBp16fbuHcs": {
+    "video": "/mlsun/ms/fivr5k/videos/GBp16fbuHcs.mp4",
+    "average_rate": 30.0,
+    "duration": 132.19120181405896,
+    "nb_frames": 3963,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/GBp16fbuHcs.tar",
+    "frame_archive_length": 3964
+  },
+  "GC5TxOXK1Zg": {
+    "video": "/mlsun/ms/fivr5k/videos/GC5TxOXK1Zg.mp4",
+    "average_rate": 30.0,
+    "duration": 145.96666666666667,
+    "nb_frames": 0,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/GC5TxOXK1Zg.tar",
+    "frame_archive_length": 4380
+  },
+  "GEjxZmF6dKc": {
+    "video": "/mlsun/ms/fivr5k/videos/GEjxZmF6dKc.mp4",
+    "average_rate": 30.0,
+    "duration": 276.15492063492064,
+    "nb_frames": 8283,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/GEjxZmF6dKc.tar",
+    "frame_archive_length": 8284
+  },
+  "GFJgdzZUmwQ": {
+    "video": "/mlsun/ms/fivr5k/videos/GFJgdzZUmwQ.mp4",
+    "average_rate": 30.0,
+    "duration": 77.53142857142858,
+    "nb_frames": 2323,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/GFJgdzZUmwQ.tar",
+    "frame_archive_length": 2324
+  },
+  "GGcF4gcql34": {
+    "video": "/mlsun/ms/fivr5k/videos/GGcF4gcql34.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 128.661768707483,
+    "nb_frames": 3854,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/GGcF4gcql34.tar",
+    "frame_archive_length": 3855
+  },
+  "GH4xkCn6gI4": {
+    "video": "/mlsun/ms/fivr5k/videos/GH4xkCn6gI4.mp4",
+    "average_rate": 30.0,
+    "duration": 121.2778231292517,
+    "nb_frames": 3637,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/GH4xkCn6gI4.tar",
+    "frame_archive_length": 3638
+  },
+  "GHeH5DiHlX8": {
+    "video": "/mlsun/ms/fivr5k/videos/GHeH5DiHlX8.mp4",
+    "average_rate": 30.0,
+    "duration": 114.5904761904762,
+    "nb_frames": 3436,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/GHeH5DiHlX8.tar",
+    "frame_archive_length": 3437
+  },
+  "GHwL-PCbnhY": {
+    "video": "/mlsun/ms/fivr5k/videos/GHwL-PCbnhY.mp4",
+    "average_rate": 24.0,
+    "duration": 164.7455782312925,
+    "nb_frames": 3952,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/GHwL-PCbnhY.tar",
+    "frame_archive_length": 3953
+  },
+  "GI_aKoPMavM": {
+    "video": "/mlsun/ms/fivr5k/videos/GI_aKoPMavM.mp4",
+    "average_rate": 25.0,
+    "duration": 74.48,
+    "nb_frames": 0,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/GI_aKoPMavM.tar",
+    "frame_archive_length": 1863
+  },
+  "GIut2nQgr9E": {
+    "video": "/mlsun/ms/fivr5k/videos/GIut2nQgr9E.mp4",
+    "average_rate": 30.0,
+    "duration": 41.749478458049886,
+    "nb_frames": 1250,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/GIut2nQgr9E.tar",
+    "frame_archive_length": 1251
+  },
+  "GJij-4mt6SA": {
+    "video": "/mlsun/ms/fivr5k/videos/GJij-4mt6SA.mp4",
+    "average_rate": 29.464285714285715,
+    "duration": 48.59936507936508,
+    "nb_frames": 1430,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/GJij-4mt6SA.tar",
+    "frame_archive_length": 1431
+  },
+  "GK88HVbAO9I": {
+    "video": "/mlsun/ms/fivr5k/videos/GK88HVbAO9I.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 40.12408163265306,
+    "nb_frames": 1201,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/GK88HVbAO9I.tar",
+    "frame_archive_length": 1202
+  },
+  "GKEOehrPyuQ": {
+    "video": "/mlsun/ms/fivr5k/videos/GKEOehrPyuQ.mp4",
+    "average_rate": 19.869120654396728,
+    "duration": 122.29950113378685,
+    "nb_frames": 2429,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/GKEOehrPyuQ.tar",
+    "frame_archive_length": 2430
+  },
+  "GM3EF-mzSCA": {
+    "video": "/mlsun/ms/fivr5k/videos/GM3EF-mzSCA.mp4",
+    "average_rate": 25.0,
+    "duration": 52.38421768707483,
+    "nb_frames": 1308,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/GM3EF-mzSCA.tar",
+    "frame_archive_length": 1309
+  },
+  "GNJz5_P6n2I": {
+    "video": "/mlsun/ms/fivr5k/videos/GNJz5_P6n2I.mp4",
+    "average_rate": 28.447152643258086,
+    "duration": 72.12117913832199,
+    "nb_frames": 2050,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/GNJz5_P6n2I.tar",
+    "frame_archive_length": 2051
+  },
+  "GNWNN7KAgsI": {
+    "video": "/mlsun/ms/fivr5k/videos/GNWNN7KAgsI.mp4",
+    "average_rate": 30.0,
+    "duration": 132.51628117913833,
+    "nb_frames": 3973,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/GNWNN7KAgsI.tar",
+    "frame_archive_length": 3974
+  },
+  "GOAV9ocEq3o": {
+    "video": "/mlsun/ms/fivr5k/videos/GOAV9ocEq3o.mp4",
+    "average_rate": 25.0,
+    "duration": 56.14585034013606,
+    "nb_frames": 1402,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/GOAV9ocEq3o.tar",
+    "frame_archive_length": 1403
+  },
+  "GOLn6XyTIkQ": {
+    "video": "/mlsun/ms/fivr5k/videos/GOLn6XyTIkQ.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 52.70929705215419,
+    "nb_frames": 1578,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/GOLn6XyTIkQ.tar",
+    "frame_archive_length": 1579
+  },
+  "GOhSMq0LAww": {
+    "video": "/mlsun/ms/fivr5k/videos/GOhSMq0LAww.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 38.22004535147392,
+    "nb_frames": 1144,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/GOhSMq0LAww.tar",
+    "frame_archive_length": 1145
+  },
+  "GPKl5iblx9s": {
+    "video": "/mlsun/ms/fivr5k/videos/GPKl5iblx9s.mp4",
+    "average_rate": 30.0,
+    "duration": 190.12498866213153,
+    "nb_frames": 5700,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/GPKl5iblx9s.tar",
+    "frame_archive_length": 5701
+  },
+  "GRDLiIFPgYg": {
+    "video": "/mlsun/ms/fivr5k/videos/GRDLiIFPgYg.mp4",
+    "average_rate": 25.0,
+    "duration": 149.83836734693878,
+    "nb_frames": 3743,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/GRDLiIFPgYg.tar",
+    "frame_archive_length": 3744
+  },
+  "GSJBIIp-Eg0": {
+    "video": "/mlsun/ms/fivr5k/videos/GSJBIIp-Eg0.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 27.654965986394558,
+    "nb_frames": 827,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/GSJBIIp-Eg0.tar",
+    "frame_archive_length": 828
+  },
+  "GTAtgGVscPg": {
+    "video": "/mlsun/ms/fivr5k/videos/GTAtgGVscPg.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 47.206167800453514,
+    "nb_frames": 1413,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/GTAtgGVscPg.tar",
+    "frame_archive_length": 1414
+  },
+  "GTphP5kjQoE": {
+    "video": "/mlsun/ms/fivr5k/videos/GTphP5kjQoE.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 151.04580498866213,
+    "nb_frames": 4525,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/GTphP5kjQoE.tar",
+    "frame_archive_length": 4526
+  },
+  "GUED9_RXjH8": {
+    "video": "/mlsun/ms/fivr5k/videos/GUED9_RXjH8.mp4",
+    "average_rate": 23.976023976023978,
+    "duration": 108.4604081632653,
+    "nb_frames": 2599,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/GUED9_RXjH8.tar",
+    "frame_archive_length": 2600
+  },
+  "GUzaxPHpF6I": {
+    "video": "/mlsun/ms/fivr5k/videos/GUzaxPHpF6I.mp4",
+    "average_rate": 30.0,
+    "duration": 50.01578231292517,
+    "nb_frames": 1426,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/GUzaxPHpF6I.tar",
+    "frame_archive_length": 1427
+  },
+  "GV15pCqFR5c": {
+    "video": "/mlsun/ms/fivr5k/videos/GV15pCqFR5c.mp4",
+    "average_rate": 25.0,
+    "duration": 80.15528344671202,
+    "nb_frames": 2001,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/GV15pCqFR5c.tar",
+    "frame_archive_length": 2002
+  },
+  "GW4NIhevrSo": {
+    "video": "/mlsun/ms/fivr5k/videos/GW4NIhevrSo.mp4",
+    "average_rate": 25.0,
+    "duration": 96.61823129251701,
+    "nb_frames": 2414,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/GW4NIhevrSo.tar",
+    "frame_archive_length": 2415
+  },
+  "GZABFdNtu3o": {
+    "video": "/mlsun/ms/fivr5k/videos/GZABFdNtu3o.mp4",
+    "average_rate": 24.0,
+    "duration": 15.36,
+    "nb_frames": 362,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/GZABFdNtu3o.tar",
+    "frame_archive_length": 363
+  },
+  "G_YP-qESvzI": {
+    "video": "/mlsun/ms/fivr5k/videos/G_YP-qESvzI.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 94.62131519274377,
+    "nb_frames": 2831,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/G_YP-qESvzI.tar",
+    "frame_archive_length": 2832
+  },
+  "G__SET9kmQk": {
+    "video": "/mlsun/ms/fivr5k/videos/G__SET9kmQk.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 84.9385941043084,
+    "nb_frames": 2544,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/G__SET9kmQk.tar",
+    "frame_archive_length": 2545
+  },
+  "G_iITTY_TY8": {
+    "video": "/mlsun/ms/fivr5k/videos/G_iITTY_TY8.mp4",
+    "average_rate": 30.0,
+    "duration": 36.594648526077094,
+    "nb_frames": 1095,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/G_iITTY_TY8.tar",
+    "frame_archive_length": 1096
+  },
+  "GarRmZi32Y0": {
+    "video": "/mlsun/ms/fivr5k/videos/GarRmZi32Y0.mp4",
+    "average_rate": 25.0,
+    "duration": 35.68907029478458,
+    "nb_frames": 891,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/GarRmZi32Y0.tar",
+    "frame_archive_length": 892
+  },
+  "Gcah-B8YMOw": {
+    "video": "/mlsun/ms/fivr5k/videos/Gcah-B8YMOw.mp4",
+    "average_rate": 25.0,
+    "duration": 103.14303854875284,
+    "nb_frames": 2577,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/Gcah-B8YMOw.tar",
+    "frame_archive_length": 2578
+  },
+  "GcdF4TE2EWc": {
+    "video": "/mlsun/ms/fivr5k/videos/GcdF4TE2EWc.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 161.32783333333333,
+    "nb_frames": 0,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/GcdF4TE2EWc.tar",
+    "frame_archive_length": 4836
+  },
+  "GcnD2HJDVKo": {
+    "video": "/mlsun/ms/fivr5k/videos/GcnD2HJDVKo.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 119.30412698412698,
+    "nb_frames": 3572,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/GcnD2HJDVKo.tar",
+    "frame_archive_length": 3573
+  },
+  "GdbDE0-VumY": {
+    "video": "/mlsun/ms/fivr5k/videos/GdbDE0-VumY.mp4",
+    "average_rate": 25.0,
+    "duration": 243.78630385487529,
+    "nb_frames": 6092,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/GdbDE0-VumY.tar",
+    "frame_archive_length": 6093
+  },
+  "Gdk8IrVq-YE": {
+    "video": "/mlsun/ms/fivr5k/videos/Gdk8IrVq-YE.mp4",
+    "average_rate": 25.0,
+    "duration": 163.0273015873016,
+    "nb_frames": 4072,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/Gdk8IrVq-YE.tar",
+    "frame_archive_length": 4073
+  },
+  "GeIKeNq4qKQ": {
+    "video": "/mlsun/ms/fivr5k/videos/GeIKeNq4qKQ.mp4",
+    "average_rate": 25.0,
+    "duration": 138.94820861678005,
+    "nb_frames": 3472,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/GeIKeNq4qKQ.tar",
+    "frame_archive_length": 3473
+  },
+  "GfBe-HzS41U": {
+    "video": "/mlsun/ms/fivr5k/videos/GfBe-HzS41U.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 18.3437641723356,
+    "nb_frames": 545,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/GfBe-HzS41U.tar",
+    "frame_archive_length": 546
+  },
+  "GfnPiFR0tlo": {
+    "video": "/mlsun/ms/fivr5k/videos/GfnPiFR0tlo.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 51.57151927437642,
+    "nb_frames": 1544,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/GfnPiFR0tlo.tar",
+    "frame_archive_length": 1545
+  },
+  "GgLhpVm7TuI": {
+    "video": "/mlsun/ms/fivr5k/videos/GgLhpVm7TuI.mp4",
+    "average_rate": 24.87419945105215,
+    "duration": 174.93913832199547,
+    "nb_frames": 4350,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/GgLhpVm7TuI.tar",
+    "frame_archive_length": 4351
+  },
+  "Ggh3OFlAuHs": {
+    "video": "/mlsun/ms/fivr5k/videos/Ggh3OFlAuHs.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 54.24181405895692,
+    "nb_frames": 1621,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/Ggh3OFlAuHs.tar",
+    "frame_archive_length": 1622
+  },
+  "Gjapb0YisB8": {
+    "video": "/mlsun/ms/fivr5k/videos/Gjapb0YisB8.mp4",
+    "average_rate": 30.0,
+    "duration": 70.4261224489796,
+    "nb_frames": 2111,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/Gjapb0YisB8.tar",
+    "frame_archive_length": 2112
+  },
+  "GlBjhAlrSmE": {
+    "video": "/mlsun/ms/fivr5k/videos/GlBjhAlrSmE.mp4",
+    "average_rate": 24.88645038167939,
+    "duration": 105.79011337868481,
+    "nb_frames": 2630,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/GlBjhAlrSmE.tar",
+    "frame_archive_length": 2631
+  },
+  "Gmf1ICRDoR0": {
+    "video": "/mlsun/ms/fivr5k/videos/Gmf1ICRDoR0.mp4",
+    "average_rate": 30.0,
+    "duration": 24.427392290249433,
+    "nb_frames": 731,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/Gmf1ICRDoR0.tar",
+    "frame_archive_length": 732
+  },
+  "GmnGSOwZa0c": {
+    "video": "/mlsun/ms/fivr5k/videos/GmnGSOwZa0c.mp4",
+    "average_rate": 30.0,
+    "duration": 43.599666666666664,
+    "nb_frames": 0,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/GmnGSOwZa0c.tar",
+    "frame_archive_length": 1309
+  },
+  "Go9mZ9RZ1F0": {
+    "video": "/mlsun/ms/fivr5k/videos/Go9mZ9RZ1F0.mp4",
+    "average_rate": 25.0,
+    "duration": 53.28,
+    "nb_frames": 0,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/Go9mZ9RZ1F0.tar",
+    "frame_archive_length": 1333
+  },
+  "GoHUB0BlltQ": {
+    "video": "/mlsun/ms/fivr5k/videos/GoHUB0BlltQ.mp4",
+    "average_rate": 30.0,
+    "duration": 16.532607709750568,
+    "nb_frames": 494,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/GoHUB0BlltQ.tar",
+    "frame_archive_length": 495
+  },
+  "GoODx8m-JlE": {
+    "video": "/mlsun/ms/fivr5k/videos/GoODx8m-JlE.mp4",
+    "average_rate": 30.0,
+    "duration": 71.07628117913832,
+    "nb_frames": 2127,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/GoODx8m-JlE.tar",
+    "frame_archive_length": 2128
+  },
+  "Goo4gwJyzfE": {
+    "video": "/mlsun/ms/fivr5k/videos/Goo4gwJyzfE.mp4",
+    "average_rate": 24.884526558891455,
+    "duration": 86.68009070294785,
+    "nb_frames": 2155,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/Goo4gwJyzfE.tar",
+    "frame_archive_length": 2156
+  },
+  "Gq9YjVwxUfA": {
+    "video": "/mlsun/ms/fivr5k/videos/Gq9YjVwxUfA.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 133.88625850340136,
+    "nb_frames": 4011,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/Gq9YjVwxUfA.tar",
+    "frame_archive_length": 4012
+  },
+  "GrX8wHhUyUo": {
+    "video": "/mlsun/ms/fivr5k/videos/GrX8wHhUyUo.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 29.976961451247167,
+    "nb_frames": 897,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/GrX8wHhUyUo.tar",
+    "frame_archive_length": 898
+  },
+  "GryOQXWegMQ": {
+    "video": "/mlsun/ms/fivr5k/videos/GryOQXWegMQ.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 95.31791383219955,
+    "nb_frames": 2853,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/GryOQXWegMQ.tar",
+    "frame_archive_length": 2854
+  },
+  "GtF_aVus-AE": {
+    "video": "/mlsun/ms/fivr5k/videos/GtF_aVus-AE.mp4",
+    "average_rate": 24.898373983739837,
+    "duration": 59.11800453514739,
+    "nb_frames": 1470,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/GtF_aVus-AE.tar",
+    "frame_archive_length": 1471
+  },
+  "GvefiXmXiic": {
+    "video": "/mlsun/ms/fivr5k/videos/GvefiXmXiic.mp4",
+    "average_rate": 30.0,
+    "duration": 99.07954648526078,
+    "nb_frames": 2969,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/GvefiXmXiic.tar",
+    "frame_archive_length": 2970
+  },
+  "GwUyw1S4vyw": {
+    "video": "/mlsun/ms/fivr5k/videos/GwUyw1S4vyw.mp4",
+    "average_rate": 25.0,
+    "duration": 98.2204081632653,
+    "nb_frames": 2454,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/GwUyw1S4vyw.tar",
+    "frame_archive_length": 2455
+  },
+  "GwWbLAqUf8s": {
+    "video": "/mlsun/ms/fivr5k/videos/GwWbLAqUf8s.mp4",
+    "average_rate": 25.0,
+    "duration": 19.086802721088436,
+    "nb_frames": 476,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/GwWbLAqUf8s.tar",
+    "frame_archive_length": 477
+  },
+  "GxzhhVnZ2m8": {
+    "video": "/mlsun/ms/fivr5k/videos/GxzhhVnZ2m8.mp4",
+    "average_rate": 24.89501312335958,
+    "duration": 76.3007709750567,
+    "nb_frames": 1897,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/GxzhhVnZ2m8.tar",
+    "frame_archive_length": 1898
+  },
+  "Gy8L8FGwBto": {
+    "video": "/mlsun/ms/fivr5k/videos/Gy8L8FGwBto.mp4",
+    "average_rate": 30.0,
+    "duration": 103.07337868480725,
+    "nb_frames": 3090,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/Gy8L8FGwBto.tar",
+    "frame_archive_length": 3091
+  },
+  "GyP_vT3YTmc": {
+    "video": "/mlsun/ms/fivr5k/videos/GyP_vT3YTmc.mp4",
+    "average_rate": 30.0,
+    "duration": 116.5641723356009,
+    "nb_frames": 3495,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/GyP_vT3YTmc.tar",
+    "frame_archive_length": 3496
+  },
+  "Gy_8vq-qJQo": {
+    "video": "/mlsun/ms/fivr5k/videos/Gy_8vq-qJQo.mp4",
+    "average_rate": 30.0,
+    "duration": 194.7225396825397,
+    "nb_frames": 5839,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/Gy_8vq-qJQo.tar",
+    "frame_archive_length": 5840
+  },
+  "Gzw3VawEX5E": {
+    "video": "/mlsun/ms/fivr5k/videos/Gzw3VawEX5E.mp4",
+    "average_rate": 30.0,
+    "duration": 130.05496598639456,
+    "nb_frames": 3900,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/Gzw3VawEX5E.tar",
+    "frame_archive_length": 3901
+  },
+  "H2yJ3nIEMX8": {
+    "video": "/mlsun/ms/fivr5k/videos/H2yJ3nIEMX8.mp4",
+    "average_rate": 29.877246821569486,
+    "duration": 228.15927437641724,
+    "nb_frames": 6815,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/H2yJ3nIEMX8.tar",
+    "frame_archive_length": 6816
+  },
+  "H31TaUM9YLY": {
+    "video": "/mlsun/ms/fivr5k/videos/H31TaUM9YLY.mp4",
+    "average_rate": 29.842,
+    "duration": 38.61478458049886,
+    "nb_frames": 1147,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/H31TaUM9YLY.tar",
+    "frame_archive_length": 1148
+  },
+  "H3XLMIMmtl0": {
+    "video": "/mlsun/ms/fivr5k/videos/H3XLMIMmtl0.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 88.65378684807256,
+    "nb_frames": 2655,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/H3XLMIMmtl0.tar",
+    "frame_archive_length": 2656
+  },
+  "H6-i1d7-xSI": {
+    "video": "/mlsun/ms/fivr5k/videos/H6-i1d7-xSI.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 28.908843537414967,
+    "nb_frames": 865,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/H6-i1d7-xSI.tar",
+    "frame_archive_length": 866
+  },
+  "H80R2aeq6pU": {
+    "video": "/mlsun/ms/fivr5k/videos/H80R2aeq6pU.mp4",
+    "average_rate": 24.0,
+    "duration": 193.53832199546486,
+    "nb_frames": 4643,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/H80R2aeq6pU.tar",
+    "frame_archive_length": 4644
+  },
+  "H8F81VNostM": {
+    "video": "/mlsun/ms/fivr5k/videos/H8F81VNostM.mp4",
+    "average_rate": 25.0,
+    "duration": 77.15990929705215,
+    "nb_frames": 1926,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/H8F81VNostM.tar",
+    "frame_archive_length": 1927
+  },
+  "HAT-0JjaSug": {
+    "video": "/mlsun/ms/fivr5k/videos/HAT-0JjaSug.mp4",
+    "average_rate": 25.0,
+    "duration": 269.815873015873,
+    "nb_frames": 6744,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/HAT-0JjaSug.tar",
+    "frame_archive_length": 6745
+  },
+  "HAzAJhMmYfs": {
+    "video": "/mlsun/ms/fivr5k/videos/HAzAJhMmYfs.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 190.07854875283448,
+    "nb_frames": 5695,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/HAzAJhMmYfs.tar",
+    "frame_archive_length": 5696
+  },
+  "HCAKBUKNKFY": {
+    "video": "/mlsun/ms/fivr5k/videos/HCAKBUKNKFY.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 27.28344671201814,
+    "nb_frames": 816,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/HCAKBUKNKFY.tar",
+    "frame_archive_length": 817
+  },
+  "HDysBUULJt8": {
+    "video": "/mlsun/ms/fivr5k/videos/HDysBUULJt8.mp4",
+    "average_rate": 25.0,
+    "duration": 285.4661224489796,
+    "nb_frames": 7135,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/HDysBUULJt8.tar",
+    "frame_archive_length": 7136
+  },
+  "HFCVrN-7GBM": {
+    "video": "/mlsun/ms/fivr5k/videos/HFCVrN-7GBM.mp4",
+    "average_rate": 23.976070428617064,
+    "duration": 172.10630385487528,
+    "nb_frames": 4125,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/HFCVrN-7GBM.tar",
+    "frame_archive_length": 4126
+  },
+  "HFq2eycPL5I": {
+    "video": "/mlsun/ms/fivr5k/videos/HFq2eycPL5I.mp4",
+    "average_rate": 29.86984815618221,
+    "duration": 76.95092970521542,
+    "nb_frames": 2295,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/HFq2eycPL5I.tar",
+    "frame_archive_length": 2296
+  },
+  "HGIeBj8d8A0": {
+    "video": "/mlsun/ms/fivr5k/videos/HGIeBj8d8A0.mp4",
+    "average_rate": 24.694,
+    "duration": 229.34349206349205,
+    "nb_frames": 5662,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/HGIeBj8d8A0.tar",
+    "frame_archive_length": 5663
+  },
+  "HGg-qVQtn1M": {
+    "video": "/mlsun/ms/fivr5k/videos/HGg-qVQtn1M.mp4",
+    "average_rate": 25.0,
+    "duration": 264.76,
+    "nb_frames": 0,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/HGg-qVQtn1M.tar",
+    "frame_archive_length": 6620
+  },
+  "HH1sKPbFgnU": {
+    "video": "/mlsun/ms/fivr5k/videos/HH1sKPbFgnU.mp4",
+    "average_rate": 24.0,
+    "duration": 104.02539682539683,
+    "nb_frames": 2494,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/HH1sKPbFgnU.tar",
+    "frame_archive_length": 2495
+  },
+  "HIbIGjtD1f0": {
+    "video": "/mlsun/ms/fivr5k/videos/HIbIGjtD1f0.mp4",
+    "average_rate": 29.885408708938122,
+    "duration": 87.33024943310657,
+    "nb_frames": 2608,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/HIbIGjtD1f0.tar",
+    "frame_archive_length": 2609
+  },
+  "HJHUqlOlc5Q": {
+    "video": "/mlsun/ms/fivr5k/videos/HJHUqlOlc5Q.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 96.9665306122449,
+    "nb_frames": 2902,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/HJHUqlOlc5Q.tar",
+    "frame_archive_length": 2903
+  },
+  "HKxM02N91nM": {
+    "video": "/mlsun/ms/fivr5k/videos/HKxM02N91nM.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 105.92943310657597,
+    "nb_frames": 3173,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/HKxM02N91nM.tar",
+    "frame_archive_length": 3174
+  },
+  "HLPLrTFDjxI": {
+    "video": "/mlsun/ms/fivr5k/videos/HLPLrTFDjxI.mp4",
+    "average_rate": 6.0,
+    "duration": 7.546485260770975,
+    "nb_frames": 45,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/HLPLrTFDjxI.tar",
+    "frame_archive_length": 46
+  },
+  "HMvDXga8UZM": {
+    "video": "/mlsun/ms/fivr5k/videos/HMvDXga8UZM.mp4",
+    "average_rate": 29.873,
+    "duration": 94.45877551020408,
+    "nb_frames": 2819,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/HMvDXga8UZM.tar",
+    "frame_archive_length": 2820
+  },
+  "HN4c13LgFX4": {
+    "video": "/mlsun/ms/fivr5k/videos/HN4c13LgFX4.mp4",
+    "average_rate": 29.97011539135726,
+    "duration": 46.88108843537415,
+    "nb_frames": 1402,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/HN4c13LgFX4.tar",
+    "frame_archive_length": 1403
+  },
+  "HN5rLEd664I": {
+    "video": "/mlsun/ms/fivr5k/videos/HN5rLEd664I.mp4",
+    "average_rate": 29.876796714579054,
+    "duration": 64.99265306122449,
+    "nb_frames": 1940,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/HN5rLEd664I.tar",
+    "frame_archive_length": 1941
+  },
+  "HO7gL-7hD-s": {
+    "video": "/mlsun/ms/fivr5k/videos/HO7gL-7hD-s.mp4",
+    "average_rate": 28.87394349191017,
+    "duration": 142.84916099773244,
+    "nb_frames": 4123,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/HO7gL-7hD-s.tar",
+    "frame_archive_length": 4124
+  },
+  "HPcSCHjA1f0": {
+    "video": "/mlsun/ms/fivr5k/videos/HPcSCHjA1f0.mp4",
+    "average_rate": 23.976023976023978,
+    "duration": 35.59619047619048,
+    "nb_frames": 852,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/HPcSCHjA1f0.tar",
+    "frame_archive_length": 853
+  },
+  "HPm4AgRPt4c": {
+    "video": "/mlsun/ms/fivr5k/videos/HPm4AgRPt4c.mp4",
+    "average_rate": 25.0,
+    "duration": 106.50993197278912,
+    "nb_frames": 2660,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/HPm4AgRPt4c.tar",
+    "frame_archive_length": 2661
+  },
+  "HPwwu5sUj8I": {
+    "video": "/mlsun/ms/fivr5k/videos/HPwwu5sUj8I.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 145.24081632653062,
+    "nb_frames": 4350,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/HPwwu5sUj8I.tar",
+    "frame_archive_length": 4351
+  },
+  "HQhgMMgq5r4": {
+    "video": "/mlsun/ms/fivr5k/videos/HQhgMMgq5r4.mp4",
+    "average_rate": 25.0,
+    "duration": 83.4292970521542,
+    "nb_frames": 2084,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/HQhgMMgq5r4.tar",
+    "frame_archive_length": 2085
+  },
+  "HRhmwpB23bk": {
+    "video": "/mlsun/ms/fivr5k/videos/HRhmwpB23bk.mp4",
+    "average_rate": 29.97002997002997,
+    "duration": 226.02303854875282,
+    "nb_frames": 6772,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/HRhmwpB23bk.tar",
+    "frame_archive_length": 6773
+  },
+  "HS5fvRwa5Zs": {
+    "video": "/mlsun/ms/fivr5k/videos/HS5fvRwa5Zs.mp4",
+    "average_rate": 30.0,
+    "duration": 92.36897959183673,
+    "nb_frames": 2768,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/HS5fvRwa5Zs.tar",
+    "frame_archive_length": 2769
+  },
+  "HS9lfmS1T3E": {
+    "video": "/mlsun/ms/fivr5k/videos/HS9lfmS1T3E.mp4",
+    "average_rate": 25.0,
+    "duration": 46.99718820861678,
+    "nb_frames": 1173,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/HS9lfmS1T3E.tar",
+    "frame_archive_length": 1174
+  },
+  "HSijmpA8j9s": {
+    "video": "/mlsun/ms/fivr5k/videos/HSijmpA8j9s.mp4",
+    "average_rate": 30.0,
+    "duration": 55.077732426303854,
+    "nb_frames": 1649,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/HSijmpA8j9s.tar",
+    "frame_archive_length": 1650
+  },
+  "HSvO0gImWNE": {
+    "video": "/mlsun/ms/fivr5k/videos/HSvO0gImWNE.mp4",
+    "average_rate": 25.0,
+    "duration": 178.81687074829932,
+    "nb_frames": 4468,
+    "frame_archive": "/mlsun/ms/fivr5k/frames-tar/HSvO0gImWNE.tar",
+    "frame_archive_length": 4469
+  }
+}
